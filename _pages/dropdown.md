@@ -10,4 +10,5 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+published: false    # 此页不会出现在输出目录
 ---
