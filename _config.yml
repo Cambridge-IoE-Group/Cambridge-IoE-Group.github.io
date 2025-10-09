@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Internet of Everything (IoE) # blog_name will be displayed in your blog page
-blog_description: Latest news and updates from the Cambridge IoE Group.
+blog_name: Internet of Everything # blog_name will be displayed in your blog page
+blog_description: Latest news and updates.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
