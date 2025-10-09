@@ -193,6 +193,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/repositories.md # exclude page by Hanlin
+  - _pages/cv.md # exclude page by Hanlin
+  - _pages/submenus.md # exclude page by Hanlin
+
 keep_files:
   - CNAME
   - .nojekyll
