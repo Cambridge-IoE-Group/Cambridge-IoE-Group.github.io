@@ -1423,3 +1423,57 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+
+
+
+
+// Hanlin Cai modified the font type
+
+/* ===== Helvetica Neue — site-wide typography override ===== */
+
+/* 英文字体栈（macOS 原生 Helvetica Neue；其余平台回退到 Helvetica/Arial） */
+$font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+/* 等宽字体保持代码可读性 */
+$font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace !default;
+
+/* 基线设置：全站采用 Helvetica Neue */
+html { font-size: 16px; }      /* 如需整体缩放，调这里 */
+body {
+  font-family: $font-sans;
+  font-size: 1rem;
+  line-height: 1.7;
+  letter-spacing: 0.2px;       /* 英文微字距，增强可读性 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 标题也使用 Helvetica Neue（粗体、较紧的行距） */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-sans;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0;           /* 标题通常不加字距 */
+}
+
+/* 流式字号（可按需微调） */
+h1 { font-size: clamp(2rem, 2.5vw + 1rem, 3rem); }
+h2 { font-size: clamp(1.5rem, 1.6vw + .9rem, 2.25rem); }
+h3 { font-size: clamp(1.25rem, 1.1vw + .8rem, 1.75rem); }
+
+/* 代码区域保留等宽字体 */
+code, pre, kbd, samp {
+  font-family: $font-mono;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+/* 覆盖主题中“硬指定等宽体”的局部，使其回到 Helvetica Neue */
+.profile .more-info { font-family: $font-sans; }
+figure.cover figcaption { font-family: $font-sans; }
+
+/* （可选）正文结构的节奏 */
+p { margin: 0 0 1rem 0; }
+ul, ol { margin: 0 0 1rem 1.25rem; line-height: 1.7; }
+table td, table th { font-size: 0.95rem; padding: 4px 1rem 4px 0; }
