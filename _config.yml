@@ -9,18 +9,18 @@ last_name: ""
 contact_note: >
   PhD, master and undergraduate positions are available every year. Highly motivated and skilled students are invited to send their CV to Prof. Akan.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for Cambridge IoE Group!
+  Welcome to the website of the Internet of Everything Group at the University of Cambridge.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Designed by <a href="https://caihanlin.com/" target="_blank">Hanlin Cai</a>.
-keywords: Internet of Everything Group, University of Cambridge, Cambridge, Wireless Communication # add your own keywords or leave empty
+keywords: University of Cambridge, Internet of Everything Group, Cambridge, Wireless Communication # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ☪️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Cambridge-IoE-Group.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Internet of Everything (IoE) # blog_name will be displayed in your blog page
+blog_description: Latest news and updates from the Cambridge IoE Group.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -116,7 +116,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+# disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -134,9 +134,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # Newsletter
 # -----------------------------------------------------------------------------
 
-newsletter:
-  enabled: false
-  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
+# newsletter:
+  # enabled: false
+  # endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
