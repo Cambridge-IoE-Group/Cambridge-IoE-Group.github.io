@@ -16,8 +16,11 @@ profiles:
     more_info: >
       <p>Professor Ozgur Baris Akan</p>
       <p><a href='https://caihanlin.com/'>Web Page: https://cambridge-ioe-group.github.io/prof/</a></p>
+
+
+
   - align: left
-    image: prof_pic.jpg
+    image: haofan.jpg
     content: people/about_haofan.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -25,7 +28,7 @@ profiles:
       <p>Third-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: hongbin.jpg
     content: people/about_hongbin.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -33,7 +36,7 @@ profiles:
       <p>Third-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: zhengyang.jpg
     content: people/about_zhengyang.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -41,7 +44,7 @@ profiles:
       <p>Third-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: shaojie.jpg
     content: people/about_shaojie.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -49,7 +52,7 @@ profiles:
       <p>Second-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: tansel.jpg
     content: people/about_tansel.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -57,7 +60,7 @@ profiles:
       <p>Second-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: sila.jpg
     content: people/about_slia.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -65,7 +68,7 @@ profiles:
       <p>Second-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: tiff.jpg
     content: people/about_tianfu.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -82,7 +85,7 @@ profiles:
       <p><a href='https://caihanlin.com/'>Web Page: https://caihanlin.com/</a></p>
 
   - align: left
-    image: prof_pic.jpg
+    image: melih.jpg
     content: people/about_melih.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -90,7 +93,7 @@ profiles:
       <p>First-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: fati.png
     content: people/about_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -98,7 +101,7 @@ profiles:
       <p>First-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: dilara.jpg
     content: people/about_koc_dilara.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -106,7 +109,7 @@ profiles:
       <p>Final-year PhD Student, Koç University, Turkey</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: ahmet.jpg
     content: people/about_koc_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -114,7 +117,7 @@ profiles:
       <p>Final-year Master's Student, Koç University, Turkey</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: fatihmerdan.jpeg
     content: people/about_koc_ahmet.md
     image_circular: false # crops the image to make it circular
     more_info: >
