@@ -16,62 +16,63 @@ profiles:
     more_info: >
       <p>Room 113, CAPE Building, Electrical Engineering Division</p>
       <p>Department of Engineering, University of Cambridge,</p>
-      <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA</p>
+      <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK</p>
       
   - align: left
     image: prof_pic.jpg
     content: people/about_haofan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
-      
+      Third-year PhD Student, University of Cambridge, UK
+
   - align: left
     image: prof_pic.jpg
     content: people/about_hongbin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      Third-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: prof_pic.jpg
     content: people/about_zhengyang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      Third-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: prof_pic.jpg
     content: people/about_shaojie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      Second-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: prof_pic.jpg
     content: people/about_tansel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      Second-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: prof_pic.jpg
     content: people/about_slia.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      Second-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: prof_pic.jpg
     content: people/about_tianfu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      Second-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: hanlin.png
     content: people/about_hanlin.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      First-year PhD Student, University of Cambridge, UK
       <a href='https://caihanlin.com/'>Website: https://caihanlin.com/</a>
 
   - align: left
@@ -79,14 +80,36 @@ profiles:
     content: people/about_melih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      First-year PhD Student, University of Cambridge, UK
 
   - align: left
     image: prof_pic.jpg
     content: people/about_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      
+      First-year PhD Student, University of Cambridge, UK
+
+  - align: left
+    image: prof_pic.jpg
+    content: people/about_koc_dilara.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      First-year PhD Student, Koç University, Turkey
+
+  - align: left
+    image: prof_pic.jpg
+    content: people/about_koc_fatih.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      First-year PhD Student, Koç University, Turkey
+
+  - align: left
+    image: prof_pic.jpg
+    content: people/about_koc_ahmet.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      First-year PhD Student, Koç University, Turkey
+
 ---
 
 
@@ -120,3 +143,5 @@ profiles:
   }
 }
 </style>
+
+
