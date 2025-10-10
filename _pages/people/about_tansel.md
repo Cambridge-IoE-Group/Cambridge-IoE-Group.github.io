@@ -1,0 +1,1 @@
+O. Tansel Baydas joined Cambridge as a Ph.D. student in 2024. He received his B.S. in Electrical & Electronics Engineering and Mathematics from Bogazici University in Istanbul, Turkey in 2024. His research interests are broadly in communication and information theory for biological and distributed systems.
