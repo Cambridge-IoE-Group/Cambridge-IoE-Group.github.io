@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our group website have been launched today!
-date: 2025-10-10
+date: 2025-10-08
 inline: false
 related_posts: true
 ---
