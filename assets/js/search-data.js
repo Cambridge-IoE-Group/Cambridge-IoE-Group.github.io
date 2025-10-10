@@ -390,11 +390,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details-1",
-          title: 'A long announcement with details 1',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
@@ -405,6 +400,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-our-group-website-have-been-launched-today",
+          title: 'Our group website have been launched today!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
