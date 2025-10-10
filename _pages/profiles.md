@@ -23,81 +23,70 @@ profiles:
     content: people/about_haofan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+      
   - align: left
     image: prof_pic.jpg
     content: people/about_hongbin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: prof_pic.jpg
     content: people/about_zhengyang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: prof_pic.jpg
     content: people/about_shaojie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: prof_pic.jpg
     content: people/about_tansel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: prof_pic.jpg
     content: people/about_slia.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: prof_pic.jpg
     content: people/about_tianfu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: hanlin.png
     content: people/about_hanlin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <a href='https://caihanlin.com/'>Website: https://caihanlin.com/</a>
+
   - align: left
     image: prof_pic.jpg
     content: people/about_melih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
+
   - align: left
     image: prof_pic.jpg
     content: people/about_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
 ---
 
 
