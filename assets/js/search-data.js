@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-prof-akan",
           title: "Prof. Akan",
-          description: "Principal Investigator of IoE Group",
+          description: "Prof. Ozgur Baris Akan, Principal Investigator of IoE Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/prof/";
