@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /prof/
 title: Prof. Akan
 description: Principal Investigator of IoE Group
 nav: true
