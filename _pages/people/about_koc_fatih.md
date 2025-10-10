@@ -1,0 +1,1 @@
+Fatih Merdan completed his high school education at Kırıkkale Science High School. He received his B.Sc. degree in Electrical and Electronics Engineering from Middle East Technical University. He is currently pursuing his M.Sc. degree in Electrical and Electronics Engineering under the supervision of Prof. Akan at Koç University, Istanbul, Turkey.
