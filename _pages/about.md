@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
+subtitle: <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 113, Electrical Engineering Building</p>
+    <p>CAPE Building, Electrical Engineering Division,</p>
     <p>Department of Engineering, University of Cambridge,</p>
-    <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA</p>
+    <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
