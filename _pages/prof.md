@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Email: oba21[at]cam.ac.uk</p>
-      <p>Room 113, CAPE Building, Electrical Engineering Division,</p>
+      <p>Room 113, CAPE Building, Electrical Engineering,</p>
       <p>Department of Engineering, University of Cambridge,</p>
       <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.</p>
 ---
