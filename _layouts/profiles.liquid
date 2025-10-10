@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 <div class="post">
   <article>
     {% if page.profiles %}
@@ -26,11 +27,19 @@ layout: page
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
+
+
           {% endif %}
         </div>
       {% endfor %}
     {% endif %}
+    
+    {%- comment -%} Render page body (e.g., Alumni HTML) once, after profiles {%- endcomment -%}
+    {%- if content and content != "" -%}
+      <hr>
+      <section class="page-content">
+        {{ content }}
+      </section>
+    {%- endif -%}
   </article>
 </div>
