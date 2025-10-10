@@ -17,7 +17,6 @@ profiles:
       <p>Professor Ozgur Baris Akan</p>
       <p><a href='https://cambridge-ioe-group.github.io/prof/'>Web Page: https://cambridge-ioe-group.github.io/prof/</a></p>
 
-
   - align: left
     image: haofan.jpg
     content: people/about_haofan.md
@@ -122,10 +121,7 @@ profiles:
     more_info: >
       <p>Fatih Merdan</p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
-
-
 # add new member here
-
 ---
 
 <!-- ===== Alumni (one-line with dotted leaders) ===== -->
@@ -151,7 +147,6 @@ profiles:
     .alumni .dots { min-width: 40px; flex: 1 1 100px; }
   }
 </style>
-
 
 <h2 id="alumni">Alumni</h2>
 <ul class="alumni">
