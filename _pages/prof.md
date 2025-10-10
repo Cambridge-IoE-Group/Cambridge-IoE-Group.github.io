@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: profiles
 permalink: /prof/
 title: Prof. Akan
-description: Principal Investigator of IoE Group
+description: Prof. Ozgur Baris Akan, Principal Investigator of IoE Group
 nav: true
 nav_order: 1
 

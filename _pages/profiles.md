@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: people/about_prof_akan.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>Room 113, CAPE Building, Electrical Engineering Division</p>
       <p>Department of Engineering, University of Cambridge,</p>
@@ -21,7 +21,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_haofan.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Haofan Dong
       Third-year PhD Student, University of Cambridge, UK
@@ -29,7 +29,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_hongbin.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Hongbin Ni
       Third-year PhD Student, University of Cambridge, UK
@@ -37,7 +37,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_zhengyang.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Zhengyang Zhang
       Third-year PhD Student, University of Cambridge, UK
@@ -45,7 +45,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_shaojie.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Shaojie Zhang
       Second-year PhD Student, University of Cambridge, UK
@@ -53,7 +53,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_tansel.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       O. Tansel Baydas
       Second-year PhD Student, University of Cambridge, UK
@@ -61,7 +61,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_slia.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Ayse Sila Okcu
       Second-year PhD Student, University of Cambridge, UK
@@ -69,7 +69,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_tianfu.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Houtianfu Wang
       Second-year PhD Student, University of Cambridge, UK
@@ -77,7 +77,7 @@ profiles:
   - align: left
     image: hanlin.png
     content: people/about_hanlin.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Hanlin Cai
       First-year PhD Student, University of Cambridge, UK
@@ -86,7 +86,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_melih.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Melih Sahin
       First-year PhD Student, University of Cambridge, UK
@@ -94,7 +94,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_fatih.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Fatih Efe Bilgen
       First-year PhD Student, University of Cambridge, UK
@@ -102,7 +102,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_koc_dilara.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Dilara Aktas	
       Final-year PhD Student, Koç University, Turkey
@@ -110,7 +110,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_koc_fatih.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Ahmet Burak Kilic
       Final-year Master's Student, Koç University, Turkey
@@ -118,10 +118,13 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: people/about_koc_ahmet.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       Fatih Merdan
       Final-year Master's Student, Koç University, Turkey
+
+
+# add new member here
 
 ---
 
