@@ -59,7 +59,7 @@ profiles:
 
   - align: left
     image: sila.jpg
-    content: people/about_slia.md
+    content: people/about_sila.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ayse Sila Okcu</p>
