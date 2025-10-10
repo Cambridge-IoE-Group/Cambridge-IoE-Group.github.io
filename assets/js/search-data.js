@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Principal Investigator of IoE Group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/prof/";
           },
         },{id: "nav-people",
           title: "people",
