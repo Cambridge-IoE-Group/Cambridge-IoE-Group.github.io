@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 <div class="post">
   <article>
     {% if page.profiles %}
@@ -22,18 +21,14 @@ layout: page
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
         </div>
-
         <div class="clearfix">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
-
-
           {% endif %}
         </div>
       {% endfor %}
     {% endif %}
-    
     {%- comment -%} Render page body (e.g., Alumni HTML) once, after profiles {%- endcomment -%}
     {%- if content and content != "" -%}
       <hr>
