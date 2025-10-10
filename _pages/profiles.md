@@ -14,10 +14,8 @@ profiles:
     content: people/about_prof_akan.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Room 113, CAPE Building, Electrical Engineering Division</p>
-      <p>Department of Engineering, University of Cambridge,</p>
-      <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK</p>
-      
+      <p>Professor Ozgur Baris Akan</p>
+      <a href='https://caihanlin.com/'>Web Page: https://cambridge-ioe-group.github.io/prof/</a>
   - align: left
     image: prof_pic.jpg
     content: people/about_haofan.md
@@ -81,7 +79,7 @@ profiles:
     more_info: >
       Hanlin Cai
       First-year PhD Student, University of Cambridge, UK
-      <a href='https://caihanlin.com/'>Website: https://caihanlin.com/</a>
+      <a href='https://caihanlin.com/'>Web Page: https://caihanlin.com/</a>
 
   - align: left
     image: prof_pic.jpg
