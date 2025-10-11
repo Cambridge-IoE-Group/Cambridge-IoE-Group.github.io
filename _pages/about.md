@@ -41,4 +41,3 @@ The mission of Internet of Everthing Group is to address the unique challenges o
 - Internet of Space
 
 <br>
-<br>
