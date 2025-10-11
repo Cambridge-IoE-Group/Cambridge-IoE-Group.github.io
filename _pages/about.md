@@ -27,4 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Prof. Özgür B. Akan was born in Ankara, Turkey. After high school education in Ankara Fen Lisesi (Ankara Science High School), he received the B.Sc. and M.Sc. degrees in electrical and electronics engineering from Bilkent University and Middle East Technical University, Ankara, Turkey, in June 1999 and January 2002, respectively. He received the Ph.D. degree in electrical and computer engineering from the Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, in May 2004. He was with the Department of Electrical and Electronics Engineering, Middle East Technical University between May 2004 and August 2010. He acted as the Associate Director and the Director of Graduate School of Sciences and Engineering, Koc University, Istanbul, Turkey between January 2013 - May 2016.
+Internet of Everything (IoE), the seamless interconnection and autonomous coordination of massive number of computing elements and sensors, inanimate and living entities, people, processes and data through the Internet infrastructure, is an emerging research direction towards enabling the Connected Universe from molecular sensors to vehicles and people. This novel framework has an enormous potential to transform the way we connect with and understand the Universe, by enabling new methods of interfering with the processes at the single-molecular level, and extending the human consciousness and control with smart agents collaboratively sensing and acting upon the environments never explored by any other paradigm before. The realization of IoE demands novel engineering solutions to overcome the unique connectivity, spectrum scarcity, miniaturization, interoperability and energy-efficiency challenges.
+
+The mission of Internet of Everthing Group is to address the unique challenges of IoE and use the IoE vision to model complicated communication systems. Internet of Everything Group consists of highly motivated researchers performing cutting edge interdisciplinary research towards implementing the building blocks of IoE. The research interests of IoE group includes
+
+1. Intrabody communications and Internet of Bio-Nano Things
+2. Energy Harvesting and Internet of Energy Harvesting Things
+3. Energy/Spectrum Efficient Communications
+4. Internet of Sensing Things
+5. 5G communications and 5G Internet of Things
+6. Internet of Vehicles 
+7. Internet of Space
