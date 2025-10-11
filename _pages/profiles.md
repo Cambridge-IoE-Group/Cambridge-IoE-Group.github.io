@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Professor Ozgur Baris Akan</p>
-      <p><a href='https://cambridge-ioe-group.github.io/prof/'>Web Page: https://cambridge-ioe-group.github.io/prof/</a></p>
+      <p>Principal Investigator of IoE Group</p>
 
   - align: left
     image: haofan.jpg
