@@ -400,8 +400,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-welcome-melih-fatih-and-hanlin-as-new-phd-students-to-ioe-group",
-          title: 'Welcome Melih, Fatih and Hanlin as new PhD students to IoE group!',
+            },},{id: "news-welcome-melih-fatih-and-hanlin-as-new-phd-students-to-our-group",
+          title: 'Welcome Melih, Fatih and Hanlin as new PhD students to our group!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
