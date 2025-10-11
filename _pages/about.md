@@ -6,7 +6,7 @@ subtitle: <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ioe_logo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: oba21[at]cam.ac.uk</p>
@@ -20,12 +20,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 8 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 Internet of Everything (IoE), the seamless interconnection and autonomous coordination of massive number of computing elements and sensors, inanimate and living entities, people, processes and data through the Internet infrastructure, is an emerging research direction towards enabling the Connected Universe from molecular sensors to vehicles and people. This novel framework has an enormous potential to transform the way we connect with and understand the Universe, by enabling new methods of interfering with the processes at the single-molecular level, and extending the human consciousness and control with smart agents collaboratively sensing and acting upon the environments never explored by any other paradigm before. The realization of IoE demands novel engineering solutions to overcome the unique connectivity, spectrum scarcity, miniaturization, interoperability and energy-efficiency challenges.
