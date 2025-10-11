@@ -108,7 +108,7 @@ profiles:
 
   - align: left
     image: ahmet.jpg
-    content: people/about_koc_fatih.md
+    content: people/about_koc_ahmet.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ahmet Burak Kilic</p>
@@ -116,13 +116,17 @@ profiles:
 
   - align: left
     image: fatihmerdan.jpeg
-    content: people/about_koc_ahmet.md
+    content: people/about_koc_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Fatih Merdan</p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
 # add new member here
 ---
+
+
+
+
 
 <!-- ===== Alumni (one-line with dotted leaders) ===== -->
 <style>
