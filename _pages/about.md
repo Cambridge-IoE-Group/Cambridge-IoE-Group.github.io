@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: oba21[at]cam.ac.uk</p>
     <p>CAPE Building, Electrical Engineering Division,</p>
     <p>Department of Engineering, University of Cambridge,</p>
-    <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA.</p>
+    <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,10 +32,10 @@ Internet of Everything (IoE), the seamless interconnection and autonomous coordi
 
 The mission of Internet of Everthing Group is to address the unique challenges of IoE and use the IoE vision to model complicated communication systems. Internet of Everything Group consists of highly motivated researchers performing cutting edge interdisciplinary research towards implementing the building blocks of IoE. The research interests of IoE group includes
 
-1. Intrabody communications and Internet of Bio-Nano Things
-2. Energy Harvesting and Internet of Energy Harvesting Things
-3. Energy/Spectrum Efficient Communications
-4. Internet of Sensing Things
-5. 5G communications and 5G Internet of Things
-6. Internet of Vehicles 
-7. Internet of Space
+- Intrabody communications and Internet of Bio-Nano Things
+- Energy Harvesting and Internet of Energy Harvesting Things
+- Energy/Spectrum Efficient Communications
+- 5G communications and 5G Internet of Things
+- Internet of Sensing Things
+- Internet of Vehicles
+- Internet of Space
