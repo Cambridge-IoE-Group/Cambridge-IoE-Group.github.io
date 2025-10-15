@@ -197,6 +197,7 @@ exclude:
   - _pages/repositories.md # exclude page by Hanlin
   - _pages/cv.md # exclude page by Hanlin
   - _pages/submenus.md # exclude page by Hanlin
+  - _pages/blog.md # exclude page by Hanlin
 
 keep_files:
   - CNAME

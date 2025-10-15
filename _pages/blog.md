@@ -11,6 +11,7 @@ pagination:
   per_page: 5
   sort_field: date
   sort_reverse: true
+  published: false    # 此页不会出现在输出目录
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
