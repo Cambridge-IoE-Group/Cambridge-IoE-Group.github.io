@@ -26,10 +26,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 10 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+# latest_posts:
+  # enabled: true
+  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  # limit: 5 # leave blank to include all the blog posts
 ---
 
 Prof. Özgür B. Akan was born in Ankara, Turkey. After high school education in Ankara Fen Lisesi (Ankara Science High School), he received the B.Sc. and M.Sc. degrees in electrical and electronics engineering from Bilkent University and Middle East Technical University, Ankara, Turkey, in June 1999 and January 2002, respectively. He received the Ph.D. degree in electrical and computer engineering from the Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, in May 2004. He was with the Department of Electrical and Electronics Engineering, Middle East Technical University between May 2004 and August 2010. He acted as the Associate Director and the Director of Graduate School of Sciences and Engineering, Koc University, Istanbul, Turkey between January 2013 - May 2016.
