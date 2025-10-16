@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Internet of Everything Group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/prof/";
+            window.location.href = "/research/";
           },
         },{id: "nav-people",
           title: "people",
