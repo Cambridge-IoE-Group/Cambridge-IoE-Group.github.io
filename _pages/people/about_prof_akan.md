@@ -1,5 +1,5 @@
 Prof. Özgür B. Akan is the Head of the Internet of Everything (IoE) Group at the Department of Engineering, University of Cambridge, where he conducts highly advanced theoretical and experimental research on nanoscale, molecular, and neural communications, Internet of Everything, cyber-physical systems, 5G and THz wireless mobile networks, distributed social sensing, and cognitive radio and sensor networks. He is also a Professor with the Department of Electrical and Electronics Engineering and the Director of Next-generation and Wireless Communications Laboratory (NWCL) at the Department of Electrical and Electronics Engineering, Koc University, Istanbul, Turkey.
 
-Further information can be found here: [Prof. Akan](https://cambridge-ioe-group.github.io/prof/).
-
 [Google Scholar](https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-bar%C4%B1%C5%9F-akan-90047a72/), [IEEE Profile](https://ieeexplore.ieee.org/author/38484380700/).
+
+<!-- Further information can be found here: [Prof. Akan](https://cambridge-ioe-group.github.io/prof/). -->
