@@ -10,7 +10,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     image_circular: false # crops the image to make it circular
-    # content: people/about_prof_akan_full.md
+    content: 
     more_info: >
       <p>Email: oba21[at]cam.ac.uk</p>
       <p>Room 113, CAPE Building, Electrical Engineering,</p>
