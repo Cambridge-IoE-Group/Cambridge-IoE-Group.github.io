@@ -9,7 +9,7 @@ nav_order: 1
 profile:
   align: right
   image: ioe_logo.png
-  content: people/research.md
+  content: people/about_ioe.md
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: oba21[at]cam.ac.uk</p>
