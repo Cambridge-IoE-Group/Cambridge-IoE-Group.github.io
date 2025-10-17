@@ -9,8 +9,8 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    # content: people/about_prof_akan_full.md
     image_circular: false # crops the image to make it circular
+    # content: people/about_prof_akan_full.md
     more_info: >
       <p>Email: oba21[at]cam.ac.uk</p>
       <p>Room 113, CAPE Building, Electrical Engineering,</p>
