@@ -80,7 +80,6 @@ profiles:
     more_info: >
       <p>Hanlin Cai</p>
       <p>First-year PhD Student, University of Cambridge, UK</p>
-      <p><a href='https://caihanlin.com/'>Web Page: https://caihanlin.com/</a></p>
 
   - align: left
     image: melih.jpg
