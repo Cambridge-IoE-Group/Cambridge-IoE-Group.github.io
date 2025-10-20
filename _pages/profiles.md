@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Members of the Cambridge IoE Group
+description: Members of the IoE Group
 nav: true
 nav_order: 2
 

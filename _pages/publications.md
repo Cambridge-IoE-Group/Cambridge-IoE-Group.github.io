@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications of IoE Group.
+description: Publications of the IoE Group.
 nav: true
 nav_order: 3
 ---

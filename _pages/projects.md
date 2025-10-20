@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects of the IoE Group
 nav: true
 nav_order: 5
 display_categories: [Projects, Previous]
