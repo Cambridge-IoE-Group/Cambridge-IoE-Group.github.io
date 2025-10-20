@@ -156,41 +156,41 @@ profiles:
 
   <li><span class="name">Dr. Beyza Ezgi Örtlek</span><span class="dots"></span><span class="meta">Ph.D., 2025</span></li>
   <li><span class="name">Hilal Esra Yaldiz</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
-  <li><span class="name">Melih Şahin, PhD Student at University of Cambridge</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
-  <li><span class="name">Fatih Efe Bilgen, PhD Student at University of Cambridge</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
-  <li><span class="name">Dr. Meltem Civas, Ericsson Research, Türkiye</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
+  <li><span class="name">Melih Şahin</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
+  <li><span class="name">Fatih Efe Bilgen</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
+  <li><span class="name">Dr. Meltem Civas</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
   <li><span class="name">Dr. Caglar Koca</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
   <li><span class="name">Dr. Tooba Khan</span><span class="dots"></span><span class="meta">Ph.D., 2022</span></li>
-  <li><span class="name">Nafi Ahmet Turgut, Data Science and Analytics Manager at Getir</span><span class="dots"></span><span class="meta">M.Sc., 2022</span></li>
-  <li><span class="name">Dr. Muharrem Arik, Lead Radar Systems Engineer at ASELSAN</span><span class="dots"></span><span class="meta">Ph.D., 2019</span></li>
-  <li><span class="name">Dr. Naveed Ahmed Abbasi, Postdoctoral Fellow at University of Southern California</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
-  <li><span class="name">Dr. Turker Yilmaz, Research Engineer at EURECOM</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
-  <li><span class="name">Dr. Hamideh Ramezani, Research Student at University of Cambridge</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
-  <li><span class="name">Dr. Oktay Cetinkaya, Senior Research Associate at the University of Oxford</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
-  <li><span class="name">Dr. Ecehan B. Pehlivanoglu, Chief Strategy &amp; Transformation Officer at Hepsiemlak</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
-  <li><span class="name">Dr. Bilgesu A. Bilgin, Research Associate at University of Cambridge</span><span class="dots"></span><span class="meta">PostDoc, 2017</span></li>
-  <li><span class="name">Dr. Murat Kuscu, Assistant Professor at Koç University</span><span class="dots"></span><span class="meta">Ph.D., 2017</span></li>
-  <li><span class="name">Dr. Mustafa Ozger, Postdoctoral Researcher at KTH Royal Institute of Technology</span><span class="dots"></span><span class="meta">Ph.D., 2017</span></li>
-  <li><span class="name">Dr. Ergin Dinc, Research Associate at University of Cambridge</span><span class="dots"></span><span class="meta">Ph.D., 2016</span></li>
-  <li><span class="name">Dr. Ozgur Ergul, Assistant Professor at Gazi University</span><span class="dots"></span><span class="meta">Ph.D., 2015</span></li>
-  <li><span class="name">Kardelen Cepni, Consultant at Deloitte Nederland</span><span class="dots"></span><span class="meta">M.Sc., 2015</span></li>
-  <li><span class="name">Orkhan Badirkhanli, Software Engineer at Amazon</span><span class="dots"></span><span class="meta">M.Sc., 2014</span></li>
-  <li><span class="name">Bige Deniz Unluturk, Postdoctoral Research Associate at Michigan State University</span><span class="dots"></span><span class="meta">M.Sc., 2013</span></li>
-  <li><span class="name">Deniz Kilinc, Senior Member of Technical Staff at Maxim Integrated</span><span class="dots"></span><span class="meta">M.Sc., 2013</span></li>
-  <li><span class="name">Derya Malak, Assistant Professor at Rensselaer Polytechnic Institute</span><span class="dots"></span><span class="meta">M.Sc., 2013</span></li>
-  <li><span class="name">Dr. Burhan Gulbahar, Associate Professor at Yaşar University</span><span class="dots"></span><span class="meta">Ph.D., 2012</span></li>
-  <li><span class="name">Dr. Ghalib A. Shah, Professor and Sultan Qaboos IT Co-Chair at UET Lahore</span><span class="dots"></span><span class="meta">PostDoc, 2012</span></li>
-  <li><span class="name">Murat Kocaoglu, Assistant Professor at Purdue University</span><span class="dots"></span><span class="meta">M.Sc., 2012</span></li>
-  <li><span class="name">Ahmet Ozan Bicen, Assistant Professor at Sabanci University</span><span class="dots"></span><span class="meta">M.Sc., 2012</span></li>
-  <li><span class="name">Dr. Baris Atakan, Professor at Izmir Institute of Technology</span><span class="dots"></span><span class="meta">Ph.D., 2011</span></li>
-  <li><span class="name">Mert Can Oto, Hardware Engineer at Advantest</span><span class="dots"></span><span class="meta">M.Sc., 2011</span></li>
-  <li><span class="name">Eren Balevi, Postdoctoral Associate at UT Austin</span><span class="dots"></span><span class="meta">M.Sc., 2010</span></li>
-  <li><span class="name">Ertan Gul, Expert at Deloitte</span><span class="dots"></span><span class="meta">M.Sc., 2010</span></li>
-  <li><span class="name">Gokhan Isbitiren, Channel VP - Schneider Electric</span><span class="dots"></span><span class="meta">M.Sc., 2009</span></li>
-  <li><span class="name">Muharrem Arik, Lead Radar Systems Engineer at ASELSAN</span><span class="dots"></span><span class="meta">M.Sc., 2008</span></li>
-  <li><span class="name">Ibrahim Karaaslan, Lead Design Engineer at ASELSAN</span><span class="dots"></span><span class="meta">M.Sc., 2008</span></li>
-  <li><span class="name">Mehmet Talha Isik, Computer Vision Engineer at Vision++</span><span class="dots"></span><span class="meta">M.Sc., 2007</span></li>
-  <li><span class="name">Orhan Ayran, Analysis and Fusion Algorithms Team Lead at HAVELSAN</span><span class="dots"></span><span class="meta">M.Sc., 2007</span></li>
-  <li><span class="name">Mehmet Yagli, General Manager at Advanced Honeycomb Technologies</span><span class="dots"></span><span class="meta">M.Sc., 2006</span></li>
+  <li><span class="name">Nafi Ahmet Turgut</span><span class="dots"></span><span class="meta">M.Sc., 2022</span></li>
+  <li><span class="name">Dr. Muharrem Arik</span><span class="dots"></span><span class="meta">Ph.D., 2019</span></li>
+  <li><span class="name">Dr. Naveed Ahmed Abbasi</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
+  <li><span class="name">Dr. Turker Yilmaz</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
+  <li><span class="name">Dr. Hamideh Ramezani</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
+  <li><span class="name">Dr. Oktay Cetinkaya</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
+  <li><span class="name">Dr. Ecehan B. Pehlivanoglu</span><span class="dots"></span><span class="meta">Ph.D., 2018</span></li>
+  <li><span class="name">Dr. Bilgesu A. Bilgin</span><span class="dots"></span><span class="meta">PostDoc, 2017</span></li>
+  <li><span class="name">Dr. Murat Kuscu</span><span class="dots"></span><span class="meta">Ph.D., 2017</span></li>
+  <li><span class="name">Dr. Mustafa Ozger</span><span class="dots"></span><span class="meta">Ph.D., 2017</span></li>
+  <li><span class="name">Dr. Ergin Dinc</span><span class="dots"></span><span class="meta">Ph.D., 2016</span></li>
+  <li><span class="name">Dr. Ozgur Ergul</span><span class="dots"></span><span class="meta">Ph.D., 2015</span></li>
+  <li><span class="name">Kardelen Cepni</span><span class="dots"></span><span class="meta">M.Sc., 2015</span></li>
+  <li><span class="name">Orkhan Badirkhanli</span><span class="dots"></span><span class="meta">M.Sc., 2014</span></li>
+  <li><span class="name">Bige Deniz Unluturk</span><span class="dots"></span><span class="meta">M.Sc., 2013</span></li>
+  <li><span class="name">Deniz Kilinc</span><span class="dots"></span><span class="meta">M.Sc., 2013</span></li>
+  <li><span class="name">Derya Malak</span><span class="dots"></span><span class="meta">M.Sc., 2013</span></li>
+  <li><span class="name">Dr. Burhan Gulbahar</span><span class="dots"></span><span class="meta">Ph.D., 2012</span></li>
+  <li><span class="name">Dr. Ghalib A. Shah</span><span class="dots"></span><span class="meta">PostDoc, 2012</span></li>
+  <li><span class="name">Murat Kocaoglu</span><span class="dots"></span><span class="meta">M.Sc., 2012</span></li>
+  <li><span class="name">Ahmet Ozan Bicen</span><span class="dots"></span><span class="meta">M.Sc., 2012</span></li>
+  <li><span class="name">Dr. Baris Atakan</span><span class="dots"></span><span class="meta">Ph.D., 2011</span></li>
+  <li><span class="name">Mert Can Oto</span><span class="dots"></span><span class="meta">M.Sc., 2011</span></li>
+  <li><span class="name">Eren Balevi</span><span class="dots"></span><span class="meta">M.Sc., 2010</span></li>
+  <li><span class="name">Ertan Gul</span><span class="dots"></span><span class="meta">M.Sc., 2010</span></li>
+  <li><span class="name">Gokhan Isbitiren</span><span class="dots"></span><span class="meta">M.Sc., 2009</span></li>
+  <li><span class="name">Muharrem Arik</span><span class="dots"></span><span class="meta">M.Sc., 2008</span></li>
+  <li><span class="name">Ibrahim Karaaslan</span><span class="dots"></span><span class="meta">M.Sc., 2008</span></li>
+  <li><span class="name">Mehmet Talha Isik</span><span class="dots"></span><span class="meta">M.Sc., 2007</span></li>
+  <li><span class="name">Orhan Ayran</span><span class="dots"></span><span class="meta">M.Sc., 2007</span></li>
+  <li><span class="name">Mehmet Yagli</span><span class="dots"></span><span class="meta">M.Sc., 2006</span></li>
 </ul>
 

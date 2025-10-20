@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: European Commission
+description: "CIRCLE: Coordinating European Research on Molecular Communications"
 img:
 importance: 4
 category: Projects
