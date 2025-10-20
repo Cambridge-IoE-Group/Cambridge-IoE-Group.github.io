@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: European Research Council (ERC, 2014-2019)
+description: MINERVA:Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment
+img: assets/img/project_minerva.jpg
 importance: 2
 category: Projects
 giscus_comments: true

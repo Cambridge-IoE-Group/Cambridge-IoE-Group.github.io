@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: TUBITAK 1003 (2014-2017)
+description: TeraFemto:Terahertz Femtocell for 5G Mobile Networks
+img: assets/img/project_thz.jpg
+# redirect: https://unsplash.com
 importance: 3
 category: Projects
 ---
