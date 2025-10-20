@@ -154,7 +154,7 @@ profiles:
 <h2 id="alumni">Alumni</h2>
 <ul class="alumni">
 
-  <li><span class="name">Beyza Ezgi Örtlek</span><span class="dots"></span><span class="meta">Ph.D., 2025</span></li>
+  <li><span class="name">Dr. Beyza Ezgi Örtlek</span><span class="dots"></span><span class="meta">Ph.D., 2025</span></li>
   <li><span class="name">Hilal Esra Yaldiz</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Melih Şahin, PhD Student at University of Cambridge</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Fatih Efe Bilgen, PhD Student at University of Cambridge</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
