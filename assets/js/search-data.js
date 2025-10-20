@@ -405,24 +405,24 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-axa-research-fund-2020-2025",
-          title: 'AXA RESEARCH FUND (2020-2025)',
-          description: "AXA Chair in Molecular Information and Communication Technologies",
+            },},{id: "projects-axa-research-fund",
+          title: 'AXA RESEARCH FUND',
+          description: "AXA Chair in Molecular Information and Communication Technologies (2020-2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-european-research-council-erc-2014-2019",
-          title: 'European Research Council (ERC, 2014-2019)',
-          description: "MINERVA:Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment",
+            },},{id: "projects-european-research-council",
+          title: 'European Research Council',
+          description: "MINERVA: Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment (2014-2019)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-tubitak-1003-2014-2017",
-          title: 'TUBITAK 1003 (2014-2017)',
-          description: "TeraFemto:Terahertz Femtocell for 5G Mobile Networks",
+            },},{id: "projects-tubitak-1003-funding",
+          title: 'TUBITAK 1003 Funding',
+          description: "TeraFemto: Terahertz Femtocell for 5G Mobile Networks (2014-2017)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-european-commission",
+          title: 'European Commission',
+          description: "CIRCLE: Coordinating European Research on Molecular Communications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
