@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: about
 permalink: /research/
 title: research
 description: Internet of Everything Group
@@ -16,6 +16,7 @@ profile:
     <p>CAPE Building, Electrical Engineering Division,</p>
     <p>Department of Engineering, University of Cambridge,</p>
     <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.</p>
+
 ---
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
