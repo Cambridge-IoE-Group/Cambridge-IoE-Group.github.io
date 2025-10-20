@@ -90,7 +90,7 @@ profiles:
       <p>First-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
-    image: fati.png
+    image: fati.jpg
     content: people/about_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
