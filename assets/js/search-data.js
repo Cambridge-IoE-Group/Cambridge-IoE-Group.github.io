@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Internet of Everything Group",
+          description: "Internet of Everything (IoE) Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-people",
           title: "people",
-          description: "Members of the Cambridge IoE Group",
+          description: "Members of the IoE Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "publications of IoE Group.",
+          description: "Publications of the IoE Group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Projects of the IoE Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
