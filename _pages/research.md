@@ -12,7 +12,7 @@ profiles:
     content: people/about_ioe.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Email: oba21[at]cam.ac.uk</p>
+      <p>Principal Investigator: Özgür B. Akan</p>
       <p>CAPE Building, Electrical Engineering Division,</p>
       <p>Department of Engineering, University of Cambridge,</p>
       <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.</p>

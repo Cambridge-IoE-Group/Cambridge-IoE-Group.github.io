@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
+subtitle: 
+  <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
+  <a href='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a>, <a href='https://www.ku.edu.tr/en/'>Koç University</a>.
 
 profile:
   # if you want to include more than one profile, just replicate the following block
