@@ -2,7 +2,7 @@
 layout: page
 title: TURK TELEKOM
 description: Fundamentals of Green Communications (2011-2013)
-# img: assets/img/9.jpg
+img: assets/img/green2.png
 importance: 4
 category: Previous
 # giscus_comments: true
