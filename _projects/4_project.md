@@ -1,7 +1,7 @@
 ---
 layout: page
 title: European Commission
-description: "CIRCLE: Coordinating European Research on Molecular Communications"
+description: "CIRCLE: Coordinating European Research on Molecular Communications (2015-2017)"
 img: assets/img/circle.jpg
 importance: 4
 category: Current
@@ -16,13 +16,10 @@ The theoretical and experimental basis of molecular communications involves a br
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/circle_body.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption"> -->
-    <!-- This image can also have a caption. It's like magic. -->
-<!-- </div> -->
 
 1. Objective 1: Harmonize heterogeneous islands of research in Molecular Communications across Europe by providing a structured research agenda through the collaborative specification and continual refinement of a research roadmap.
 
@@ -39,7 +36,7 @@ Molecular communications theory requires a unique set of skills that traverses I
 Current research in the area of molecular communications is heterogeneous and dispersed across multiple disciplinary areas, with individual research groups pursuing their own strategic research agendas. To maximise European impact in this fledgling area of research, a well-established strategic research roadmap must be coordinated across the various Member States and harmonised with best practice internationally. CIRCLE will put in place a process for establishment and continual update of a Strategic Research Roadmap on Molecular Communications.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/circle.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

@@ -20,7 +20,7 @@ According to a recent research (Cisco Systems, 2013) on global mobile systems, i
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/thz2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -31,7 +31,7 @@ In TeraFemto project, the design of channel modeling, physical, MAC and network 
 The research activities of the TeraFemto project will start with channel measurements and channel modeling along with analysis studies on communication technologies and business model in short time. After having a better understanding of the low THz band, by the end of the second year, the studies will continue on physical layer, data link layer, and network layer solutions with antenna solutions in order to develop proper communication techniques. Following the transceiver hardware design, a communication system demonstration will be done in the engineering faculty building of Koc University, and the project will be concluded after the evaluation tests and improvement works on the prototype system.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_thz.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

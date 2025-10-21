@@ -17,13 +17,10 @@ MINERVA: Communication Theoretical Foundations of Nervous System Towards Bio-Ins
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_minerva.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption"> -->
-    <!-- This image can also have a caption. It's like magic. -->
-<!-- </div> -->
 
 Some applications of nanonetworks, among others, are: a number of nanomachines communicating for intelligent drug delivery; multiple nanosensors deployed on the human body to monitor glucose, sodium, and cholesterol; detecting the presence of different infectious agents. However, realization of these applications mandates addressing the unique challenges posed by the physical characteristics of nanomachines, e.g., dimensions, scarce memory and processing capabilities, and their operating environment, on the nanoscale communications.
  
@@ -31,7 +28,7 @@ Some applications of nanonetworks, among others, are: a number of nanomachines c
 Several communication paradigms are considered for use in nanonetworks, but the most promising is molecular communications, where molecules are used to encode, transmit and receive information. It is promising because: (i) molecular communication between nanoscale entities occurs in nature, thus, such natural phenomena offers a readymade studying ground both to model nanonetworks and to develop solutions; and (ii) several of the aforementioned applications require bio-compatibility which therefore necessitates properties that are readily offered by natural molecular nanonetworks.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/minerva3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -43,7 +40,7 @@ Indeed, the human body is a large-scale heterogeneous communication network of m
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/minerva2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

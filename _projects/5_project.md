@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lockheed Martin
-description: Mobile Ad Hoc beyond-Line-of-Sight (b-LoS) Networks
+description: "Mobile Ad Hoc beyond-Line-of-Sight (b-LoS) Networks (2012-2015)"
 img: assets/img/blos2.jpg
 importance: 5
 category: Current
@@ -16,12 +16,9 @@ Evaporation ducts, the layer in which rapid decrease in the refractive index occ
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blos2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption"> -->
-    <!-- This image can also have a caption. It's like magic. -->
-<!-- </div> -->
 
 On the other hand, ducting layer forms lossy waveguide and introduces severe multipath effect due to reflection from rough sea surface and evaporation duct. Therefore, we will develop channel model for evaporation duct based b-LoS communications. In addition, advanced communication techniques will be introduced in order to improve the system against multipath effect and ad hoc networking will be utilized to both improve communication system against multipath effect and provide reliable high rate communication.

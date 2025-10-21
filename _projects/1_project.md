@@ -17,18 +17,16 @@ Nanotechnology is enabling us to devise ever-smaller devices to interact with th
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/AXA_website2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption"> -->
-    <!-- This image can also have a caption. It's like magic. -->
-<!-- </div> -->
+
 
 Although there is tremendous interest in this field accompanied by a large body of theoretical work to devise communication methods for MC, no working prototype of an artificial MC has come to date. On the other hand, MC brings about unique challenges resulting from its highly complex, nonlinear, time-varying channel properties due to the discrete nature of information carriers, substantial channel memory and peculiarities of molecular interactions at nanoscale, that cannot be always tackled by conventional ICT tools. This leaves a huge question mark over the reliability of the existing MC methods, which are mostly adopted from conventional EM communications and not validated with practical MC devices.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 70%">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_AXA_website.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
