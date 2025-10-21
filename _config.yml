@@ -17,7 +17,7 @@ footer_text: >
   Designed by <a href="https://caihanlin.com/" target="_blank">Hanlin Cai</a>.
 keywords: University of Cambridge, Internet of Everything Group, Cambridge, Wireless Communication # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/ioe_logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/ioe_logo  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Cambridge-IoE-Group.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
