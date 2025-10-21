@@ -425,9 +425,9 @@ ninja.data = [{
           description: "CIRCLE: Coordinating European Research on Molecular Communications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-lockheed-martin",
+          title: 'Lockheed Martin',
+          description: "Mobile Ad Hoc beyond-Line-of-Sight (b-LoS) Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
