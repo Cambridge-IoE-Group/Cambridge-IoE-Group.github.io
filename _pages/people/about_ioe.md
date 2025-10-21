@@ -2,10 +2,11 @@ Internet of Everything (IoE), the seamless interconnection and autonomous coordi
 
 The mission of Internet of Everthing Group is to address the unique challenges of IoE and use the IoE vision to model complicated communication systems. Internet of Everything Group consists of highly motivated researchers performing cutting edge interdisciplinary research towards implementing the building blocks of IoE. The research interests of IoE group includes:
 
-- Intrabody communications and Internet of Bio-Nano Things
-- Energy Harvesting and Internet of Energy Harvesting Things
-- Energy/Spectrum Efficient Communications
-- 5G communications and 5G Internet of Things
-- Internet of Sensing Things
-- Internet of Vehicles
-- Internet of Space
+- Internet of Everything (IoE): Integration of humans, devices, and processes into large-scale, distributed, and intelligent ecosystems.
+- Wireless Communication: Next-generation mobile, broadband, and green wireless systems with robust and energy-efficient designs.
+- Biological Communication: Molecular and bio-inspired paradigms, including nanoscale and neural networks for healthcare and biotechnology.
+- Quantum Communication: Secure, high-capacity links based on quantum principles for nanoscale and long-distance applications.
+- Space Communication: Satellite, deep-space, and beyond-line-of-sight systems supporting global and interplanetary networks.
+- Machine Learning for Communication: AI-driven spectrum, resource, and network optimization across diverse communication scenarios.
+- Signal Processing: Advanced coding, modulation, and detection techniques for reliable communication in challenging channels.
+- Information Theory: Fundamental limits of communication, guiding efficient and secure network design.
