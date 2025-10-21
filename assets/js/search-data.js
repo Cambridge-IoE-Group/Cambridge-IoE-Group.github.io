@@ -405,6 +405,56 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "projects-tubitak-109e257",
+          title: 'TUBITAK 109E257',
+          description: "Nanoscale and Quantum Communications (2010-2013)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-ibm-faculty-award-2010",
+          title: 'IBM Faculty Award 2010',
+          description: "Distributed Quantum Nano-scale Computing Architecture (2010-2012)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-tuba",
+          title: 'TUBA',
+          description: "Communication Protocols for Nano-networks (2008-2010)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
+            },},{id: "projects-tubitak-kariyer-104e043",
+          title: 'TUBITAK-KARIYER 104E043',
+          description: "Wireless Passive Sensor Networks (2005-2010)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
+            },},{id: "projects-tubitak-106e179",
+          title: 'TUBITAK 106E179',
+          description: "Bio-inspired Communications for Large Scale Systems (2008-2009)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
+            },},{id: "projects-ibm-faculty-award-2008",
+          title: 'IBM Faculty Award 2008',
+          description: "NanoNets: Nano-scale Communication Theory and Algorithms for Nanonetworks (2008-2010)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_project/";
+            },},{id: "projects-metu-bap-2007-03-01-01",
+          title: 'METU BAP-2007-03-01-01',
+          description: "Target Tracking, 3D Localization and Tracking in Underwater Acoustic Sensor Networks (2007)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/16_project/";
+            },},{id: "projects-metu-bap-2005-03-01-04",
+          title: 'METU BAP-2005-03-01-04',
+          description: "Real-time Multimedia Communications in Wireless Sensor Networks (2005-2006)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/17_project/";
+            },},{id: "projects-tubitak-cost-290",
+          title: 'TUBITAK-(COST 290)',
+          description: "Communication Protocols for Next-generation Multi-service Wireless Internet",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/18_project/";
+            },},{id: "projects-ibm-faculty-award-2010",
+          title: 'IBM Faculty Award 2010',
+          description: "Remote Surveillance with Wireless Sensor Networks (2005-2006)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/19_project/";
             },},{id: "projects-axa-research-fund",
           title: 'AXA RESEARCH FUND',
           description: "AXA Chair in Molecular Information and Communication Technologies (2020-2025)",
@@ -430,24 +480,24 @@ ninja.data = [{
           description: "Mobile Ad Hoc beyond-Line-of-Sight (b-LoS) Networks (2012-2015)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-turk-telekom",
+          title: 'TURK TELEKOM',
+          description: "Green Visible Light Communications (2012-2013)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-intel",
+          title: 'INTEL',
+          description: "Energy Efficient Scheduling for LTE (2012-2013)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-turk-telekom",
+          title: 'TURK TELEKOM',
+          description: "Fundamentals of Green Communications (2011-2013)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-tubitak-110e249",
+          title: 'TUBITAK 110E249',
+          description: "Cognitive Radio Sensor Networks (2011-2014)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
