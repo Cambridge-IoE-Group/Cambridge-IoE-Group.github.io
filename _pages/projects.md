@@ -2,7 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects of the IoE Group
+description: 
+  Our research activities form the foundation for the projects we undertake. By exploring fundamental principles in molecular communications, nano-networks, and emerging paradigms such as the Internet of Bio-Nano Things, we establish the theoretical and experimental groundwork that drives our applied initiatives. These projects not only test and validate our models in real-world scenarios but also create new insights that feed back into our ongoing research.
+
+  The projects below represent concrete extensions of our research directions. Each one transforms core ideas into interdisciplinary applications, engaging with partners across academia, industry, and society to demonstrate the impact of molecular communications and beyond.
 nav: true
 nav_order: 5
 display_categories: [Current, Previous]
