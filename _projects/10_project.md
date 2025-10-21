@@ -1,15 +1,15 @@
 ---
 layout: page
-title: TUBITAK 110E249
-description: Cognitive Radio Sensor Networks (2011-2014)
+title: TUBITAK 109E257
+description: Nanoscale and Quantum Communications (2010-2013)
 # img: assets/img/6.jpg
 importance: 5
 category: Previous
 ---
 
-Cognitive Radio Sensor Networks (CRSN)
-- Funded by: TUBITAK 110E249
-- Period: Feb 2011 – Jan 2014
+Nanoscale and Quantum Communications
+- Funded by: TUBITAK 109E257
+- Period: Feb 2010 - Jan 2013
 
 Wireless Sensor Networks (WSN) exclusively operate over unlicensed bands. Today, significant increase in the applications that use these bands brings about the coexistence problem. Hence, WSN needs additional capabilities to combat the interference incurred by the other applications.
 
