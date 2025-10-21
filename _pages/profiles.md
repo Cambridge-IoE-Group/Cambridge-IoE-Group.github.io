@@ -54,7 +54,7 @@ profiles:
     content: people/about_tansel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>O. Tansel Baydas</p>
+      <p>Osman Tansel Baydas</p>
       <p>Second-year PhD Student, University of Cambridge, UK</p>
 
   - align: left
