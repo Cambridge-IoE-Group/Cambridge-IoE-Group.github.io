@@ -3,7 +3,7 @@ layout: page
 title: project 6
 description: a project with no image
 img:
-importance: 2
+importance: 1
 category: Previous
 ---
 
