@@ -5,7 +5,7 @@ description: Energy Efficient Scheduling for LTE (2012-2013)
 # img: assets/img/4.jpg
 importance: 2
 category: Previous
-related_publications: true
+# related_publications: true
 ---
 
 Energy Efficient Scheduling for LTE

@@ -5,7 +5,7 @@ description: Fundamentals of Green Communications (2011-2013)
 # img: assets/img/9.jpg
 importance: 4
 category: Previous
-giscus_comments: true
+# giscus_comments: true
 ---
 
 Fundamentals of Green Communications

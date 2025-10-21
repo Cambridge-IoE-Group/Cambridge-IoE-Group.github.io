@@ -5,7 +5,7 @@ description: "AXA Chair in Molecular Information and Communication Technologies 
 img: assets/img/project_AXA_website.png
 importance: 1
 category: Current
-related_publications: true
+# related_publications: true
 ---
 
 MI-FI: Micro/Nanoscale Transceivers for Wireless Molecular Information Communications
