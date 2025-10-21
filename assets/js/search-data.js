@@ -415,8 +415,8 @@ ninja.data = [{
           description: "MINERVA: Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment (2014-2019)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-tubitak-1003-funding",
-          title: 'TUBITAK 1003 Funding',
+            },},{id: "projects-tubitak-1003-fund",
+          title: 'TUBITAK 1003 Fund',
           description: "TeraFemto: Terahertz Femtocell for 5G Mobile Networks (2014-2017)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
