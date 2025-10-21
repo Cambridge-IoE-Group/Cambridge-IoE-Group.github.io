@@ -20,7 +20,7 @@ waves as information carriers similar to classical communication. However classi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="cntcircuit.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cntcircuit.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -33,7 +33,7 @@ Molecular Communications is the natural communication technique used by living o
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="molecular.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/molecular.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -45,7 +45,7 @@ Quantum Communication is based on transferring entangled pairs from one location
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="singlequbitgates.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/singlequbitgates.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -57,6 +57,6 @@ FRET is a nonradiative energy transfer process between fluorescent molecules bas
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="fret-view.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/fret-view.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
