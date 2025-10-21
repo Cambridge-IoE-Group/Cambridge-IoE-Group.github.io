@@ -4,7 +4,7 @@ title: European Commission
 description: "CIRCLE: Coordinating European Research on Molecular Communications"
 img:
 importance: 4
-category: Projects
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: "TeraFemto: Terahertz Femtocell for 5G Mobile Networks (2014-2017)"
 img: assets/img/project_thz.jpg
 # redirect: https://unsplash.com
 importance: 3
-category: Projects
+category: Current
 ---
 
 Every project has a beautiful feature showcase page.

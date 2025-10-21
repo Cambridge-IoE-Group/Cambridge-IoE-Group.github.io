@@ -34,9 +34,10 @@ announcements:
   # limit: 5 # leave blank to include all the blog posts
 ---
 
-Ph.D., 2004, Electrical and Computer Engineering, <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
+
+<!-- Ph.D., 2004, Electrical and Computer Engineering, <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 M.Sc., 2002, Electrical and Electronics Engineering, <a href='https://www.metu.edu.tr/'>Middle East Technical University</a>
-B.Sc., 1999, Electrical and Electronics Engineering, <a href='https://bilkent.edu.tr'>Bilkent University</a>
+B.Sc., 1999, Electrical and Electronics Engineering, <a href='https://bilkent.edu.tr'>Bilkent University</a> -->
 
 Özgür B. Akan was born in Ankara, Turkey. After high school education in Ankara Fen Lisesi (Ankara Science High School), he received the B.Sc. and M.Sc. degrees in electrical and electronics engineering from Bilkent University and Middle East Technical University, Ankara, Turkey, in June 1999 and January 2002, respectively. He received the Ph.D. degree in electrical and computer engineering from the Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, in May 2004. He was with the Department of Electrical and Electronics Engineering, Middle East Technical University between May 2004 and August 2010.
 

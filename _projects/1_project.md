@@ -4,79 +4,27 @@ title: AXA RESEARCH FUND
 description: "AXA Chair in Molecular Information and Communication Technologies (2020-2025)"
 img: assets/img/project_AXA_website.png
 importance: 1
-category: Projects
+category: Current
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+MI-FI: Micro/Nanoscale Transceivers for Wireless Molecular Information Communications
+- Funded by: AXA Research Fund
+- Period: 2020-2025
+- Amount: 1M Euro
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Nanotechnology is enabling us to devise ever-smaller devices to interact with the universe at molecular resolution. Though small enough to penetrate into cells, these devices individually are of limited capability. To unleash the full potential of nanotechnology, communication among nanomachines is a must. This would enable more complex applications, e.g., continuous health monitoring with intrabody nanosensor networks. Internet of Nano Things (IoNT), which defines these networks of nanomachines, such as nanobiosensors and engineered bacteria, integrated with the Internet infrastructure, has seen tremendous interest recently. IoNT is set to transform the way we connect with and understand the world at the bottom. However, conventional electromagnetic (EM) communication techniques, proved impractical for nanoscale due to antenna size and power limitations and large propagation losses. On the other hand, Nature itself provides a robust way of nanocommunication, i.e., Molecular Communications (MC), which is the common communication modality among living cells ranging from our own neurons to bacteria. Using the same language with living cells by encoding, transmitting and receiving information using molecules provides an energy efficient and reliable nanocommunication, even at harsh biological environments, where we expect most impactful medical applications of IoNT would operate.
+
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/AXA_website2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<!-- <div class="caption"> -->
+    <!-- This image can also have a caption. It's like magic. -->
+<!-- </div> -->
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

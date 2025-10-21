@@ -5,9 +5,10 @@ permalink: /projects/
 description: Projects of the IoE Group
 nav: true
 nav_order: 5
-display_categories: [Projects, Previous]
+display_categories: [Current, Previous]
 horizontal: false
 ---
+
 
 <!-- pages/projects.md -->
 <div class="projects">
