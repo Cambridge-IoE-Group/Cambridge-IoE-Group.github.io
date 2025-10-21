@@ -34,6 +34,10 @@ announcements:
   # limit: 5 # leave blank to include all the blog posts
 ---
 
+Ph.D., 2004, Electrical and Computer Engineering, <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
+M.Sc., 2002, Electrical and Electronics Engineering, <a href='https://www.metu.edu.tr/'>Middle East Technical University</a>
+B.Sc., 1999, Electrical and Electronics Engineering, <a href='https://bilkent.edu.tr'>Bilkent University</a>
+
 Prof. Özgür B. Akan was born in Ankara, Turkey. After high school education in Ankara Fen Lisesi (Ankara Science High School), he received the B.Sc. and M.Sc. degrees in electrical and electronics engineering from Bilkent University and Middle East Technical University, Ankara, Turkey, in June 1999 and January 2002, respectively. He received the Ph.D. degree in electrical and computer engineering from the Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, in May 2004. He was with the Department of Electrical and Electronics Engineering, Middle East Technical University between May 2004 and August 2010. He acted as the Associate Director and the Director of Graduate School of Sciences and Engineering, Koc University, Istanbul, Turkey between January 2013 - May 2016.
 
 He is the Head of the Internet of Everything (IoE) Group at the Department of Engineering, University of Cambridge, where he conducts highly advanced theoretical and experimental research on nanoscale, molecular, and neural communications, Internet of Everything, cyber-physical systems, 5G and THz wireless mobile networks, distributed social sensing, and cognitive radio and sensor networks. He is also a Professor with the Department of Electrical and Electronics Engineering and the Director of Next-generation and Wireless Communications Laboratory (NWCL) at the Department of Electrical and Electronics Engineering, Koc University, Istanbul, Turkey.
