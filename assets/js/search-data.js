@@ -450,8 +450,8 @@ ninja.data = [{
           description: "Communication Protocols for Next-generation Multi-service Wireless Internet",
           section: "Projects",handler: () => {
               window.location.href = "/projects/18_project/";
-            },},{id: "projects-ibm-faculty-award-2010",
-          title: 'IBM Faculty Award 2010',
+            },},{id: "projects-aselsan-inc",
+          title: 'ASELSAN Inc.',
           description: "Remote Surveillance with Wireless Sensor Networks (2005-2006)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_project/";
