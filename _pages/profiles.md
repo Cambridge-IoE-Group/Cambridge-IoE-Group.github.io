@@ -126,27 +126,27 @@ profiles:
 
 
 <style>
-/* === 统一所有头像尺寸 === */
-.profiles .profile img {
-  width: 200px;
-  height: 200px;
+/* === 统一所有头像尺寸（命中 layout: profiles 的结构）=== */
+.profile img.img-fluid {
+  width: 200px !important;
+  height: 200px !important;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 8px;   /* 如果想要圆形头像可改成 50% */
   display: block;
   margin: 0 auto;
 }
 
-/* 教授头像更大一些（可选） */
-.profiles .profile:first-of-type img {
-  width: 260px;
-  height: 260px;
+/* 教授头像更大一些（可选：第一条 profile） */
+.profile:first-of-type img.img-fluid {
+  width: 260px !important;
+  height: 260px !important;
 }
 
 /* 小屏自适应 */
 @media (max-width: 576px) {
-  .profiles .profile img {
-    width: 160px;
-    height: 160px;
+  .profile img.img-fluid {
+    width: 160px !important;
+    height: 160px !important;
   }
 }
 </style>
@@ -176,6 +176,11 @@ profiles:
     .alumni .dots { min-width: 40px; flex: 1 1 100px; }
   }
 </style>
+
+
+
+
+
 
 <h2 id="alumni">Alumni</h2>
 <ul class="alumni">
