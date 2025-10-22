@@ -21,8 +21,8 @@ nav_order: 6
   display: flex;
   align-items: center;            /* 垂直居中文本（与可选缩略图） */
   gap: 1.25rem;
-  padding: 18px 0;                /* 放松上下间距 */
-  min-height: 88px;               /* 提供“上下两线之间”的可视高度 */
+  padding: 24px 0;                /* 放松上下间距 */
+  min-height: 100px;               /* 提供“上下两线之间”的可视高度 */
   border-bottom: 2px solid var(--global-divider-color);
 }
 
@@ -63,282 +63,580 @@ nav_order: 6
 
 
 
-
 <div class="news-wrap">
-  <div class="news-list">
+    <div class="news-list">
 
-    <!-- 2023 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> gave a <strong>Keynote Speech</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>IEEE CAMAD 2023</strong>, Edinburgh, UK, <em>November 2023</em>.</p>
-      </div>
-      <div class="thumb"></div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gave a <strong>Keynote Speech</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>IEEE CAMAD 2023</strong>, Edinburgh, UK, <em>November 2023</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> delivered a <strong>Tutorial</strong>, “Internet of Bio-Nano Things: Getting Practical with Molecular Communications,” at <strong>IEEE Future Networks World Forum 2023</strong>, Baltimore, MD, USA, <em>November 2023</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gave an <strong>Invited Talk</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>Clare Hall College, University of Cambridge</strong>, <em>August 2023</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> is serving as <strong>Associate Editor</strong>, <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, <em>since 2023</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> is serving as <strong>Editor</strong>, <em>Scientific Reports (Nature)</em>, <em>since 2023</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> delivered a <strong>Tutorial</strong>, “Internet of Bio-Nano Things: Getting Practical with Molecular Communications,” at <strong>IEEE GLOBECOM 2022</strong>, Rio de Janeiro, Brazil, <em>December 2022</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gave an <strong>Invited Talk</strong>, “Internet of Everything - From Molecules to the Universe,” at the <strong>Nanjing Institute of Technology Seminar</strong>, <em>October 2022</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> was named a <strong>Turing Fellow</strong>, <strong>The Alan Turing Institute</strong>, <em>2021</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> was appointed as <strong>AXA Chair in Internet of Everything</strong>, supported by <strong>AXA Research Fund</strong>, <em>2020</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received the <strong>TÜBİTAK Science Award 2020</strong>, <em>The Scientific and Technological Research Council of Turkey (TÜBİTAK)</em>, <em>2020</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Dr. Akan</strong> receives the <strong>ACM NanoCom Outstanding Milestone Award</strong>, in recognition of his foundational contributions in developing theoretical and experimental molecular communication models for neural systems and brain. <em>NanoCom</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Murat Kuscu</strong> has been awarded the <strong>IEEE Turkey Ph.D. Thesis Award</strong>, <em>2018</em>. <em>Murat Kuscu</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><em>IEEE Networking Letters</em>: <strong>Dr. Akan</strong> will be serving on the <strong>inaugural editorial board</strong> for the soon to be launched journal.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Tooba Khan</strong> has received <strong>IEEE INFOCOM 2018 Best-in-Session Presentation Award</strong> for presenting the paper entitled “Information Theoretical Analysis of Synaptic Communication for Nanonetworks” (co-authored by <em>Hamideh Ramezani, Tooba Khan and Ozgur B. Akan</em>) in <strong>IEEE INFOCOM 2018</strong>, Honolulu, USA, <em>April 2018</em>. <em>Tooba Khan</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has been appointed as the <strong>IEEE Nanotechnology Council (NTC) Distinguished Lecturer</strong>, <em>IEEE NTC</em>, <em>January 2017–December 2017</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p>Our paper titled “<strong>Crowdsourcing-based Mobile Network Tomography for xG Wireless Systems</strong>” (co-authored by <em>Ergin Dinc, Mustafa Ozger, Ahmet F. Ates, Ibrahim Delibalta and Ozgur B. Akan</em>) has received the <strong>Best Paper Award</strong>, <strong>IEEE ISCC 2016</strong>, Messina, Italy, <em>June 2016</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Ergin Dinc</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received the <strong>2015 Sedat Simavi Award</strong> in the category of sciences with its work “Physical Model and Analysis of Forster Resonance Energy Transfer (FRET) Based Nano Molecular Communication Channel,” <em>2015</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has been elected as the member of <strong>Science Academy</strong>, <em>2015</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has been named an <strong>IEEE Fellow</strong>, with the citation: “For contributions to wireless sensor networks”, <em>2016</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Ozgur Ergul</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received the <strong>Outstanding Faculty of the Year Award 2014</strong>, <em>Faculty of Engineering, Koc University</em>, <em>2014</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received <strong>TÜBİTAK Young Scientist Award 2014</strong>, <em>The Scientific and Technological Research Council of Turkey (TÜBİTAK)</em>, <em>2014</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p>The <strong>Minerva Project</strong> on <strong>Bloomberg Businessweek</strong>: “Telecommunications the key to spinal cord disorders” – <em>Bloomberg Businessweek, 14.11.2014</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p>“<strong>Kadir Has Awards’</strong> have found their owners. ‘The Promising Scientist Award’ was granted to <strong>Prof. Dr. Ozgur B. Akan</strong>.” – <em>Hurriyet, 19.03.2014</em>. <a href="html">[html]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p>The article featuring <strong>Project MINERVA</strong> and NWCL’s research on nano-communications appears in <strong>Popular Science</strong>. <a href="pdf">[pdf]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has been selected to the list of “The 100 Most Influential Turkish Scientists” by <strong>Platin Magazine</strong>, <em>Turkey's leading monthly business publication</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received <strong>Kadir Has University Promising Scientist Award 2014</strong>, <em>Kadir Has University</em>, <em>2014</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p>Article featuring <strong>Project MINERVA</strong> and nano-communications in <strong>Panorama</strong> (<em>Kadir Has University magazine</em>). <a href="pdf">[pdf]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received <strong>Young Scientist Award 2014 (BAGEP 2014)</strong>, <em>The Science Academy</em>, <em>2014</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received the <strong>Scientist of the Year Award 2013</strong>, <em>Bilim Kahramanlari Dernegi</em>, <em>2013</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p>Our research project on <strong>communication theoretical investigations of nervous nanonetworks</strong> has been awarded the <strong>European Research Council's (ERC) Consodilator Grant</strong> with an amount of <strong>1,8 million Euro</strong> for 5 years.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Project MINERVA</strong> covered on <strong>ACM TechNews</strong> (<em>Dec 2013</em>). <a href="html">[html]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> featured on nationwide TV (<strong>NTV</strong>) answering questions about <strong>Project MINERVA</strong> (<em>Dec 2013</em>). <a href="video">[video]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p>“The first ever Consolidator Grant in Turkey goes to <strong>MINERVA</strong>.” – <em>Cumhuriyet, 08.12.2013</em>. <a href="pdf">[pdf]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p>“<strong>Prof. Ozgur B. AKAN</strong> of Koc University awarded 1.8 million Euro grant by <strong>European Research Council (ERC)</strong>.” – <em>Hürriyet Ankara, 14.12.2013</em>. <a href="link">[link]</a></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> delivers an oral and poster presentation on “Fundamentals of Nanoscale Communications and Nanonetworks” at <strong>Koc University - Kyoto University International Symposium on "New Frontiers in Health Sciences and Technologies"</strong>, Kyoto, Japan.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives tutorials on “FRET-based Nanoscale Wireless Communications” and “Intra-body Molecular Nanonetworks” at <strong>The 1st International Summer School on Nanocommunications</strong>, <em>Nano Communications Center (NCC), Tampere University of Technology, Tampere, Finland</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Derya Malak</strong> has been awarded <strong>M.Sc. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received <strong>Outstanding Faculty of the Year Award 2012</strong>, <em>Faculty of Engineering, Koc University</em>, <em>2012</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Biologically-inspired and Nanoscale Communication and Networking” at the <strong>International Doctoral School on Advanced Topics in Electrical and Electronic Engineering and Informatics</strong>, <em>University of Pavia, Italy</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> joins as a “<strong>YOUNG SCIENTIST</strong>” and delivers an invited talk on “Frontiers in Nanotechnology” panel in the <strong>World Economic Forum (Summer Davos) 2012</strong>, in Tianjin, China.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Murat Kocaoglu</strong> has been awarded <strong>M.Sc. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Ahmet Ozan Bicen</strong> has been affiliated to <strong>Broadband Wireless Networking Lab (BWN Lab), Georgia Institute of Technology</strong> as a Ph.D. candidate.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Ahmet Ozan Bicen</strong> has been awarded <strong>M.Sc. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> chairs <strong>ACM MOBICOM 2012</strong>, <em>Istanbul</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Ahmet Ozan Bicen</strong> presents the paper titled “Energy-efficient RF Source Power Control for Opportunistic Distributed Sensing in Wireless Passive Sensor Networks” in <strong>IEEE ISCC 2012</strong>, <em>July 2012</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> is <strong>TPC Co-Chair</strong> of <strong>IEEE ISCC 2012</strong>, <em>Cappadocia</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Murat Kuscu</strong> delivers a presentation titled “FRET-based Single-pair, Broadcast and Multi-step Nanocommunications with Multi-exciton Transmission” in <strong>N3Summit 2012</strong>, to be held at <em>Universitat Politecnica de Catalunya, Barcelona</em>, <em>June 2012</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> chairs a Session on “Applications of Nanocommunication &amp; Nanonetworks” in <strong>N3Summit 2012</strong>, to be held at <em>Universitat Politecnica de Catalunya, Barcelona</em> in <em>21st and 22nd of June, 2012</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Derya Malak</strong> presents the papers titled “On the Node Density Limits and Rate-Delay-Energy Tradeoffs in Ad Hoc Nanonetworks with Minimum Energy Coding” and “An Information Theoretical Analysis of Broadcast Networks and Channel Routing for FRET-based Nanoscale Communications” in <strong>IEEE MoNaCom 2012</strong> (in conjunction with <strong>IEEE ICC 2012</strong>), <em>June 2012</em></p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> chairs <strong>2nd IEEE International Workshop on Molecular and Nano-Scale Communications (MoNaCom 2012)</strong> in conjunction with <strong>IEEE ICC 2012</strong>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p>Our paper “<strong>Mobile Ad Hoc Nanonetworks with Collision-Based Molecular Communication</strong>” has been selected as the <strong>Spotlight Paper</strong> for the <em>March 2012 issue of the IEEE Transactions on Mobile Computing</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Murat Kocaoglu</strong> presents the paper titled “Minimum Energy Coding for Wireless NanoSensor Networks” in <strong>IEEE INFOCOM 2012</strong>, <em>March 2012</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Burhan Gulbahar</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has received <strong>IBM Shared University Research (SUR) Award</strong> for the project “Fundamentals of Green Communications and Networking,” <em>IBM</em>, <em>2011</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Baris Atakan</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>NWCL Workshop 2011</strong> is held on <em>December 14, 2011</em> in <em>NWCL-Lab (ENG-140)</em>. Detailed information is available in <a href="Workshop Webpage">Workshop Webpage</a>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> delivers an <strong>Invited Presentation</strong> titled “Next-generation Communications for Pervasive Surveillance” in the <strong>Workshop on Emerging Surveillance Capabilities and Requirements</strong> organized by the <em>Institute for the Protection and Security of the Citizen (IPSC), Joint Research Center (JRC), European Commission</em>, on <em>July 5-6, 2011</em>, in Ispra, Italy.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> chairs a Session on “Molecular Communications” in <strong>N3Summit 2011</strong>, to be held at <em>Universitat Politecnica de Catalunya, Barcelona</em> in <em>22nd and 23rd of June, 2011</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives an <strong>Ignite Talk</strong> at <strong>FET11</strong> in <em>Hungary</em>, on <em>May 2011</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> presents the paper titled “A Nanoscale Communication Channel with Fluorescence Resonance Energy Transfer (FRET)” in <strong>IEEE Monacom 2011</strong> (in conjunction with <strong>IEEE INFOCOM 2011</strong>), <em>April 2011</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> is elected as <strong>IEEE Communications Society Distinguished Lecturer</strong>, <em>IEEE</em>, <em>January 2011-December 2012</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>IEEE Communications Society 2010 Outstanding Young Researcher Award</strong> for <em>Europe, Middle-East and Africa Region (as runner-up)</em>, <em>IEEE ComSoc</em>, <em>2011</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Bio-inspired and Nano-scale Communication and Networking” at <strong>IEEE GLOBECOM 2010</strong> in <em>Miami, USA</em>, on <em>December 2010</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Eren Balevi</strong> defends his <strong>M.Sc. thesis</strong> on <em>Aug. 30, 2010</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has receives <strong>IBM Faculty Award 2010</strong>, <em>IBM</em>, <em>2010</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Aydin Guney</strong> defends his <strong>M.Sc. thesis</strong> on <em>May 15, 2010</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Muammer Arik</strong> and <strong>Prof. Akan</strong> receive <strong>METU Thesis Advisor of the Year Award 2010</strong>, <em>METU 2010</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Ertan Gul</strong> defends his <strong>M.Sc. thesis</strong> on <em>Apr. 4, 2010</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Gokhan Isbitiren</strong> defends his <strong>M.Sc. thesis</strong> on <em>Dec. 23, 2009</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Bio-inspired and Nano-scale Communication and Networking” at <strong>IEEE ISWCS 2009</strong> in <em>Siena, Italy</em> on <em>Sept. 2009</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives <strong>Keynote Speech</strong> on “Bio-inspired and Nano-scale Molecular Communications: From Evolution to Evaluation” at <strong>SPECTS 2009</strong> in <em>Istanbul Turkey</em> on <em>July 2009</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Next Generation Sensor Networks” <strong>IEEE SIU 2009</strong> in <em>Antalya Turkey</em> on <em>Apr. 2009</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>Turkish Academy of Sciences Distinguished Young Scientist Award 2008 (TUBA-GEBIP)</strong>, <em>Turkish Academy of Sciences</em>, <em>2008</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>IBM Faculty Award 2008</strong>, <em>IBM</em>, <em>2008</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>METU Outstanding Young Researcher Award 2008</strong>, <em>Middle East Technical University</em>, <em>2008</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>Parlar Foundation Research Encouragement Award</strong>, <em>Prof. Mustafa Parlar Foundation</em>, <em>2006</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>Editor of the Year Award</strong>, <em>AD HOC Networks Journal (Elsevier Science)</em>, <em>2006</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> receives <strong>Best Paper Award</strong>, <strong>IEEE ISCN 2006</strong>, <em>Istanbul, Turkey</em>, <em>June 2006</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Multimedia Sensor Networks” at <strong>NATO-ARW</strong> in <em>Romania</em> on <em>Sept. 2006</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Sensor Networks for Military and Defense Applications” at <strong>NATO-ARW</strong> in <em>Romania</em> on <em>Sept. 2006</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Multimedia Communication in Wireless Sensor Networks” at <strong>IEEE ISCN 2006</strong> in <em>Istanbul Turkey</em> on <em>June 2006</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> has receives <strong>TUBITAK-Career Award</strong>, <em>The Scientific & Technological Research Council of Turkey</em>, <em>2005</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Correlation-based Communication in Wireless Sensor Networks” at <strong>IEEE Communication Society-TR Chapter Distinguished Seminer</strong> in <em>Istanbul Turkey</em> on <em>June 2005</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives an invited talk on “Wireless Sensor Networks and Applications” at <strong>ASELSAN Inc.</strong> in <em>Ankara Turkey</em> on <em>Jan. 2005</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+        <div class="news-item">
+            <div class="news-text">
+                <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Sensor Networks: State-of-the-art and Research Challenges” at <strong>IFIP TC6 NET-CON 2004</strong> in <em>Palma de Mallorca Spain</em> on <em>Nov. 2004</em>.</p>
+            </div>
+            <div class="thumb"></div>
+        </div>
+
     </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> delivered a <strong>Tutorial</strong>, “Internet of Bio-Nano Things: Getting Practical with Molecular Communications,” at <strong>IEEE Future Networks World Forum 2023</strong>, Baltimore, MD, USA, <em>November 2023</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> gave an <strong>Invited Talk</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>Clare Hall College, University of Cambridge</strong>, <em>August 2023</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> is serving as <strong>Associate Editor</strong>, <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, <em>since 2023</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> is serving as <strong>Editor</strong>, <em>Scientific Reports (Nature)</em>, <em>since 2023</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2022 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> delivered a <strong>Tutorial</strong>, “Internet of Bio-Nano Things: Getting Practical with Molecular Communications,” at <strong>IEEE GLOBECOM 2022</strong>, Rio de Janeiro, Brazil, <em>December 2022</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> gave an <strong>Invited Talk</strong>, “Internet of Everything - From Molecules to the Universe,” at the <strong>Nanjing Institute of Technology Seminar</strong>, <em>October 2022</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2021 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> was named a <strong>Turing Fellow</strong>, <strong>The Alan Turing Institute</strong>, <em>2021</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2020 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> was appointed as <strong>AXA Chair in Internet of Everything</strong>, supported by <strong>AXA Research Fund</strong>, <em>2020</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Prof. Akan</strong> has received the <strong>TÜBİTAK Science Award</strong> 2020, <em>The Scientific and Technological Research Council of Turkey (TÜBİTAK)</em>, <em>2020</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- Awards / Editorial etc. -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Dr. Akan</strong> receives the <strong>ACM NanoCom Outstanding Milestone Award</strong>, recognizing foundational contributions to theoretical and experimental molecular communication models for neural systems and brain. <em>NanoCom</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Murat Kuscu</strong> has been awarded the <strong>IEEE Turkey Ph.D. Thesis Award</strong>, <em>2018</em>. <em>Murat Kuscu</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><em>IEEE Networking Letters</em>: <strong>Dr. Akan</strong> will serve on the inaugural editorial board of the soon-to-be-launched journal.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2018 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Tooba Khan</strong> received the <strong>IEEE INFOCOM 2018 Best-in-Session Presentation Award</strong> for “Information Theoretical Analysis of Synaptic Communication for Nanonetworks” (co-authors: <em>Hamideh Ramezani, Tooba Khan, Ozgur B. Akan</em>), <strong>IEEE INFOCOM 2018</strong>, Honolulu, USA, <em>April 2018</em>. <em>Tooba Khan</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2017–2016 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>IEEE Nanotechnology Council (NTC) Distinguished Lecturer</strong>: <strong>Prof. Akan</strong>, <em>January 2017 – December 2017</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p>Our paper “<strong>Crowdsourcing-based Mobile Network Tomography for xG Wireless Systems</strong>” (<em>Ergin Dinc, Mustafa Ozger, Ahmet F. Ates, Ibrahim Delibalta, Ozgur B. Akan</em>) received the <strong>Best Paper Award</strong>, <strong>IEEE ISCC 2016</strong>, Messina, Italy, <em>June 2016</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Ergin Dinc</strong> has been awarded the <strong>Ph.D.</strong> degree — Congratulations!</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2015–2016（Koç University 段落拆分） -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Sedat Simavi Award (Sciences)</strong> to <strong>Prof. Akan</strong> for “Physical Model and Analysis of FRET-Based Nano Molecular Communication Channel,” <em>2015</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Elected member</strong> of the <strong>Science Academy</strong>, <em>2015</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>IEEE Fellow</strong> (<em>2016</em>) with citation: “For contributions to wireless sensor networks”.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Ozgur Ergul</strong> has been awarded the <strong>Ph.D.</strong> degree — Congratulations! <em>Derya Malak</em>.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2014（全部逐条拆分） -->
-    <div class="news-item"><div class="news-text"><p><strong>Outstanding Faculty of the Year Award</strong>, Faculty of Engineering, <strong>Koç University</strong>, <em>2014</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>TÜBİTAK Young Scientist Award</strong>, <em>2014</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Bloomberg Businessweek</strong> feature: “Telecommunications the key to spinal cord disorders,” <em>14.11.2014</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>“<strong>Kadir Has Awards</strong> … ‘The Promising Scientist Award’ was granted to <strong>Prof. Dr. Ozgur B. Akan</strong>.” — <em>Hürriyet, 19.03.2014</em>. [html]</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Popular Science</strong>: Article featuring <strong>Project MINERVA</strong> and NWCL’s nano-communications. [pdf]</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Platin Magazine</strong>: Listed among “The 100 Most Influential Turkish Scientists”.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Kadir Has University Promising Scientist Award 2014</strong> to <strong>Prof. Akan</strong>, <em>2014</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Panorama</strong> (Kadir Has University magazine): Feature on <strong>Project MINERVA</strong> &amp; nano-communications. [pdf]</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>BAGEP 2014 — Young Scientist Award</strong>, <em>The Science Academy</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Scientist of the Year Award 2013</strong>, <em>Bilim Kahramanları Derneği</em>, <em>2013</em>.</p></div><div class="thumb"></div></div>
-
-    <!-- 2013（逐条拆分） -->
-    <div class="news-item"><div class="news-text"><p><strong>ERC Consolidator Grant</strong>: Communication-theoretical investigations of nervous nanonetworks awarded <em>€1.8M</em> for 5 years.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>ACM TechNews</strong> coverage of <strong>Project MINERVA</strong> (<em>Dec 2013</em>). [html]</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>NTV</strong> national TV: Interview on <strong>Project MINERVA</strong> (<em>Dec 2013</em>). [video]</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>“The first ever Consolidator Grant in Turkey goes to <strong>MINERVA</strong>.” — <em>Cumhuriyet, 08.12.2013</em>. [pdf]</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>“<strong>Prof. Ozgur B. AKAN</strong> of Koç University awarded €1.8M grant by <strong>ERC</strong>.” — <em>Hürriyet Ankara, 14.12.2013</em>. [link]</p></div><div class="thumb"></div></div>
-
-    <!-- Koç–Kyoto Symposium（已是单条） -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Koç University – Kyoto University International Symposium</strong> on “New Frontiers in Health Sciences and Technologies,” Kyoto, Japan: Oral and poster presentations on “Fundamentals of Nanoscale Communications and Nanonetworks”.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- NCC (Tampere) —— 拆成两条 -->
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>The 1st International Summer School on Nanocommunications</strong>, NCC, Tampere University of Technology, Finland: Tutorials on “FRET-based Nanoscale Wireless Communications” and “Intra-body Molecular Nanonetworks”.</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-    <div class="news-item">
-      <div class="news-text">
-        <p><strong>Derya Malak</strong> awarded the <strong>M.Sc.</strong> degree — Congratulations!</p>
-      </div>
-      <div class="thumb"></div>
-    </div>
-
-    <!-- 2012 —— 全部拆分 -->
-    <div class="news-item"><div class="news-text"><p><strong>Outstanding Faculty of the Year Award</strong>, Faculty of Engineering, <strong>Koç University</strong>, <em>2012</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>University of Pavia</strong>: Tutorial “Biologically-inspired and Nanoscale Communication and Networking,” International Doctoral School on Advanced Topics in EEE &amp; Informatics.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>World Economic Forum (Summer Davos) 2012</strong>, Tianjin, China: Joined as a <strong>Young Scientist</strong>; invited talk on “Frontiers in Nanotechnology”.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>Murat Kocaoglu</strong> awarded the <strong>M.Sc.</strong> degree — Congratulations!</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>Ahmet Ozan Bicen</strong> affiliated to <strong>BWN Lab, Georgia Tech</strong> as Ph.D. candidate.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>Ahmet Ozan Bicen</strong> awarded the <strong>M.Sc.</strong> degree — Congratulations!</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>ACM MobiCom 2012</strong>, Istanbul: Served as Chair (<em>SIGMOBILE</em>).</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>IEEE ISCC 2012</strong>: “Energy-efficient RF Source Power Control for Opportunistic Distributed Sensing in Wireless Passive Sensor Networks,” presented by <strong>Ahmet Ozan Bicen</strong>, <em>July 2012</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>IEEE ISCC 2012</strong>, Cappadocia: <strong>TPC Co-Chair</strong> (Prof. Akan).</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>N3Summit 2012</strong>, UPC Barcelona: <strong>Murat Kocaoglu</strong> presents “FRET-based Single-pair, Broadcast and Multi-step Nanocommunications with Multi-exciton Transmission”.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>N3Summit 2012</strong>: Sessions on “Applications of Nanocommunication &amp; Nanonetworks” chaired by <strong>Prof. Akan</strong>, <em>June 21–22, 2012</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>IEEE MoNaCom 2012</strong> (with IEEE ICC 2012): <strong>Derya Malak</strong> presents works on node density limits, rate–delay–energy tradeoffs, and FRET-based nanoscale communications, <em>June 2012</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>2nd IEEE MoNaCom 2012</strong> (with IEEE ICC 2012) chaired by <strong>Prof. Akan</strong>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p>Paper “<strong>Mobile Ad Hoc Nanonetworks with Collision-Based Molecular Communication</strong>” selected as <strong>Spotlight Paper</strong>, <em>IEEE Transactions on Mobile Computing</em>, <em>March 2012</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>IEEE INFOCOM 2012</strong>, <em>March 2012</em>: <strong>Murat Kocaoglu</strong> presents “Minimum Energy Coding for Wireless NanoSensor Networks”.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>Burhan Gulbahar</strong> awarded the <strong>Ph.D.</strong> degree — Congratulations!</p></div><div class="thumb"></div></div>
-
-    <!-- 2011（逐条拆分） -->
-    <div class="news-item"><div class="news-text"><p><strong>IBM SUR Award</strong> for “Fundamentals of Green Communications and Networking,” <em>2011</em>.</p></div><div class="thumb"></div></div>
-    
-    <div class="news-item"><div class="news-text"><p><strong>Baris Atakan</strong> awarded the <strong>Ph.D.</strong> degree — Congratulations!</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>NWCL Workshop 2011</strong> held on Dec 14, 2011 (ENG-140).</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p>Invited presentation “<strong>Next-generation Communications for Pervasive Surveillance</strong>” at <em>IPSC/JRC, European Commission</em>, Ispra, Italy, <em>July 5–6, 2011</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>N3Summit 2011</strong>, UPC Barcelona: Session on “Molecular Communications” chaired by <strong>Prof. Akan</strong>, <em>June 22–23, 2011</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>FET11</strong>, Hungary: Ignite Talk by <strong>Prof. Akan</strong>, <em>May 2011</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>IEEE MoNaCom 2011</strong> (with IEEE INFOCOM 2011): “A Nanoscale Communication Channel with FRET,” <em>April 2011</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p>Elected <strong>IEEE Communications Society Distinguished Lecturer</strong>, <em>Jan 2011 – Dec 2012</em>.</p></div><div class="thumb"></div></div>
-
-    <!-- 2010–2009（逐条拆分） -->
-    <div class="news-item"><div class="news-text"><p><strong>IEEE ComSoc 2010 Outstanding Young Researcher Award</strong> (EMEA, runner-up), <em>2011</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Tutorial “Bio-inspired and Nano-scale Communication and Networking,” <strong>IEEE GLOBECOM 2010</strong>, Miami, USA, <em>Dec 2010</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Eren Balevi</strong> defends <strong>M.Sc.</strong>, <em>Aug 30, 2010</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>IBM Faculty Award 2010</strong> to <strong>Prof. Akan</strong>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Aydin Guney</strong> defends <strong>M.Sc.</strong>, <em>May 15, 2010</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>METU Thesis Advisor of the Year 2010 (with <strong>Muammer Arik</strong>).</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Ertan Gul</strong> defends <strong>M.Sc.</strong>, <em>Apr 4, 2010</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Gokhan Isbitiren</strong> defends <strong>M.Sc.</strong>, <em>Dec 23, 2009</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Tutorial “Bio-inspired and Nano-scale Communication and Networking,” <strong>IEEE ISWCS 2009</strong>, Siena, Italy, <em>Sept 2009</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Keynote “Bio-inspired and Nano-scale Molecular Communications: From Evolution to Evaluation,” <strong>SPECTS 2009</strong>, Istanbul, <em>July 2009</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Tutorial “Next Generation Sensor Networks,” <strong>IEEE SIU 2009</strong>, Antalya, <em>Apr 2009</em>.</p></div><div class="thumb"></div></div>
-
-    <!-- 2008–2006（逐条拆分） -->
-    <div class="news-item"><div class="news-text"><p><strong>TÜBA-GEBİP Distinguished Young Scientist Award</strong>, <em>2008</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>IBM Faculty Award</strong>, <em>2008</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>METU Outstanding Young Researcher Award</strong>, <em>2008</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Parlar Foundation Research Encouragement Award</strong>, <em>2006</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p><strong>Editor of the Year Award</strong>, <em>Ad Hoc Networks (Elsevier)</em>, <em>2006</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p><strong>Best Paper Award</strong>, <strong>IEEE ISCN 2006</strong>, Istanbul, <em>June 2006</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Tutorial “Wireless Multimedia Sensor Networks,” <strong>NATO-ARW</strong>, Romania, <em>Sept 2006</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Tutorial “Wireless Sensor Networks for Military and Defense Applications,” <strong>NATO-ARW</strong>, Romania, <em>Sept 2006</em>.</p></div><div class="thumb"></div></div>
-    <div class="news-item"><div class="news-text"><p>Tutorial “Multimedia Communication in Wireless Sensor Networks,” <strong>IEEE ISCN 2006</strong>, Istanbul, <em>June 2006</em>.</p></div><div class="thumb"></div></div>
-
-    <!-- 2005–2004（拆成两条） -->
-    <div class="news-item"><div class="news-text"><p><strong>TÜBİTAK Career Award</strong>, <em>2005</em>.</p></div><div class="thumb"></div></div>
-
-    <div class="news-item"><div class="news-text"><p>Invited/tutorial talks: IEEE ComSoc-TR Distinguished Seminar (Istanbul, <em>June 2005</em>), ASELSAN (Ankara, <em>Jan 2005</em>), and <strong>IFIP TC6 NET-CON 2004</strong> (Palma de Mallorca, <em>Nov 2004</em>): “Wireless Sensor Networks: State-of-the-art and Research Challenges”.</p></div><div class="thumb"></div></div>
-
-  </div>
 </div>
