@@ -14,7 +14,7 @@ profiles:
     content: people/about_prof_akan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Professor Ozgur Baris Akan</p>
+      <p>Prof. Ozgur Baris Akan, IEEE Fellow</p>
       <p>Principal Investigator of IoE Group</p>
 
   - align: left
