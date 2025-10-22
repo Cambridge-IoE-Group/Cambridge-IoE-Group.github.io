@@ -8,6 +8,15 @@ importance: 2
 category: Previous
 ---
 
+<!-- 右侧浮动的 LOGO（插在要点列表之后） -->
+<div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/logos/tubitak.jpg"
+     class="img-fluid rounded z-depth-1"
+  %}
+</div>
+
 TeraFemto: Terahertz Femtocell for 5G Mobile Networks
 - Funded by: TUBITAK 1003 Fund
 - Period: July 2014 - June 2017

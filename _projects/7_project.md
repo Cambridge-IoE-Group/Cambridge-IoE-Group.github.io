@@ -2,11 +2,21 @@
 layout: page
 title: Intel Corporation
 description: Energy Efficient Scheduling for LTE (2012-2013)
-img: assets/img/lte1.png
+img: assets/img/logos/Intel_logo_2023.png
 importance: 6
 category: Previous
 # related_publications: true
 ---
+
+
+<!-- 右侧浮动的 LOGO（插在要点列表之后） -->
+<div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/logos/Intel_logo_2023.png"
+     class="img-fluid rounded z-depth-1"
+  %}
+</div>
 
 Energy Efficient Scheduling for LTE
 - Funded by: INTEL

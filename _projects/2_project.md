@@ -8,6 +8,14 @@ category: Previous
 # giscus_comments: true
 ---
 
+<!-- 右侧浮动的 LOGO（插在要点列表之后） -->
+<div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/logos/euflag.png"
+     class="img-fluid rounded z-depth-1"
+  %}
+</div>
 MINERVA: Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment
 - Funded by: ERC Consolidator Grant
 - Period: February 2014 - February 2019

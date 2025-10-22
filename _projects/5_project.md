@@ -7,6 +7,15 @@ importance: 4
 category: Previous
 ---
 
+<!-- 右侧浮动的 LOGO（插在要点列表之后） -->
+<div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/logos/lockheed_martin.png"
+     class="img-fluid rounded z-depth-1"
+  %}
+</div>
+
 Mobile Ad Hoc beyond-Line-of-Sight (b-LoS) Networks
 - Funded by: Lockheed Martin
 - Period: November 2012 - November 2015

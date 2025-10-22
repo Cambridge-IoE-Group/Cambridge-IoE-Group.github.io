@@ -7,6 +7,16 @@ importance: 8
 category: Previous
 ---
 
+
+<!-- 右侧浮动的 LOGO（插在要点列表之后） -->
+<div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/logos/tubitak.jpg"
+     class="img-fluid rounded z-depth-1"
+  %}
+</div>
+
 Cognitive Radio Sensor Networks (CRSN)
 - Funded by: TUBITAK 110E249
 - Period: Feb 2011 – Jan 2014

@@ -9,7 +9,7 @@ category: Current
 ---
 
 <!-- 右侧浮动的 LOGO（插在要点列表之后） -->
-<div class="float-md-right" style="max-width:260px; margin:0 0 1rem 1rem;">
+<div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
   {% include figure.liquid
      loading="eager"
      path="assets/img/logos/axa_logo.png"
