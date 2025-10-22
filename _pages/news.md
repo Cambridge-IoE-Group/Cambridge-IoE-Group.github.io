@@ -21,8 +21,8 @@ nav_order: 6
   display: flex;
   align-items: center;            /* 垂直居中文本（与可选缩略图） */
   gap: 1.25rem;
-  padding: 24px 0;                /* 放松上下间距 */
-  min-height: 100px;               /* 提供“上下两线之间”的可视高度 */
+  padding: 42px 0;                /* 放松上下间距 */
+  min-height: 200px;               /* 提供“上下两线之间”的可视高度 */
   border-bottom: 2px solid var(--global-divider-color);
 }
 
