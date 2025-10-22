@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-research",
-          title: "research",
+        },{id: "nav-teaching",
+          title: "teaching",
           description: "Teaching activities of Prof. Özgür B. Akan",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
