@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+<br>
 
 <!-- {% include news.liquid %} -->
 
@@ -33,36 +34,54 @@ nav_order: 6
 
 
 <style>
-/* ——— news cards ——— */
-.news-list { margin-top: .5rem; }
-.news-card {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem 1.25rem;
-  padding: 1.25rem 0;
-  border-top: 2px solid rgba(0,0,0,.06);
+/* 整体：列表上方先画一条线 */
+.news-list{
+  margin-top: .5rem;
+  border-top: 2px solid var(--global-divider-color);
 }
-.news-card .body { font-size: 1.02rem; line-height: 1.75; }
-.news-card .title { margin: 0 0 .25rem 0; font-weight: 600; }
-.news-card .meta  { margin-top: .15rem; font-size: .95rem; opacity: .65; }
 
-/* right-side image (optional) */
-.news-card .thumb { justify-self: end; align-self: start; }
-.news-card .thumb img{
-  max-width: 220px;            /* 控制右侧图片宽度 */
+/* 每条新闻：底部画线，设置足够内边距与最小高度，垂直居中文本 */
+.news-item{
+  display: flex;
+  align-items: center;            /* 垂直居中文本（与可选缩略图） */
+  gap: 1.25rem;
+  padding: 18px 0;                /* 放松上下间距 */
+  min-height: 88px;               /* 提供“上下两线之间”的可视高度 */
+  border-bottom: 2px solid var(--global-divider-color);
+}
+
+/* 文本本身：提高行距和字号，去掉段落默认外边距 */
+.news-text{ flex: 1 1 auto; }
+.news-text p{
+  margin: 0;
+  line-height: 1.8;               /* 行距更舒适 */
+  font-size: 1.05rem;
+}
+
+/* 可选：右侧配图（若后续需要左右排图文） */
+.news-item .thumb{ flex: 0 0 auto; }
+.news-item .thumb img{
+  max-width: 220px;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 6px 18px rgba(0,0,0,.08);
 }
 
-/* >= md 屏幕左右排；小屏自动上下堆叠 */
-@media (min-width: 768px){
-  .news-card { grid-template-columns: 1fr minmax(160px, 240px); }
+/* 响应式：小屏改为上下堆叠，保持舒适间距 */
+@media (max-width: 768px){
+  .news-item{
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 0;
+    min-height: unset;            /* 小屏不强制最小高度 */
+  }
+  .news-item .thumb{ margin-top: .5rem; }
+  .news-text p{ font-size: 1rem; line-height: 1.75; }
 }
 
-/* 超窄屏缩图 */
+/* 超窄屏缩小图片 */
 @media (max-width: 400px){
-  .news-card .thumb img{ max-width: 160px; }
+  .news-item .thumb img{ max-width: 160px; }
 }
 </style>
 
@@ -71,8 +90,11 @@ nav_order: 6
 
 
 
+
+
+
 <div class="news-wrap">
-  <h2 class="news-title">News and Awards</h2>
+  <!-- <h2 class="news-title">News and Awards</h2> -->
 
   <div class="news-list">
 
