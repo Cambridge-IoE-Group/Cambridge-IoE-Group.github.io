@@ -3,7 +3,7 @@ layout: post
 title: Our group website have been launched today!
 date: 2025-10-08
 inline: false
-related_posts: true
+# related_posts: true
 ---
 
 Our group website have been launched today!
