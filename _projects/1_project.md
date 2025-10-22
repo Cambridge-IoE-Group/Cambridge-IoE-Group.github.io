@@ -8,6 +8,15 @@ category: Current
 # related_publications: true
 ---
 
+<!-- 右侧浮动的 LOGO（插在要点列表之后） -->
+<div class="float-md-right" style="max-width:260px; margin:0 0 1rem 1rem;">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/logos/axa_logo.png"
+     class="img-fluid rounded z-depth-1"
+  %}
+</div>
+
 MI-FI: Micro/Nanoscale Transceivers for Wireless Molecular Information Communications
 - Funded by: AXA Research Fund
 - Period: 2020-2025
