@@ -17,9 +17,7 @@ nav_order: 4
 <h2 id="alumni">past</h2>
 
 - UCAM-4B27 Internet of Everything
-- UCAM-3B2 Integrated Digital Electronics 
 - UCAM-IIA Project: GB4 - Multi-modal Communications for Internet of Everything 
-- UCAM-4B27 Internet of Everything 
 - UCAM-GRM4 Graphene CDT Module 4 - GRM in Internet of Everything 
 - UCAM-St Catharine's College, 1A Electrical Engineering Supervisions 
 - KU-ELEC563 Internet of Everything
