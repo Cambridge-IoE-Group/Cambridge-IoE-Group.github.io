@@ -11,10 +11,13 @@ nav_order: 3
 
 <!-- Bibsearch Feature -->
 
+
 {% include bib_search.liquid %}
 
 <div class="publications">
+  {%- capture pubs -%}
+    {% bibliography --group_by none --sort_by year,month,day --order descending %}
+  {%- endcapture -%}
 
-{% bibliography %}
-
+  {{ pubs | replace: '<ol class="bibliography">', '<ol class="bibliography" reversed>' }}
 </div>
