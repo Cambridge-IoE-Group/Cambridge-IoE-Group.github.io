@@ -125,6 +125,32 @@ profiles:
 
 
 
+<style>
+/* === 统一所有头像尺寸 === */
+.profiles .profile img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* 教授头像更大一些（可选） */
+.profiles .profile:first-of-type img {
+  width: 260px;
+  height: 260px;
+}
+
+/* 小屏自适应 */
+@media (max-width: 576px) {
+  .profiles .profile img {
+    width: 160px;
+    height: 160px;
+  }
+}
+</style>
+
 
 
 <!-- ===== Alumni (one-line with dotted leaders) ===== -->
@@ -150,7 +176,6 @@ profiles:
     .alumni .dots { min-width: 40px; flex: 1 1 100px; }
   }
 </style>
-
 
 <h2 id="alumni">Alumni</h2>
 <ul class="alumni">
