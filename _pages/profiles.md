@@ -128,20 +128,13 @@ profiles:
 <style>
 /* === 统一所有头像尺寸（命中 layout: profiles 的结构）=== */
 .profile img.img-fluid {
-  width: 360px !important;
-  height: 360px !important;
+  width: 320px !important;
+  height: 320px !important;
   object-fit: cover;
   border-radius: 8px;   /* 如果想要圆形头像可改成 50% */
   display: block;
   margin: 0 auto;
 }
-
-/* 教授头像更大一些（可选：第一条 profile） */
-.profile:first-of-type img.img-fluid {
-  width: 420px !important;
-  height: 420px !important;
-}
-
 
 /* 小屏自适应 */
 @media (max-width: 576px) {
