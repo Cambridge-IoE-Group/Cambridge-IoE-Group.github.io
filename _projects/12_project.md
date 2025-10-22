@@ -3,7 +3,7 @@ layout: page
 title: TUBA
 description: Communication Protocols for Nano-networks (2008-2010)
 importance: 11
-ima: assets/img/logos/TUBA.jpg
+img: assets/img/logos/TUBA.jpg
 category: Previous
 ---
 
