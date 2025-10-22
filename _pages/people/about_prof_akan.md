@@ -1,5 +1,5 @@
 Prof. Akan is the Head of the Internet of Everything (IoE) Group at the Department of Engineering, University of Cambridge, UK. He is also a Professor with the Department of Electrical and Electronics Engineering and the Director of Next-generation and Wireless Communications Laboratory (NWCL), Koç University, Istanbul, Turkey. He acted as the Associate Director and the Director of Graduate School of Sciences and Engineering between January 2013 – May 2016. His current research interests are in nanoscale, molecular communications, next-generation wireless communications, internet of things, 5G mobile networks, sensor networks, distributed social sensing, satellite and space communications, signal processing, information theory.
 
-[Google Scholar](https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-bar%C4%B1%C5%9F-akan-90047a72/), [IEEE Profile](https://ieeexplore.ieee.org/author/38484380700/).
+[Google Scholar](https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-bar%C4%B1%C5%9F-akan-90047a72/), [IEEE Profile](https://ieeexplore.ieee.org/author/38484380700/)
 
 <!-- Further information can be found here: [Prof. Akan](https://cambridge-ioe-group.github.io/prof/). -->
