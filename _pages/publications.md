@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Publications of the IoE Group.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->

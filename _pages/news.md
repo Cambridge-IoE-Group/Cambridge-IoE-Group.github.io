@@ -4,13 +4,13 @@ title: news
 permalink: /news/
 description: News of the IoE Group
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 
 <!-- {% include news.liquid %} -->
 
-<style>
+<!-- <style>
 /* One-page news layout */
 .news-wrap { margin-top: .5rem; }
 .news-title { margin-bottom: .75rem; }
@@ -21,7 +21,7 @@ nav_order: 5
   gap: 1.25rem;
   padding: 1.25rem 0;
   /* top rule similar to the screenshot */
-  border-top: 3px solid rgba(0,0,0,0.06);
+  border-top: 2px solid rgba(0,0,0,.06);
 }
 .news-item:first-child { border-top: 0; }
 .news-text { flex: 1 1 auto; }
@@ -29,7 +29,43 @@ nav_order: 5
 @media (max-width: 768px) {
   .news-item { flex-direction: column; align-items: flex-start; }
 }
+</style> -->
+
+
+<style>
+/* ——— news cards ——— */
+.news-list { margin-top: .5rem; }
+.news-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem 1.25rem;
+  padding: 1.25rem 0;
+  border-top: 2px solid rgba(0,0,0,.06);
+}
+.news-card .body { font-size: 1.02rem; line-height: 1.75; }
+.news-card .title { margin: 0 0 .25rem 0; font-weight: 600; }
+.news-card .meta  { margin-top: .15rem; font-size: .95rem; opacity: .65; }
+
+/* right-side image (optional) */
+.news-card .thumb { justify-self: end; align-self: start; }
+.news-card .thumb img{
+  max-width: 220px;            /* 控制右侧图片宽度 */
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+}
+
+/* >= md 屏幕左右排；小屏自动上下堆叠 */
+@media (min-width: 768px){
+  .news-card { grid-template-columns: 1fr minmax(160px, 240px); }
+}
+
+/* 超窄屏缩图 */
+@media (max-width: 400px){
+  .news-card .thumb img{ max-width: 160px; }
+}
 </style>
+
 
 
 

@@ -4,8 +4,9 @@ permalink: /teaching/
 title: teaching
 description: Teaching activities of Prof. Özgür B. Akan
 nav: true
-nav_order: 4
+nav_order: 5
 ---
+
 
 <h2 id="alumni">current</h2>
 
