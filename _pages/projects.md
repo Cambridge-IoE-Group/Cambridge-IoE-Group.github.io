@@ -7,7 +7,7 @@ description:
 
   The projects below represent concrete extensions of our research directions. Each one transforms core ideas into interdisciplinary applications, engaging with partners across academia, industry, and society to demonstrate the impact of molecular communications and beyond.
 nav: true
-nav_order: 5
+nav_order: 4
 display_categories: [Current, Previous]
 horizontal: false
 ---

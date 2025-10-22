@@ -184,8 +184,8 @@ profiles:
 
 
 <h2 id="alumni">Alumni</h2>
-<ul class="alumni">
 
+<ul class="alumni">
   <li><span class="name">Dr. Beyza Ezgi Örtlek</span><span class="dots"></span><span class="meta">Ph.D., 2025</span></li>
   <li><span class="name">Hilal Esra Yaldiz</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Melih Şahin</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
@@ -225,4 +225,3 @@ profiles:
   <li><span class="name">Orhan Ayran</span><span class="dots"></span><span class="meta">M.Sc., 2007</span></li>
   <li><span class="name">Mehmet Yagli</span><span class="dots"></span><span class="meta">M.Sc., 2006</span></li>
 </ul>
-
