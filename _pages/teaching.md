@@ -7,25 +7,39 @@ nav: true
 nav_order: 4
 ---
 
-
-<br>
-
 <h2 id="alumni">current</h2>
 
-- ELEC513 Information Theory (Spring 2011, Spring 2012, Spring 2013, Spring 2014, Spring 2015, Fall 2018, Fall 2020)
-- ELEC201 Signals and Systems (Fall 2010, Fall 2011, Fall 2012, Fall 2013, Fall 2014, Fall 2015, Spring 2020, Spring 2021)
+- 4B29 Wireless Communication
+- 3B2 Integrated Digital Electronics
 
 <br>
 
 <h2 id="alumni">past</h2>
 
-- ELEC514 Wireless Communications (Spring 2012)
-- ELEC532 Multimedia Communications (Spring 2011)
-- EE444 Introduction to Computer Networks (Spring 2006-2010)
-- EE644 Multimedia and Wireless Data Networks (Spring 2005-2009)
-- EE590 Seminar (Fall 2009, Spring 2010)
-- EE301 Signals and Systems (Fall 2005-2009, Summer 2009)
-- EE441 Data Structures (Fall 2004-2007)
-- EE348 Introduction to Logic Design (Spring 2005)
+- UCAM-4B27 Internet of Everything
+- UCAM-3B2 Integrated Digital Electronics 
+- UCAM-IIA Project: GB4 - Multi-modal Communications for Internet of Everything 
+- UCAM-4B27 Internet of Everything 
+- UCAM-GRM4 Graphene CDT Module 4 - GRM in Internet of Everything 
+- UCAM-St Catharine's College, 1A Electrical Engineering Supervisions 
+- KU-ELEC563 Internet of Everything
+- KU-ELEC450/550 Internet of Everything (IoE): From Molecules to the Universe
+- KU-ELEC513 Information Theory
+- KU-ELEC514 Wireless Communications
+- KU-ELEC550 Internet of Bio-Nano Things 
+- KU-ELEC550 Internet of Things
+- KU-ELEC550 Next-generation Wireless Communications
+- KU-ELEC550 Nanoscale and Molecular Communication Networks
+- KU-ELEC532 Multimedia Networks
+- KU-ELEC201 Signals and Systems
+- KU-EE590 Seminar
+- KU-TECH511 Management of R&D, and Government-Industry-University Relations
+- KU-TECH510 Next Generation Information and Communication Technologies
+- KU-UNIV101 Back to the Future in Communication Technologies 
+- METU-EE644 Multimedia and Wireless Data Networks
+- METU-EE301 Signals and Systems
+- METU-EE348 Introduction to Logic Design
+- METU-EE441 Data Structures
+- METU-EE444 Introduction to Computer Networks
 
 <br>
