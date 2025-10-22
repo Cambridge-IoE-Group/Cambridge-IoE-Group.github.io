@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IBM Faculty Award 2010
+title: ASELSAN Inc.
 description: Remote Surveillance with Wireless Sensor Networks (2005-2006)
 # img: assets/img/6.jpg
 importance: 18
