@@ -1,7 +1,7 @@
 ---
 layout: about
-permalink: /research/
-title: research
+permalink: /teaching/
+title: teaching
 description: Teaching activities of Prof. Özgür B. Akan
 nav: true
 nav_order: 6
