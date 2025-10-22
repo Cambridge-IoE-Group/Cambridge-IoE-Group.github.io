@@ -2,9 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
-  <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
-  # <a href='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a>, <a href='https://www.ku.edu.tr/en/'>Koç University</a>.
+# subtitle: 
+#   <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>, <a href='https://www.cam.ac.uk/'>University of Cambridge</a>.
+#   <a href='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a>, <a href='https://www.ku.edu.tr/en/'>Koç University</a>.
 
 profile:
   # if you want to include more than one profile, just replicate the following block
@@ -39,10 +39,17 @@ social: true # includes social icons at the bottom of the page
 M.Sc., 2002, Electrical and Electronics Engineering, <a href='https://www.metu.edu.tr/'>Middle East Technical University</a>
 B.Sc., 1999, Electrical and Electronics Engineering, <a href='https://bilkent.edu.tr'>Bilkent University</a> -->
 
-
+<!-- 
 Ph.D., 2004, Electrical and Computer Engineering, Georgia Institute of Technology,
 M.Sc., 2002, Electrical and Electronics Engineering, Middle East Technical University,
-B.Sc., 1999, Electrical and Electronics Engineering, Bilkent University.
+B.Sc., 1999, Electrical and Electronics Engineering, Bilkent University. -->
+
+<a herf='https://www.eng.cam.ac.uk/profiles/oba21'>Chair Professor of Electronic and Communication Engineering</a>
+<a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a>
+<a href='https://www.cam.ac.uk/'>University of Cambridge, UK</a>
+<a herf='https://axa-research.org/funded-projects/?page=projects&authors%5B%5D=%C3%96zgur+B._AKAN&project=638'>AXA Chair Professor in Internet of Everything</a>
+<a herf='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a>
+<a herf='https://www.ku.edu.tr/'>Koç University, Türkiye</a>
 
 Prof. Özgür B. Akan was born in Ankara, Turkey. After high school education in Ankara Fen Lisesi (Ankara Science High School), he received the B.Sc. and M.Sc. degrees in electrical and electronics engineering from Bilkent University and Middle East Technical University, Ankara, Turkey, in June 1999 and January 2002, respectively. He received the Ph.D. degree in electrical and computer engineering from the Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, in May 2004. He was with the Department of Electrical and Electronics Engineering, Middle East Technical University between May 2004 and August 2010.
 
