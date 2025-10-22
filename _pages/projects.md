@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: 
   Our research activities form the foundation for the projects we undertake. By exploring fundamental principles in molecular communications, nano-networks, and emerging paradigms such as the Internet of Bio-Nano Things, we establish the theoretical and experimental groundwork that drives our applied initiatives. These projects not only test and validate our models in real-world scenarios but also create new insights that feed back into our ongoing research.
