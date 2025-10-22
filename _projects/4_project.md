@@ -3,8 +3,8 @@ layout: page
 title: European Commission
 description: "CIRCLE: Coordinating European Research on Molecular Communications (2015-2017)"
 img: assets/img/circle.jpg
-importance: 4
-category: Current
+importance: 3
+category: Previous
 ---
 
 CIRCLE: Coordinating European Research on Molecular Communications

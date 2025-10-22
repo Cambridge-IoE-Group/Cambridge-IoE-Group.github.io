@@ -3,7 +3,7 @@ layout: page
 title: Intel Corporation
 description: Energy Efficient Scheduling for LTE (2012-2013)
 img: assets/img/lte1.png
-importance: 2
+importance: 6
 category: Previous
 # related_publications: true
 ---

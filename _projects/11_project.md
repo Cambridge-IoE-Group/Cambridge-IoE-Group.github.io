@@ -3,7 +3,7 @@ layout: page
 title: IBM Faculty Award 2010
 description: Distributed Quantum Nano-scale Computing Architecture (2010-2012)
 # img: assets/img/6.jpg
-importance: 6
+importance: 10
 category: Previous
 ---
 

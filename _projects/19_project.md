@@ -3,7 +3,7 @@ layout: page
 title: IBM Faculty Award 2010
 description: Remote Surveillance with Wireless Sensor Networks (2005-2006)
 # img: assets/img/6.jpg
-importance: 14
+importance: 18
 category: Previous
 ---
 
