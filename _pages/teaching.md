@@ -1,12 +1,11 @@
 ---
-layout: about
+layout: page
 permalink: /teaching/
 title: teaching
 description: Teaching activities of Prof. Özgür B. Akan
 nav: true
 nav_order: 6
 ---
-
 
 <h2 id="alumni">Current</h2>
 
