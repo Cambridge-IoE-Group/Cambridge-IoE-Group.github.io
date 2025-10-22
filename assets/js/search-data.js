@@ -16,19 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "Members of the IoE Group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "nav-publications",
           title: "publications",
           description: "Publications of the IoE Group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Our research activities form the foundation for the projects we undertake. By exploring fundamental principles in molecular communications, nano-networks, and emerging paradigms such as the Internet of Bio-Nano Things, we establish the theoretical and experimental groundwork that drives our applied initiatives. These projects not only test and validate our models in real-world scenarios but also create new insights that feed back into our ongoing research.The projects below represent concrete extensions of our research directions. Each one transforms core ideas into interdisciplinary applications, engaging with partners across academia, industry, and society to demonstrate the impact of molecular communications and beyond.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "Members of the IoE Group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -43,13 +50,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Our research activities form the foundation for the projects we undertake. By exploring fundamental principles in molecular communications, nano-networks, and emerging paradigms such as the Internet of Bio-Nano Things, we establish the theoretical and experimental groundwork that drives our applied initiatives. These projects not only test and validate our models in real-world scenarios but also create new insights that feed back into our ongoing research.The projects below represent concrete extensions of our research directions. Each one transforms core ideas into interdisciplinary applications, engaging with partners across academia, industry, and society to demonstrate the impact of molecular communications and beyond.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
