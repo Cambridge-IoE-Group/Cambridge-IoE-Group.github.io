@@ -128,25 +128,19 @@ profiles:
 <style>
 /* === 统一所有头像尺寸（命中 layout: profiles 的结构）=== */
 .profile img.img-fluid {
-  width: 200px !important;
-  height: 200px !important;
+  width: 300px !important;
+  height: 300px !important;
   object-fit: cover;
   border-radius: 8px;   /* 如果想要圆形头像可改成 50% */
   display: block;
   margin: 0 auto;
 }
 
-/* 教授头像更大一些（可选：第一条 profile） */
-.profile:first-of-type img.img-fluid {
-  width: 260px !important;
-  height: 260px !important;
-}
-
 /* 小屏自适应 */
 @media (max-width: 576px) {
   .profile img.img-fluid {
-    width: 160px !important;
-    height: 160px !important;
+    width: 250px !important;
+    height: 250px !important;
   }
 }
 </style>
