@@ -8,14 +8,14 @@ nav_order: 5
 ---
 
 
-<h2 id="alumni">Current</h2>
+<h2>Current</h2>
 
 - 4B29 Wireless Communication
 - 3B2 Integrated Digital Electronics
 
 <br>
 
-<h2 id="alumni">Past</h2>
+<h2>Past</h2>
 
 - UCAM-4B27 Internet of Everything
 - UCAM-IIA Project: GB4 - Multi-modal Communications for Internet of Everything 

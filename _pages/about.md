@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: ""
 permalink: /
 # subtitle: 
 #   <p><a herf='https://www.eng.cam.ac.uk/profiles/oba21'>Chair Professor of Electronic and Communication Engineering</a></p>
@@ -38,6 +38,7 @@ social: true # includes social icons at the bottom of the page
   # limit: 5 # leave blank to include all the blog posts
 ---
 
+<h1>Prof. Özgür Barış Akan, IEEE Fellow</h1>
 
 <!-- Ph.D., 2004, Electrical and Computer Engineering, <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 M.Sc., 2002, Electrical and Electronics Engineering, <a href='https://www.metu.edu.tr/'>Middle East Technical University</a>
