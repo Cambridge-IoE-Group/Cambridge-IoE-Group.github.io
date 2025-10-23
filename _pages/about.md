@@ -52,16 +52,16 @@ social: true # includes social icons at the bottom of the page
 /* 2. 找到包含图片和 H1 的主容器，并强制其使用 Flex 布局 */
 /* 这是最不确定的部分，我们假设主内容区域有一个特定的类，
    如果下面的 selector 不起作用，你需要尝试父级容器的类名 */
-.post { 
-    display: flex;
-    flex-direction: column; /* 垂直堆叠 */
-}
+/* .post {  */
+    /* display: flex; */
+    /* flex-direction: column; 垂直堆叠 */
+/* } */
 
 /* 3. 针对图片/Profile 容器应用 order: 2 */
 /* 假设图片容器的类是 .profile 或 .profile-container */
-.profile { 
-    order: 2 !important; /* 让图片在第二个位置显示 */
-}
+/* .profile {  */
+    /* order: 2 !important; 让图片在第二个位置显示 */
+/* } */
 
 /* 4. 针对 H1 标题应用 order: 1 */
 /* 这将强制你的自定义 H1 标题显示在第一个位置 */

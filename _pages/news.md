@@ -626,7 +626,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has receives <strong>TUBITAK-Career Award</strong>, <em>The Scientific & Technological Research Council of Turkey</em>, <em>2005</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10063.png">
+                <img src="/assets/img/news/10063.gif">
             </div>
         </div>
         <div class="news-item">
@@ -634,7 +634,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Correlation-based Communication in Wireless Sensor Networks” at <strong>IEEE Communication Society-TR Chapter Distinguished Seminer</strong> in <em>Istanbul Turkey</em> on <em>June 2005</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10064.png">
+                <img src="/assets/img/news/10064.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -642,7 +642,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> gives an invited talk on “Wireless Sensor Networks and Applications” at <strong>ASELSAN Inc.</strong> in <em>Ankara Turkey</em> on <em>Jan. 2005</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10065.png">
+                <img src="/assets/img/news/10065.gif">
             </div>
         </div>
         <div class="news-item">
