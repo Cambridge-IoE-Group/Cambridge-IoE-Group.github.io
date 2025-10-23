@@ -32,34 +32,62 @@ social: true # includes social icons at the bottom of the page
   # limit: 5 # leave blank to include all the blog posts
 ---
 
-<style>
+
+
+<!-- <style>
 /* 隐藏由 al-folio 模板自动生成的 H1 标题 */
 /* 注意: 如果你手动添加的 H1 后面紧跟的是另一个 H1，你可能需要更精确的 CSS */
 .post-title:first-of-type { 
     display: none;
 }
+</style> -->
 
-/* 新增代码：确保自定义的 H1 标题不与右侧的浮动元素（图片）共行 */
-h1 {
-    /* 强制元素清除两侧的浮动（float），确保它独占一行 */
-    clear: both; 
-    /* 确保标题占据全部可用宽度 */
-    width: 100%; 
+
+<style>
+/* 1. 隐藏由 al-folio 模板自动生成的 H1 标题 */
+.post-title:first-of-type { 
+    display: none !important; /* 增加 !important 确保覆盖 */
 }
+
+/* 2. 找到包含图片和 H1 的主容器，并强制其使用 Flex 布局 */
+/* 这是最不确定的部分，我们假设主内容区域有一个特定的类，
+   如果下面的 selector 不起作用，你需要尝试父级容器的类名 */
+.post { 
+    display: flex;
+    flex-direction: column; /* 垂直堆叠 */
+}
+
+/* 3. 针对图片/Profile 容器应用 order: 2 */
+/* 假设图片容器的类是 .profile 或 .profile-container */
+.profile { 
+    order: 2 !important; /* 让图片在第二个位置显示 */
+}
+
+/* 4. 针对 H1 标题应用 order: 1 */
+/* 这将强制你的自定义 H1 标题显示在第一个位置 */
+h1 {
+    order: 1 !important; /* 让 H1 标题在第一个位置显示 */
+    clear: none !important; /* 移除之前添加的 clear 属性 */
+    width: 100% !important; 
+    /* 额外的 Flexbox 调整 */
+    flex-basis: auto; /* 自动调整大小 */
+}
+
+/* 如果 .post 不起作用，可以尝试父级容器，例如 .col-md-8 或 .post-container */
+/* #main-content-area > .row > .col-md-8 { 
+    display: flex;
+    flex-direction: column; 
+} */
 </style>
 
-<h1>Prof. Özgür Barış Akan, IEEE Fellow</h1>
 
+<h1>Prof. Özgür Barış Akan, IEEE Fellow</h1>
 
 
 <!-- Ph.D., 2004, Electrical and Computer Engineering, <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 M.Sc., 2002, Electrical and Electronics Engineering, <a href='https://www.metu.edu.tr/'>Middle East Technical University</a>
 B.Sc., 1999, Electrical and Electronics Engineering, <a href='https://bilkent.edu.tr'>Bilkent University</a> -->
 
-<!-- 
-Ph.D., 2004, Electrical and Computer Engineering, Georgia Institute of Technology,
-M.Sc., 2002, Electrical and Electronics Engineering, Middle East Technical University,
-B.Sc., 1999, Electrical and Electronics Engineering, Bilkent University. -->
 
 <a href='https://www.eng.cam.ac.uk/profiles/oba21/'>Chair Professor of Electronic and Communication Engineering</a><br>
 <a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a><br>
