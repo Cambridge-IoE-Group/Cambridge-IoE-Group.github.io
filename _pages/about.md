@@ -3,12 +3,6 @@ layout: about
 title: ""
 permalink: /
 # subtitle: 
-#   <p><a herf='https://www.eng.cam.ac.uk/profiles/oba21'>Chair Professor of Electronic and Communication Engineering</a></p>
-#   <p><a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a></p>
-#   <p><a href='https://www.cam.ac.uk/'>University of Cambridge, UK</a></p>
-#   <p><a herf='https://axa-research.org/funded-projects/?page=projects&authors%5B%5D=%C3%96zgur+B._AKAN&project=638'>AXA Chair Professor in Internet of Everything</a></p>
-#   <p><a herf='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a></p>
-#   <p><a herf='https://www.ku.edu.tr/'>Koç University, Türkiye</a></p>
 
 profile:
   # if you want to include more than one profile, just replicate the following block
@@ -37,6 +31,14 @@ social: true # includes social icons at the bottom of the page
   # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   # limit: 5 # leave blank to include all the blog posts
 ---
+
+<style>
+/* 隐藏由 al-folio 模板自动生成的 H1 标题 */
+/* 注意: 如果你手动添加的 H1 后面紧跟的是另一个 H1，你可能需要更精确的 CSS */
+.post-title:first-of-type { 
+    display: none;
+}
+</style>
 
 <h1>Prof. Özgür Barış Akan, IEEE Fellow</h1>
 
