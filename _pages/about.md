@@ -38,9 +38,19 @@ social: true # includes social icons at the bottom of the page
 .post-title:first-of-type { 
     display: none;
 }
+
+/* 新增代码：确保自定义的 H1 标题不与右侧的浮动元素（图片）共行 */
+h1 {
+    /* 强制元素清除两侧的浮动（float），确保它独占一行 */
+    clear: both; 
+    /* 确保标题占据全部可用宽度 */
+    width: 100%; 
+}
 </style>
 
 <h1>Prof. Özgür Barış Akan, IEEE Fellow</h1>
+
+
 
 <!-- Ph.D., 2004, Electrical and Computer Engineering, <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 M.Sc., 2002, Electrical and Electronics Engineering, <a href='https://www.metu.edu.tr/'>Middle East Technical University</a>
