@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
-  <p><a herf='https://www.eng.cam.ac.uk/profiles/oba21'>Chair Professor of Electronic and Communication Engineering</a></p>
-  <p><a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a></p>
-  <p><a href='https://www.cam.ac.uk/'>University of Cambridge, UK</a></p>
-  <p><a herf='https://axa-research.org/funded-projects/?page=projects&authors%5B%5D=%C3%96zgur+B._AKAN&project=638'>AXA Chair Professor in Internet of Everything</a></p>
-  <p><a herf='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a></p>
-  <p><a herf='https://www.ku.edu.tr/'>Koç University, Türkiye</a></p>
+# subtitle: 
+#   <p><a herf='https://www.eng.cam.ac.uk/profiles/oba21'>Chair Professor of Electronic and Communication Engineering</a></p>
+#   <p><a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a></p>
+#   <p><a href='https://www.cam.ac.uk/'>University of Cambridge, UK</a></p>
+#   <p><a herf='https://axa-research.org/funded-projects/?page=projects&authors%5B%5D=%C3%96zgur+B._AKAN&project=638'>AXA Chair Professor in Internet of Everything</a></p>
+#   <p><a herf='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a></p>
+#   <p><a herf='https://www.ku.edu.tr/'>Koç University, Türkiye</a></p>
 
 profile:
   # if you want to include more than one profile, just replicate the following block
@@ -48,19 +48,24 @@ Ph.D., 2004, Electrical and Computer Engineering, Georgia Institute of Technolog
 M.Sc., 2002, Electrical and Electronics Engineering, Middle East Technical University,
 B.Sc., 1999, Electrical and Electronics Engineering, Bilkent University. -->
 
-<!-- <p><a herf='https://www.eng.cam.ac.uk/profiles/oba21'>Chair Professor of Electronic and Communication Engineering</a></p>
-<p><a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a></p>
-<p><a href='https://www.cam.ac.uk/'>University of Cambridge, UK</a></p>
-<p><a herf='https://axa-research.org/funded-projects/?page=projects&authors%5B%5D=%C3%96zgur+B._AKAN&project=638'>AXA Chair Professor in Internet of Everything</a></p>
-<p><a herf='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a></p>
-<p><a herf='https://www.ku.edu.tr/'>Koç University, Türkiye</a></p> -->
+<a href='https://www.eng.cam.ac.uk/profiles/oba21/'>Chair Professor of Electronic and Communication Engineering</a><br>
+<a href='https://ee.eng.cam.ac.uk/'>Electrical Engineering Division</a>, <a href='https://www.eng.cam.ac.uk/'>Department of Engineering</a><br>
+<a href='https://www.cam.ac.uk/'>University of Cambridge, UK</a><br>
+<a href='https://axa-research.org/funded-projects/?page=projects&authors%5B%5D=%C3%96zgur+B._AKAN&project=638/'>AXA Chair Professor in Internet of Everything</a><br>
+<a href='https://ee.ku.edu.tr/'>Department of Electrical and Electronics Engineering</a><br>
+<a href='https://www.ku.edu.tr/'>Koç University, Türkiye</a>
+
 
 Prof. Özgür B. Akan was born in Ankara, Turkey. After high school education in Ankara Fen Lisesi (Ankara Science High School), he received the B.Sc. and M.Sc. degrees in electrical and electronics engineering from Bilkent University and Middle East Technical University, Ankara, Turkey, in June 1999 and January 2002, respectively. He received the Ph.D. degree in electrical and computer engineering from the Broadband and Wireless Networking Laboratory, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, in May 2004. He was with the Department of Electrical and Electronics Engineering, Middle East Technical University between May 2004 and August 2010.
 
+
 Prof. Akan is the Head of the Internet of Everything (IoE) Group at the Department of Engineering, University of Cambridge, UK. He is also a Professor with the Department of Electrical and Electronics Engineering and the Director of Next-generation and Wireless Communications Laboratory (NWCL), Koç University, Istanbul, Turkey. He acted as the Associate Director and the Director of Graduate School of Sciences and Engineering between January 2013 – May 2016. His current research interests are in nanoscale, molecular communications, next-generation wireless communications, internet of things, 5G mobile networks, sensor networks, distributed social sensing, satellite and space communications, signal processing, information theory.
+
 
 Prof. Akan is an IEEE Fellow. He is an Associate Editor for IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, and IET Communications, Editor for International Journal of Communication Systems (Wiley), European Transactions on Telecommunications, and Nano Communication Networks Journal (Elsevier). He is also the General Co-Chair for IEEE INFOCOM 2017, and served as the General Co-Chair for ACM MobiCom 2012 and IEEE MoNaCom 2012, and TPC Co-Chair for ACM NanoCom 2014, IEEE ISCC 2012, and ACM MSWiM 2010. He is an ACM and IET member.
 
+
 Prof. Akan received TUBITAK Science Award 2020. He is awarded the AXA Chair in Molecular Information and Communication Technologies for 2020-2025 and the European Research Council’s (ERC) Consolidator Grant for 2014-2019. He is appointed as IEEE Nanotechnology Council (NTC) Distinguished Lecturer effective January 2017, and IEEE Communications Society (ComSoc) Distinguished Lecturer effective January 2011. He received the TUBITAK Young Scientist Award 2014, Koç University Outstanding Faculty of the Year Award in 2012 and 2014, Promising Scientist Award 2014, Kadir Has University, Young Scientist Award 2014 (BAGEP 2014), The Science Academy, Outstanding Faculty of the Year Award 2012, Faculty of Engineering, Koç University, IBM Shared University Research (SUR) Award 2011, IEEE Communications Society 2010 Outstanding Young Researcher Award for Europe, Middle-East and Africa Region (as runner-up), IBM Faculty Award 2010, IBM Faculty Award 2008, Turkish Academy of Sciences Distinguished Young Scientist Award 2008 (TUBA-GEBIP), TUBITAK-Career Award in 2005.
+
 
 <br>
