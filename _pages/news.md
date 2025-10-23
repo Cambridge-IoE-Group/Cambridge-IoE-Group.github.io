@@ -598,45 +598,60 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Multimedia Sensor Networks” at <strong>NATO-ARW</strong> in <em>Romania</em> on <em>Sept. 2006</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10060.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Sensor Networks for Military and Defense Applications” at <strong>NATO-ARW</strong> in <em>Romania</em> on <em>Sept. 2006</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10061.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Multimedia Communication in Wireless Sensor Networks” at <strong>IEEE ISCN 2006</strong> in <em>Istanbul Turkey</em> on <em>June 2006</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10062.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has receives <strong>TUBITAK-Career Award</strong>, <em>The Scientific & Technological Research Council of Turkey</em>, <em>2005</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10063.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Correlation-based Communication in Wireless Sensor Networks” at <strong>IEEE Communication Society-TR Chapter Distinguished Seminer</strong> in <em>Istanbul Turkey</em> on <em>June 2005</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10064.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives an invited talk on “Wireless Sensor Networks and Applications” at <strong>ASELSAN Inc.</strong> in <em>Ankara Turkey</em> on <em>Jan. 2005</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10065.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Sensor Networks: State-of-the-art and Research Challenges” at <strong>IFIP TC6 NET-CON 2004</strong> in <em>Palma de Mallorca Spain</em> on <em>Nov. 2004</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="assets/img/news/10066.png">
+            </div>
         </div>
 
     </div>
 </div>
+
