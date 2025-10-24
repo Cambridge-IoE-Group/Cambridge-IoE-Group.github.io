@@ -97,7 +97,7 @@ B.Sc., 1999, Electrical and Electronics Engineering, <a href='https://bilkent.ed
 <a href='https://www.ku.edu.tr/'>Koç University, Türkiye</a>
 
 
-Prof. Özgür Barış Akan is an alumni of Ankara Fen Lisesi (Science High School), received BS and MS in electrical and electronics engineering from Bilkent University (1999) and Middle East Technical University (2022), and PhD in electrical and computer engineering from Georgia Institute of Technology (2004).
+Prof. Özgür Barış Akan is an alumni of Ankara Fen Lisesi (Science High School), received BS and MS in electrical and electronics engineering from Bilkent University (1999) and Middle East Technical University (2002), and PhD in electrical and computer engineering from Georgia Institute of Technology (2004).
 
 Prof. Akan is the Chair Professor of Electronic and Communication Engineering and the Head of the Internet of Everything (IoE) Group at the Department of Engineering, University of Cambridge. He is also the AXA Chair Professor in Internet of Everything and the Founding Director of Centre for neXt-generation Communications (CXC) and the Director of Next-generation and Wireless Communications Laboratory (NWCL), Koç University. He served as the Director of Graduate School of Sciences and Engineering (2013-2016 and 2019-2021), Dean of College of Engineering (2019-2021), Vice President for Research and Development (2021-2022), Koç University. His current research interests are in wireless, space, quantum and biological communications, machine learning, information theory and IoE.
 
