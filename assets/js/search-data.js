@@ -536,6 +536,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/özgür-barış-akan-90047a72", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0003-2523-3858", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
