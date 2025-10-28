@@ -10,8 +10,8 @@ nav_order: 5
 
 <h2>Current</h2>
 
-- 4B29 Wireless Communication
-- 3B2 Integrated Digital Electronics
+- [UCAM-4B29 Wireless Communication](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4b29-wireless-communication-2025-26)
+- [UCAM-3B2 Integrated Digital Electronics](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-3b2-integrated-digital-electronics-2025-26)
 
 <br>
 
