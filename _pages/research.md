@@ -1,8 +1,8 @@
 ---
-layout: profiles
+layout: page
 permalink: /research/
 title: Research
-description: Internet of Everything (IoE) Group
+# description: Internet of Everything (IoE) Group
 nav: true
 nav_order: 1
 
