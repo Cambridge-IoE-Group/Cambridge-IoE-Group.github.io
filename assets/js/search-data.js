@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Internet of Everything (IoE) Group",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
