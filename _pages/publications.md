@@ -199,6 +199,7 @@ nav_order: 2
   <li>O. B. Akan, J. Fang, I. F. Akyildiz, “Performance of TCP Protocols in Deep Space Communication Networks,” <em>IEEE Communications Letters</em>, vol. 6, no. 11, pp. 478–480, November 2002.</li>
 </ol>
 
+<br>
 
 ## <span class="section-title">Book Chapters</span>
 <ol class="pubs" reversed>
@@ -232,6 +233,8 @@ nav_order: 2
   <li>W. Su, E. Cayirci, O. B. Akan, “Overview of Communication Protocols for Sensor Networks,” in <em>Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems</em>, CRC Press, 2004.</li>
 </ol>
 
+
+<br>
 
 ## <span class="section-title">Conference Papers</span>
 <ol class="pubs" reversed>
@@ -325,13 +328,19 @@ nav_order: 2
 </ol>
 
 
+<br>
+
+
 ## <span class="section-title">Patents</span>
 <ol class="pubs" reversed>
   <li>O. Cetinkaya, O. B. Akan, “System and Method of Electric Field Energy Harvesting from Lighting Elements for Internet of Things,” International Patent Application, PCT/TR2016/050467, November 2016.</li>
 </ol>
 
 
-## <span class="section-title">Submitted</span>
+<br>
+
+
+## <span class="section-title">Submitted Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
   <li>D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication,” submitted to <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em>, 2025.</li>
@@ -390,10 +399,10 @@ nav_order: 2
   <li>B. Gulbahar, O. B. Akan, “A Communication Theoretical Modelling and Analysis of Wireless Nanoscale Magneto-Inductive Communication with Carbon Nanotube NanoCoils,” 2015.</li>
 </ol>
 
-
+<br>
 
 ## <span class="section-title">Theses</span>
-<ol class="pubs">
+<ol class="pubs" reversed>
   <li>M. Civas, “Transceiver Architectures and Physical Layer Techniques for Unconventional Communications in the Internet of Everything,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>C. Koca, “Game Theoretic and Bio-Inspired Communication Techniques for Internet of Bio-Nano Things,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>T. Khan, “Communication Theoretical Modeling and Analysis of Neuronal Communication with Synaptic Plasticity,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2022.</li>
