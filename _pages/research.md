@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /research/
 title: Research
 # description: Internet of Everything (IoE) Group
@@ -19,12 +19,10 @@ profiles:
 
 ---
 
-{% include profiles.liquid profiles=page.profiles %}
-
-<!-- <style>
+<style>
 /* 仅对本页生效：隐藏标题下布局自动插入的首个分隔线 */
 .page__content > hr:first-of-type { display: none; }
-</style> -->
+</style>
 
 Internet of Everything (IoE), the seamless interconnection and autonomous coordination of massive number of computing elements and sensors, inanimate and living entities, people, processes and data through the Internet infrastructure, is an emerging research direction towards enabling the Connected Universe from molecular sensors to vehicles and people. This novel framework has an enormous potential to transform the way we connect with and understand the Universe, by enabling new methods of interfering with the processes at the single-molecular level, and extending the human consciousness and control with smart agents collaboratively sensing and acting upon the environments never explored by any other paradigm before. The realization of IoE demands novel engineering solutions to overcome the unique connectivity, spectrum scarcity, miniaturization, interoperability and energy-efficiency challenges.
 
