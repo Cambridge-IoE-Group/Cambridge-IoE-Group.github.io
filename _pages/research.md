@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /research/
 title: Research
 # description: Internet of Everything (IoE) Group
