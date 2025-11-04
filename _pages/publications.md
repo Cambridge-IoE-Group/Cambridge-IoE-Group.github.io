@@ -210,47 +210,50 @@ nav_order: 2
   <li>O. B. Akan, J. Fang, I. F. Akyildiz, “Performance of TCP Protocols in Deep Space Communication Networks,” <em>IEEE Communications Letters</em>, vol. 6, no. 11, pp. 478–480, November 2002.</li>
 </ol>
 
+
 <br>
+
 
 ## <span class="section-title">Book Chapters</span>
 <ol class="pubs" reversed>
-  <li>M. Civas, T. Yilmaz, O. B. Akan, “Terahertz Band Intersatellite Communication Links,” in <em>Next Generation Wireless Terahertz Communication Networks</em>, CRC Press, 2021.</li>
-  <li>T. Khan, M. Civas, O. Cetinkaya, N. A. Abbasi, O. B. Akan, “Nanosensor Networks for Smart Health Care,” in <em>Nanosensors for Smart Cities</em>, Elsevier, 2019.</li>
-  <li>T. Yilmaz, N. A. Abbasi, and O. B. Akan, “Millimeter-Wave 5G-Enabled Internet of Things,” in <em>5G-Enabled Internet of Things</em>, CRC Press, 2019.</li>
-  <li>O. Cetinkaya, M. Ozger, O. B. Akan, “Internet of Energy Harvesting Cognitive Radios,” in <em>Towards Cognitive IoT Networks</em>, Springer Nature, 2019.</li>
-  <li>E. Dinc, M. Kuscu, B. A. Bilgin, O. B. Akan, “Internet of Everything - A Unifying Framework beyond Internet of Things,” in <em>Harnessing the Internet of Everything (IoE) for Accelerated Innovation Opportunities</em>, IGI Global, 2019.</li>
-  <li>H. Ramezani, T. Khan, E. Dinc, O. B. Akan, “Neuronal Communication Channels,” in <em>Encyclopedia of Wireless Networks</em>, Springer, 2018.</li>
-  <li>E. Dinc, O. B. Akan, “Atmospheric Ducting and Beyond-Line-of-Sight Communication,” in <em>Wiley Encyclopedia of Electrical and Electronics Engineering</em>, Wiley, 2018.</li>
-  <li>M. Ozger, E. B. Pehlivanoglu, O. B. Akan, “Multimedia Communication in Cognitive Radio Sensor Networks,” in <em>Wireless Multimedia Sensor Networks (WMSNs): Architectures, Protocols and Applications</em>, CRC Press, 2018.</li>
-  <li>M. Ozger, O. Cetinkaya, O. B. Akan, “Energy Harvesting Cognitive Radios in Smart Cities,” in <em>Transportation and Power Grid in Smart Cities: Communication Networks and Services</em>, Wiley, 2018.</li>
-  <li>K. Cepni, M. Ozger, O. B. Akan, “Vehicular Social Sensor Networks,” in <em>Vehicular Social Networks</em>, CRC Press, 2017.</li>
-  <li>E. B. Pehlivanoglu, B. D. Unluturk, O. B. Akan, “Modulation in Molecular Communications: A Look on Methodologies,” in <em>Modeling, Methodologies and Tools for Molecular and Nano-scale Communications</em>, Springer, 2017.</li>
-  <li>M. Kuscu, O. B. Akan, “Nanoscale Communications Based on Forster Resonance Energy Transfer (FRET),” in <em>Modeling, Methodologies and Tools for Molecular and Nano-scale Communications</em>, Springer, 2017.</li>
-  <li>T. Yilmaz, G. Gokkoca, O. B. Akan, “Millimetre Wave Communication for 5G IoT Applications,” in <em>Internet of Things (IoT) in 5G Mobile Technologies</em>, Springer, 2016.</li>
-  <li>O. Ergul, O. B. Akan, “Routing in Cognitive Vehicular Networks,” in <em>Cognitive Vehicular Networks</em>, CRC Press, 2016.</li>
-  <li>O. Ergul, O. Cetinkaya, O. B. Akan, “Cognitive Radio Sensor Networks in Smart Grid,” in <em>Smart Grid: Networking, Data Management, and Business Models</em>, CRC Press, 2016.</li>
-  <li>O. Cetinkaya, O. B. Akan, “Use of WSNs in Smart Homes,” in <em>Emerging Communication Technologies Based on Wireless Sensor Networks</em>, CRC Press, 2016.</li>
-  <li>E. B. Pehlivanoglu, M. Ozger, O. B. Akan, “Sensing Coverage and Connectivity in Cognitive Radio Sensor Networks,” in <em>Cognitive Radio Sensor Networks: Applications, Architectures and Challenges</em>, IGI Global, 2014.</li>
-  <li>A. O. Bicen, O. B. Akan, “Cognitive Radio Sensor Networks in Industrial Applications,” in <em>Industrial Wireless Sensor Networks: Applications, Protocols, and Standards</em>, CRC Press, 2012.</li>
-  <li>M. T. Isik, O. B. Akan, “Wireless Passive Sensor Networks,” in <em>Handbook on Sensor Networks</em>, World Scientific, 2009.</li>
-  <li>B. Atakan, T. Tugcu, O. B. Akan, “Bio-inspired Communications in Wireless Sensor Networks,” in <em>Handbook of Wireless Sensor and Ad Hoc Networks</em>, Springer (London), 2008.</li>
-  <li>B. Atakan and O. B. Akan, “Biologically-inspired Dynamic Spectrum Access in Cognitive Radio Networks,” in <em>Bio-inspired Computing and Communication Networks</em>, CRC Press, 2008.</li>
-  <li>O. B. Akan, “Spatio-temporal Correlation Theory in Wireless Sensor Networks,” in <em>Handbook of Wireless Mesh & Sensor Networks</em>, McGraw-Hill, 2007.</li>
-  <li>B. Atakan and O. B. Akan, “Immune System Based Distributed Node and Rate Selection in Wireless Sensor Networks,” in <em>Advances in Biologically Inspired Information Systems</em>, Springer, 2007.</li>
-  <li>A. Bereketli, O. B. Akan, “Tactical Wireless Sensor Networks,” in <em>NATO-ARW Volume</em>, 2007.</li>
-  <li>O. B. Akan, “Spatio-temporal Correlation Theory for Wireless Sensor Networks,” in <em>Algorithm and Protocols for Wireless Ad Hoc and Sensor Networks</em>, Wiley&Sons, 2006.</li>
-  <li>O. B. Akan and M. C. Vuran, “Reliable Transmission and Congestion Control in Wireless Sensor Networks,” in <em>Wireless Sensor Networks: A Systems Perspective</em>, Artech House, 2005.</li>
-  <li>W. Su, O. B. Akan, E. Cayirci, “Communication Protocols for Sensor Networks,” in <em>Wireless Sensor Networks</em>, Kluwer, 2004.</li>
-  <li>W. Su, E. Cayirci, O. B. Akan, “Overview of Communication Protocols for Sensor Networks,” in <em>Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems</em>, CRC Press, 2004.</li>
+  <li>M. Civas, T. Yilmaz, O. B. Akan, “Terahertz Band Intersatellite Communication Links,” in <em>Next Generation Wireless Terahertz Communication Networks</em>, Edited by S. Ghafoor, M. H. Rehmani, A. Davy, CRC Press, 2021.</li>
+  <li>T. Khan, M. Civas, O. Cetinkaya, N. A. Abbasi, O. B. Akan, “Nanosensor Networks for Smart Health Care,” in <em>Nanosensors for Smart Cities</em>, Edited by B. Han, V. Tomer, T. Nguyen, A. Farmani, P. K. Singh, Elsevier, 2019.</li>
+  <li>T. Yilmaz, N. A. Abbasi, and O. B. Akan, “Millimeter-Wave 5G-Enabled Internet of Things,” in <em>5G-Enabled Internet of Things</em>, Edited by Y. Wu, H. Huang, C.-X. Wang, Y. Pan, CRC Press, 2019.</li>
+  <li>O. Cetinkaya, M. Ozger, O. B. Akan, “Internet of Energy Harvesting Cognitive Radios,” in <em>Towards Cognitive IoT Networks</em>, Edited by M. A. Matin, Springer Nature, 2019.</li>
+  <li>E. Dinc, M. Kuscu, B. A. Bilgin, O. B. Akan, “Internet of Everything – A Unifying Framework beyond Internet of Things,” in <em>Harnessing the Internet of Everything (IoE) for Accelerated Innovation Opportunities</em>, Edited by P. J. S. Cardoso, J. Monteiro, J. Semiao, J. M. F. Rodrigues, IGI Global, 2019.</li>
+  <li>H. Ramezani, T. Khan, E. Dinc, O. B. Akan, “Neuronal Communication Channels,” in <em>Encyclopedia of Wireless Networks</em>, Edited by S. Shen, X. Lin, K. Zhang, Springer, 2018.</li>
+  <li>E. Dinc, O. B. Akan, “Atmospheric Ducting and Beyond-Line-of-Sight Communication,” in <em>Wiley Encyclopedia of Electrical and Electronics Engineering</em>, Edited by J. G. Webster, John Wiley &amp; Sons, 2018.</li>
+  <li>M. Ozger, E. B. Pehlivanoglu, O. B. Akan, “Multimedia Communication in Cognitive Radio Sensor Networks,” in <em>Wireless Multimedia Sensor Networks (WMSNs): Architectures, Protocols and Applications</em>, Edited by M. M. A. Azim, X. Jiang, CRC Press, 2018.</li>
+  <li>M. Ozger, O. Cetinkaya, O. B. Akan, “Energy Harvesting Cognitive Radios in Smart Cities,” in <em>Transportation and Power Grid in Smart Cities: Communication Networks and Services</em>, Edited by H. Mouftah, M. E. Kantarci, M. H. Rehmani, John Wiley, 2018.</li>
+  <li>K. Cepni, M. Ozger, O. B. Akan, “Vehicular Social Sensor Networks,” in <em>Vehicular Social Networks</em>, Edited by A. M. Vegni, V. Loscri, A. V. Vasilakos, CRC Press, 2017.</li>
+  <li>E. B. Pehlivanoglu, B. D. Unluturk, O. B. Akan, “Modulation in Molecular Communications: A Look on Methodologies,” in <em>Modeling, Methodologies and Tools for Molecular and Nano-scale Communications</em>, Edited by J. Suzuki, T. Nakano, M. J. Moore, Springer, 2017.</li>
+  <li>M. Kuscu, O. B. Akan, “Nanoscale Communications Based on Förster Resonance Energy Transfer (FRET),” in <em>Modeling, Methodologies and Tools for Molecular and Nano-scale Communications</em>, Edited by J. Suzuki, T. Nakano, M. J. Moore, Springer, 2017.</li>
+  <li>T. Yilmaz, G. Gokkoca, O. B. Akan, “Millimetre Wave Communication for 5G IoT Applications,” in <em>Internet of Things (IoT) in 5G Mobile Technologies</em>, Edited by C. X. Mavromoustakis, G. Mastorakis, J. M. Batalla, Springer, 2016.</li>
+  <li>O. Ergul, O. B. Akan, “Routing in Cognitive Vehicular Networks,” in <em>Cognitive Vehicular Networks</em>, Edited by A. M. Vegni, D. P. Agrawal, CRC Press, 2016.</li>
+  <li>O. Ergul, O. Cetinkaya, O. B. Akan, “Cognitive Radio Sensor Networks in Smart Grid,” in <em>Smart Grid: Networking, Data Management, and Business Models</em>, Edited by M. E. Kantarci, CRC Press, 2016.</li>
+  <li>O. Cetinkaya, O. B. Akan, “Use of WSNs in Smart Homes,” in <em>Emerging Communication Technologies Based on Wireless Sensor Networks: Current Research and Future Applications</em>, Edited by M. H. Rehmani, A.-S. K. Pathan, CRC Press, 2016.</li>
+  <li>E. B. Pehlivanoglu, M. Ozger, O. B. Akan, “Sensing Coverage and Connectivity in Cognitive Radio Sensor Networks,” in <em>Cognitive Radio Sensor Networks: Applications, Architectures and Challenges</em>, Edited by M. H. Rehmani, Y. Faheem, IGI Global, 2014.</li>
+  <li>A. O. Bicen, O. B. Akan, “Cognitive Radio Sensor Networks in Industrial Applications,” in <em>Industrial Wireless Sensor Networks: Applications, Protocols, and Standards</em>, Edited by V. C. Gungor, G. P. Hancke, CRC Press, 2012.</li>
+  <li>M. T. Isik, O. B. Akan, “Wireless Passive Sensor Networks,” in <em>Handbook on Sensor Networks</em>, Edited by Y. Xiao, H. Chen, F. H. Li, World Scientific Publishing Co., 2009.</li>
+  <li>B. Atakan, T. Tugcu, O. B. Akan, “Bio-inspired Communications in Wireless Sensor Networks,” in <em>Handbook of Wireless Sensor and Ad Hoc Networks</em>, Edited by S. Misra, I. Woungang, S. C. Misra, Springer (London), 2008.</li>
+  <li>B. Atakan and O. B. Akan, “Biologically-inspired Dynamic Spectrum Access in Cognitive Radio Networks,” in <em>Bio-inspired Computing and Communication Networks</em>, Edited by Y. Xiao, F. Hu, Auerbach Publications, CRC Press, 2008.</li>
+  <li>O. B. Akan, “Spatio-temporal Correlation Theory in Wireless Sensor Networks,” in <em>Handbook of Wireless Mesh &amp; Sensor Networks</em>, Edited by G. Aggelou, McGraw-Hill, 2007.</li>
+  <li>B. Atakan and O. B. Akan, “Immune System Based Distributed Node and Rate Selection in Wireless Sensor Networks,” in <em>Advances in Biologically Inspired Information Systems</em>, Edited by F. Dressler, I. Carreras, Springer, 2007.</li>
+  <li>A. Bereketli, O. B. Akan, “Tactical Wireless Sensor Networks,” in <em>NATO-ARW Volume</em>, Edited by S. Olariu, 2007.</li>
+  <li>O. B. Akan, “Spatio-temporal Correlation Theory for Wireless Sensor Networks,” in <em>Algorithm and Protocols for Wireless Ad Hoc and Sensor Networks</em>, Edited by A. Boukerche, Wiley &amp; Sons, 2006.</li>
+  <li>O. B. Akan and M. C. Vuran, “Reliable Transmission and Congestion Control in Wireless Sensor Networks,” in <em>Wireless Sensor Networks: A Systems Perspective</em>, Edited by N. Bulusu, S. Jha, Artech House, 2005.</li>
+  <li>W. Su, O. B. Akan, E. Cayirci, “Communication Protocols for Sensor Networks,” in <em>Wireless Sensor Networks</em>, Edited by T. Znati, K. Sivalingam, C. S. Raghavendra, Kluwer Publishers, 2004.</li>
+  <li>W. Su, E. Cayirci, O. B. Akan, “Overview of Communication Protocols for Sensor Networks,” in <em>Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems</em>, Edited by M. Ilyas, I. Mahgoub, CRC Press, July 2004.</li>
 </ol>
 
 
 <br>
 
+
 ## <span class="section-title">Conference Papers</span>
 <ol class="pubs" reversed>
   <li>F. E. Bilgen, O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. <em>ACM NanoCom 2024</em>, Milan, Italy, October 2024.</li>
-  <li>K. Li, A. Noor, W. Ni, E. Tovar, X. Fu, O. B. Akan, “Poisoning Federated Learning with Graph Neural Networks in Internet of Drones,” in <em>ICCCN 2024</em>.</li>
+  <li>K. Li, A. Noor, W. Ni, E. Tovar, X. Fu, O. B. Akan, “Poisoning Federated Learning with Graph Neural Networks in Internet of Drones,” in Proc. <em>IEEE ICCCN 2024</em>.</li>
   <li>C. Koca, O. B. Akan, “A Fast Simulation Algorithm for Molecular Dispersion and Binding in Molecular Communications,” in Proc. <em>ACM NanoCom 2023</em>, Coventry, UK, September 2023.</li>
   <li>B. E. Ortlek, O. B. Akan, “Communication Theoretical Analysis of P-Cresol Signaling in Gut-Brain Axis with Autism Spectrum Disorder,” in Proc. <em>IEEE ICC 2023</em>, Rome, Italy, May 2023.</li>
   <li>M. Civas, A. Abdali, M. Kuscu, O. B. Akan, “Frequency-Domain Detection for Molecular Communications,” in Proc. <em>IEEE ICC 2023</em>, Rome, Italy, May 2023.</li>
@@ -260,57 +263,57 @@ nav_order: 2
   <li>D. Aktas, O. B. Akan, “A Mechanical Transduction-Based Molecular Communication Receiver for Internet of Nano Things (IoNT),” in Proc. <em>ACM NanoCom 2021</em>, Virtual Conference, September 2021.</li>
   <li>B. A. Bilgin, H. Ramezani, and O. B. Akan, “Human Blockage Model for Indoor Terahertz Band Communication,” in Proc. <em>IEEE ICC 2019</em>, Shanghai, China, May 2019.</li>
   <li>M. Civas, O. B. Akan, “An Information Theoretical Analysis of Multi-terminal Neuro-spike Communication Network in Spinal Cord,” in Proc. <em>ACM/IEEE NanoCom</em>, Reykjavik, Iceland, September 2018.</li>
-  <li>T. Khan, H. Ramezani, G. Muzio, O. B. Akan, “Analysis of Information Flow in MISO Neuro-spike Communication Channel with Synaptic Plasticity,” in Proc. <em>IEEE NANO</em>, Cork, Ireland, July 2018.</li>
-  <li>C. Koca, E. Dinc, H. Ramezani, O. B. Akan, “Performance Analysis for Capacitive Electrical Neural Interfaces,” in Proc. <em>IEEE NANO</em>, Cork, Ireland, July 2018.</li>
+  <li>T. Khan, H. Ramezani, G. Muzio, O. B. Akan, “Analysis of Information Flow in MISO Neuro-spike Communication Channel with Synaptic Plasticity,” in Proc. <em>IEEE NANO 2018</em>, Cork, Ireland, July 2018.</li>
+  <li>C. Koca, E. Dinc, H. Ramezani, O. B. Akan, “Performance Analysis for Capacitive Electrical Neural Interfaces,” in Proc. <em>IEEE NANO 2018</em>, Cork, Ireland, July 2018.</li>
   <li>G. Muzio, M. Kuscu, O. B. Akan, “Selective Signal Detection with Ligand Receptors under Interference in Molecular Communications,” in Proc. <em>IEEE SPAWC 2018</em>, Kalamata, Greece, June 2018.</li>
   <li>E. B. Pehlivanoglu, M. Ozger, O. Cetinkaya, O. B. Akan, “Harvesting-Throughput Trade-off for Wireless-powered Smart Grid IoT Applications: An Experimental Study,” in Proc. <em>IEEE ICC 2018</em>, Kansas City, USA, May 2018.</li>
   <li>H. Ramezani, T. Khan, O. B. Akan, “Information Theoretical Analysis of Synaptic Communication for Nanonetworks,” in Proc. <em>IEEE INFOCOM 2018</em>, Honolulu, USA, April 2018.</li>
-  <li>N. Khalid, N. A. Abbasi, O. B. Akan, “Capacity and Coverage Analysis for FD-MIMO based THz Band 5G Indoor Internet of Things,” in Proc. <em>IEEE PIMRC 2017</em>, Montreal, Canada, October 2017.</li>
-  <li>M. Arik, O. B. Akan, “Utilizing Sidelobe ASK Based Joint Radar-Communication System Under Fading,” in Proc. <em>IEEE MILCOM 2017</em>, Baltimore, USA, October 2017.</li>
+  <li>N. Khalid, N. A. Abbasi, O. B. Akan, “Capacity and Coverage Analysis for FD-MIMO based THz Band 5G Indoor Internet of Things,” in Proc. <em>IEEE PIMRC 2017</em>, Montreal, QC, Canada, October 2017.</li>
+  <li>M. Arik, O. B. Akan, “Utilizing Sidelobe ASK Based Joint Radar-Communication System Under Fading,” in Proc. <em>IEEE MILCOM 2017</em>, Baltimore, MD, USA, October 2017.</li>
   <li>N. Khalid, O. B. Akan, “Energy-efficient Modulation Scheme for THz-band 5G Femtocell Internet of Things,” in Proc. <em>BalkanCom 2017</em>, Tirana, Albania, June 2017.</li>
-  <li>N. Khalid, N. A. Abbasi, O. B. Akan, “300 GHz Broadband Transceiver Design for Low-THz Band Wireless Communications in Indoor Internet of Things,” in Proc. <em>IEEE iThings</em>, Exeter, UK, June 2017.</li>
-  <li>H. Ramezani, H. Khaki, E. Erzin, O. B. Akan, “Speech Features for Telemonitoring of Parkinson's Disease Symptoms,” in Proc. <em>IEEE EMBC 2017</em>, Jeju Island, S. Korea, July 2017.</li>
-  <li>H. Ramezani, O. B. Akan, “Importance of Vesicle Release Stochasticity in Neuro-spike Communication,” in Proc. <em>IEEE EMBC 2017</em>, Jeju Island, S. Korea, July 2017.</li>
+  <li>N. Khalid, N. A. Abbasi, O. B. Akan, “300 GHz Broadband Transceiver Design for Low-THz Band Wireless Communications in Indoor Internet of Things,” in Proc. <em>IEEE iThings 2017</em>, Exeter, UK, June 2017.</li>
+  <li>H. Ramezani, H. Khaki, E. Erzin, O. B. Akan, “Speech Features for Telemonitoring of Parkinson's Disease Symptoms,” in Proc. <em>IEEE EMBC 2017</em>, JeJu Island, South Korea, July 2017.</li>
+  <li>H. Ramezani, O. B. Akan, “Importance of Vesicle Release Stochasticity in Neuro-spike Communication,” in Proc. <em>IEEE EMBC 2017</em>, JeJu Island, South Korea, July 2017.</li>
   <li>H. Ramezani, C. Koca, O. B. Akan, “Rate Region Analysis of Multi-terminal Neuronal Nanoscale Molecular Communication Channel,” in Proc. <em>IEEE NANO 2017</em>, Pittsburgh, USA, July 2017.</li>
-  <li>M. Kuscu, O. B. Akan, “On the Capacity of Diffusion-Based Molecular Communications with SiNW FET-Based Receiver,” in Proc. <em>IEEE EMBC 2016</em>, Orlando, USA, August 2016.</li>
+  <li>M. Kuscu, O. B. Akan, “On the Capacity of Diffusion-Based Molecular Communications with SiNW FET-Based Receiver,” in Proc. <em>IEEE EMBC 2016</em>, Orlando, FL, USA, August 2016.</li>
   <li>E. Dinc, M. Ozger, A. F. Ates, I. Delibalta, O. B. Akan, “Crowdsourcing-based Mobile Network Tomography for xG Wireless Systems,” in Proc. <em>IEEE ISCC 2016</em>, Messina, Italy, June 2016.</li>
   <li>N. Khalid, O. B. Akan, “Wideband THz Communication Channel Measurements for 5G Indoor Wireless Networks,” in Proc. <em>IEEE ICC 2016</em>, Kuala Lumpur, Malaysia, June 2016.</li>
   <li>D. Malak, H. Ramezani, M. Kocaoglu, O. B. Akan, “Diversity in Diffusion-based Molecular Communication Channel with Drift,” in Proc. <em>IEEE ICC 2016</em>, Kuala Lumpur, Malaysia, June 2016.</li>
   <li>T. Yilmaz, O. B. Akan, “On the Use of the Millimeter Wave and Low Terahertz Bands for Internet of Things,” in Proc. <em>IEEE WF-IoT 2015</em>, Milan, Italy, December 2015.</li>
   <li>M. Kuscu, O. B. Akan, “Modeling and Analysis of SiNW BioFET as Molecular Antenna for Bio-Cyber Interfaces towards the Internet of Bio-NanoThings,” in Proc. <em>IEEE WF-IoT 2015</em>, Milan, Italy, December 2015.</li>
-  <li>E. Dinc, O. B. Akan, “Limited Feedback Multi-stage Beam-forming Method for Beyond-Line-of-Sight Ducting Channels,” in Proc. <em>IEEE MILCOM 2015</em>, Tampa, USA, October 2015.</li>
-  <li>M. Arik, O. B. Akan, “Enabling Cognition on Electronic Counter Measure Systems against Next-Generation Radars,” in Proc. <em>IEEE MILCOM 2015</em>, Tampa, USA, October 2015.</li>
-  <li>C. Koca, O. B. Akan, “Quantum Memory Management Systems,” in Proc. <em>ACM NANOCOM 2015</em>, Boston, USA, September 2015.</li>
-  <li>H. Ramezani, O. B. Akan, “Synaptic Channel Model Including Effects of Spike Width Variation,” in Proc. <em>ACM NANOCOM 2015</em>, Boston, USA, September 2015.</li>
-  <li>E. Dinc, O. Ergul, O. B. Akan, “Soft Handover in OFDMA based Visible Light Communication Networks,” in Proc. <em>IEEE VTC 2015-Fall</em>, Boston, USA, September 2015.</li>
+  <li>E. Dinc, O. B. Akan, “Limited Feedback Multi-stage Beam-forming Method for Beyond-Line-of-Sight Ducting Channels,” in Proc. <em>IEEE MILCOM 2015</em>, Tampa, FL, USA, October 2015.</li>
+  <li>M. Arik, O. B. Akan, “Enabling Cognition on Electronic Counter Measure Systems against Next-Generation Radars,” in Proc. <em>IEEE MILCOM 2015</em>, Tampa, FL, USA, October 2015.</li>
+  <li>C. Koca, O. B. Akan, “Quantum Memory Management Systems,” in Proc. <em>ACM NanoCom 2015</em>, Boston, MA, USA, September 2015.</li>
+  <li>H. Ramezani, O. B. Akan, “Synaptic Channel Model Including Effects of Spike Width Variation,” in Proc. <em>ACM NanoCom 2015</em>, Boston, MA, USA, September 2015.</li>
+  <li>E. Dinc, O. Ergul, O. B. Akan, “Soft Handover in OFDMA based Visible Light Communication Networks,” in Proc. <em>IEEE VTC 2015-Fall</em>, Boston, MA, USA, September 2015.</li>
   <li>M. Ozger, O. B. Akan, “Maximization of Energy-efficiency under Convergence Constraint in Wireless Networked Control Systems,” in Proc. <em>IEEE ICC 2015</em>, London, UK, June 2015.</li>
-  <li>O. Cetinkaya, O. B. Akan, “A ZigBee Based Reliable and Efficient Power Metering System for Energy Management and Controlling,” in Proc. <em>IEEE ICNC 2015</em>, Anaheim, USA, February 2015.</li>
-  <li>O. Cetinkaya, O. B. Akan, “A DASH7-based Power Metering System,” in Proc. <em>IEEE CCNC 2015</em>, Las Vegas, USA, January 2015.</li>
+  <li>O. Cetinkaya, O. B. Akan, “A ZigBee Based Reliable and Efficient Power Metering System for Energy Management and Controlling,” in Proc. <em>IEEE ICNC 2015</em>, Anaheim, CA, USA, February 2015.</li>
+  <li>O. Cetinkaya, O. B. Akan, “A DASH7-based Power Metering System,” in Proc. <em>IEEE CCNC 2015</em>, Las Vegas, NV, USA, January 2015.</li>
   <li>T. Yilmaz, O. B. Akan, “Utilizing Terahertz Band for Local and Personal Area Wireless Communication Systems,” in Proc. <em>IEEE CAMAD 2014</em>, Athens, Greece, December 2014.</li>
   <li>K. Cepni, O. B. Akan, “Social Sensing Model and Analysis for Event Detection and Estimation with Twitter,” in Proc. <em>IEEE CAMAD 2014</em>, Athens, Greece, December 2014.</li>
   <li>T. Yilmaz, E. Fadel, O. B. Akan, “Employing 60 GHz ISM Band for 5G Wireless Communications,” in Proc. <em>IEEE BlackSeaCom 2014</em>, Chisinau, Moldova, May 2014.</li>
-  <li>M. Kuscu, “An Information-Theoretic Model and Analysis of Graphene Plasmon-Assisted FRET-Based Nanocommunication Channel,” in Proc. <em>ACM NANOCOM 2014</em>, Atlanta, USA, May 2014.</li>
+  <li>M. Kuscu, “An Information-Theoretic Model and Analysis of Graphene Plasmon-Assisted FRET-Based Nanocommunication Channel,” in Proc. <em>ACM NanoCom 2014</em>, Atlanta, GA, USA, May 2014.</li>
   <li>O. Ergul, O. B. Akan, “Cooperative Coarse Spectrum Sensing for Cognitive Radio Sensor Networks,” in Proc. <em>IEEE WCNC 2014</em>, Istanbul, Turkey, April 2014.</li>
-  <li>D. Kilinc, M. Ozger, O. B. Akan, “On the Maximum Coverage Area of Wireless Networked Control Systems under Stability and Cost-Efficiency Constraints,” in Proc. <em>IEEE GLOBECOM 2013</em>, Atlanta, USA, December 2013.</li>
-  <li>O. Ergul, O. Yilmaz, A. T. Koc, O. B. Akan, “DRX and QoS-aware Energy-efficient Uplink Scheduling for Long Term Evolution,” in Proc. <em>IEEE GLOBECOM 2013</em>, Atlanta, USA, December 2013.</li>
-  <li>D. Kilinc, O. B. Akan, “Nanoscale Magneto-Inductive Communication,” in Proc. <em>Asilomar Conf. on Signals, Systems, and Computers 2013</em>, Pacific Grove, USA, November 2013.</li>
-  <li>E. Dinc, O. B. Akan, “A Ray-based Channel Model For MIMO Troposcatter Communications,” in Proc. <em>IEEE PIMRC 2013</em>, London, UK, September 2013.</li>
+  <li>D. Kilinc, M. Ozger, O. B. Akan, “On the Maximum Coverage Area of Wireless Networked Control Systems under Stability and Cost-Efficiency Constraints,” in Proc. <em>IEEE GLOBECOM 2013</em>, Atlanta, GA, USA, December 2013.</li>
+  <li>O. Ergul, O. Yilmaz, A. T. Koc, O. B. Akan, “DRX and QoS-aware Energy-efficient Uplink Scheduling for Long Term Evolution,” in Proc. <em>IEEE GLOBECOM 2013</em>, Atlanta, GA, USA, December 2013.</li>
+  <li>D. Kilinc, O. B. Akan, “Nanoscale Magneto-Inductive Communication,” in Proc. <em>IEEE Asilomar Conference on Signals, Systems, and Computers 2013</em>, Pacific Grove, CA, USA, November 2013.</li>
+  <li>E. Dinc, O. B. Akan, “A Ray-based Channel Model for MIMO Troposcatter Communications,” in Proc. <em>IEEE PIMRC 2013</em>, London, UK, September 2013.</li>
   <li>F. Soylemezgiller, M. Kuscu, D. Kilinc, “A Traffic Congestion Avoidance Algorithm with Dynamic Road Pricing for Smart Cities,” in Proc. <em>IEEE PIMRC 2013</em>, London, UK, September 2013.</li>
   <li>M. Kocaoglu, C. Oksuz, O. B. Akan, “Effect of Channel Conditions on Inventory Database Update in Supply Chains,” in Proc. <em>IEEE BlackSeaCom 2013</em>, Batumi, Georgia, July 2013.</li>
   <li>B. D. Unluturk, E. B. Pehlivanoglu, O. B. Akan, “Molecular Channel Model with Multiple-Bit Carrying Molecules,” in Proc. <em>IEEE BlackSeaCom 2013</em>, Batumi, Georgia, July 2013.</li>
   <li>O. Ergul, O. B. Akan, “Energy-efficient Cooperative Spectrum Sensing for Cognitive Radio Sensor Networks,” in Proc. <em>IEEE ISCC 2013</em>, Split, Croatia, July 2013.</li>
-  <li>M. Kuscu, O. B. Akan, “FRET-Based Mobile Molecular Nanonetworks,” in Proc. <em>IEEE Med-Hoc-Net 2013</em>, Ajaccio, France, June 2013.</li>
-  <li>D. Malak, O. B. Akan, “Synaptic Interference Channel,” in Proc. <em>IEEE MoNaCom 2013</em> (with <em>IEEE ICC 2013</em>), Budapest, Hungary, June 2013.</li>
+  <li>M. Kuscu, O. B. Akan, “FRET-Based Mobile Molecular Nanonetworks,” in Proc. <em>IEEE Med-Hoc-Net 2013</em>, Ajaccio, Corsica, France, June 2013.</li>
+  <li>D. Malak, O. B. Akan, “Synaptic Interference Channel,” in Proc. <em>IEEE MoNaCom 2013</em> (in conjunction with <em>IEEE ICC 2013</em>), Budapest, Hungary, June 2013.</li>
   <li>G. A. Shah, O. B. Akan, “A Spectrum-aware Clustering for Efficient Multimedia Routing in Cognitive Radio Sensor Networks,” in Proc. <em>IEEE ICC 2013</em>, Budapest, Hungary, June 2013.</li>
   <li>M. Ozger, O. B. Akan, “Event-driven Spectrum-Aware Clustering in Cognitive Radio Sensor Networks,” in Proc. <em>IEEE INFOCOM 2013</em>, Turin, Italy, April 2013.</li>
   <li>A. O. Bicen, O. B. Akan, “RF Power Source Diversity and Estimation Performance in Passive Opportunistic Distributed Sensing,” in Proc. <em>IEEE ISCC 2012</em>, Cappadocia, Turkey, July 2012.</li>
   <li>G. A. Shah and O. B. Akan, “CSMA-based Bandwidth Estimation for Cognitive Radio Sensor Networks,” in Proc. <em>5th IFIP/IEEE NTMS 2012</em>, Istanbul, Turkey, May 2012.</li>
   <li>G. A. Shah, V. C. Gungor, O. B. Akan, “A Cross-layer Design for QoS Support in Cognitive Radio Sensor Networks for Smart Grid Applications,” in Proc. <em>IEEE ICC 2012</em>, Ottawa, Canada, June 2012.</li>
-  <li>M. Kocaoglu, D. Malak, “On the Node Density Limits and Rate-Delay-Energy Tradeoffs in Ad Hoc Nanonetworks with Minimum Energy Coding,” in Proc. <em>IEEE MoNaCom 2012</em> (with <em>IEEE ICC 2012</em>), Ottawa, Canada, June 2012.</li>
-  <li>M. Kuscu, D. Malak, O. B. Akan, “An Information Theoretical Analysis of Broadcast Networks and Channel Routing for FRET-based Nanoscale Communications,” in Proc. <em>IEEE MoNaCom 2012</em> (with <em>IEEE ICC 2012</em>), Ottawa, Canada, June 2012.</li>
-  <li>M. Kocaoglu, O. B. Akan, “Minimum Energy Coding for Wireless NanoSensor Networks,” in Proc. <em>IEEE INFOCOM 2012 Mini Conference</em>, Orlando, USA, March 2012.</li>
+  <li>M. Kocaoglu, D. Malak, “On the Node Density Limits and Rate-Delay-Energy Tradeoffs in Ad Hoc Nanonetworks with Minimum Energy Coding,” in Proc. <em>IEEE MoNaCom 2012</em> (in conjunction with <em>IEEE ICC 2012</em>), Ottawa, Canada, June 2012.</li>
+  <li>M. Kuscu, D. Malak, O. B. Akan, “An Information Theoretical Analysis of Broadcast Networks and Channel Routing for FRET-based Nanoscale Communications,” in Proc. <em>IEEE MoNaCom 2012</em> (in conjunction with <em>IEEE ICC 2012</em>), Ottawa, Canada, June 2012.</li>
+  <li>M. Kocaoglu, O. B. Akan, “Minimum Energy Coding for Wireless NanoSensor Networks,” in Proc. <em>IEEE INFOCOM 2012 Mini Conference</em>, Orlando, FL, USA, March 2012.</li>
   <li>A. O. Bicen, O. B. Akan, “RF Power Source and Estimation Diversity in Distributed Sensing with Passive Wireless Communications,” in Proc. <em>30th URSI GASS 2011</em>, Istanbul, Turkey, August 2011.</li>
-  <li>M. Kuscu, O. B. Akan, “A Nanoscale Communication Channel with Fluorescence Resonance Energy Transfer (FRET),” in Proc. <em>IEEE MoNaCom 2011</em> (with <em>IEEE INFOCOM 2011</em>), Shanghai, China, April 2011.</li>
+  <li>M. Kuscu, O. B. Akan, “A Nanoscale Communication Channel with Fluorescence Resonance Energy Transfer (FRET),” in Proc. <em>IEEE MoNaCom 2011</em> (in conjunction with <em>IEEE INFOCOM 2011</em>), Shanghai, China, April 2011.</li>
   <li>B. Tan Bacinoglu, B. Gulbahar, O. B. Akan, “Constant Fidelity Entanglement Flow in Quantum Communication Networks,” in Proc. <em>IEEE GLOBECOM 2010</em>, Miami, USA, December 2010.</li>
   <li>B. Atakan, B. Gulbahar, O. B. Akan, “Immune System-inspired Evolutionary Opportunistic Spectrum Access in Cognitive Radio Ad Hoc Networks,” in Proc. <em>IFIP/IEEE MED-HOC-NET 2010</em>, Juan-les-Pins, France, June 2010.</li>
   <li>B. Atakan, O. B. Akan, “Single and Multiple-Access Channel Capacity in Molecular Nanonetworks,” in Proc. <em>ICST/ACM Nano-Net 2009</em>, Luzern, Switzerland, October 2009.</li>
@@ -320,33 +323,30 @@ nav_order: 2
   <li>A. Bereketli, O. B. Akan, “Event-to-Sink Directed Clustering in Wireless Sensor Networks,” in Proc. <em>IEEE WCNC 2009</em>, Budapest, Hungary, April 2009.</li>
   <li>B. Atakan, O. B. Akan, “On Molecular Multiple-Access, Broadcast and Relay Channels in Nanonetworks,” in Proc. <em>ICST/ACM BIONETICS 2008</em>, Hyogo, Japan, November 2008.</li>
   <li>B. Atakan, O. B. Akan, “An Information Theoretical Approach for Molecular Communication,” in Proc. <em>ICST/ACM BIONETICS 2007</em>, Budapest, Hungary, December 2007.</li>
-  <li>B. Atakan, O. B. Akan, “On Event Signal Reconstruction in Wireless Sensor Networks,” in Proc. <em>IFIP/TC6 NETWORKING 2007</em>, Atlanta, USA, May 2007.</li>
+  <li>B. Atakan, O. B. Akan, “On Event Signal Reconstruction in Wireless Sensor Networks,” in Proc. <em>IFIP/TC6 NETWORKING 2007</em>, Atlanta, GA, USA, May 2007.</li>
   <li>B. Atakan, O. B. Akan, “Biologically-inspired Spectrum Sharing in Cognitive Radio Networks,” in Proc. <em>IEEE WCNC 2007</em>, Hong Kong, March 2007.</li>
-  <li>B. Atakan, O. B. Akan, “Immune System Based Distributed Node and Rate Selection in Wireless Sensor Networks,” in Proc. <em>BIONETICS 2006</em>, Cavalese, Italy, December 2006.</li>
+  <li>B. Atakan, O. B. Akan, “Immune System Based Distributed Node and Rate Selection in Wireless Sensor Networks,” in Proc. <em>IEEE/ACM BIONETICS 2006</em>, Cavalese, Italy, December 2006.</li>
   <li>M. C. Vuran, O. B. Akan, “Spatio-temporal Characteristics of Point and Field Sources in Wireless Sensor Networks,” in Proc. <em>IEEE ICC 2006</em>, Istanbul, Turkey, June 2006.</li>
   <li>G. A. Shah, O. B. Akan, and M. Bozyigit, “Multi-Event Adaptive Clustering (MEAC) Protocol for Heterogeneous Wireless Sensor Networks,” in Proc. <em>MEDHOCNET 2006</em>, Sicily, Italy, June 2006.</li>
   <li>V. C. Gungor and O. B. Akan, “DST: Delay Sensitive Transport in Wireless Sensor Networks,” in Proc. <em>IEEE ISCN 2006</em>, Istanbul, Turkey, June 2006 (Best Paper Award).</li>
   <li>G. A. Shah, M. Bozyigit, O. B. Akan, and B. Baykal, “Real-Time Coordination and Routing in Wireless Sensor and Actor Networks,” in Proc. <em>NEW2AN 2006</em>, St. Petersburg, May 2006.</li>
-  <li>I. F. Akyildiz, M. C. Vuran, and O. B. Akan, “A Cross-Layer Protocol for Wireless Sensor Networks,” in Proc. <em>CISS 2006</em>, Princeton, USA, March 2006.</li>
+  <li>I. F. Akyildiz, M. C. Vuran, and O. B. Akan, “A Cross-Layer Protocol for Wireless Sensor Networks,” in Proc. <em>CISS 2006</em>, Princeton, NJ, USA, March 2006.</li>
   <li>J. Fang, O. B. Akan, “TCP-Peach++: Enhancement of TCP-Peach+ for Satellite IP Networks with Asymmetrical Bandwidth and Persistent Fades,” in Proc. <em>ISCIS 2005</em>, October 2005.</li>
-  <li>M. C. Vuran, V. C. Gungor, O. B. Akan, “On the Interdependence of Congestion and Contention in Wireless Sensor Networks,” in Proc. <em>SenMetrics 2005</em>, San Diego, USA, July 2005.</li>
+  <li>M. C. Vuran, V. C. Gungor, O. B. Akan, “On the Interdependence of Congestion and Contention in Wireless Sensor Networks,” in Proc. <em>SenMetrics 2005</em>, San Diego, CA, USA, July 2005.</li>
   <li>I. F. Akyildiz, M. C. Vuran, O. B. Akan, “On Exploiting Spatial and Temporal Correlation in Wireless Sensor Networks,” in Proc. <em>IEEE WiOpt 2004</em>, University of Cambridge, UK, March 2004.</li>
-  <li>Y. Sankarasubramaniam, O. B. Akan, I. F. Akyildiz, “ESRT: Event-to-Sink Reliable Transport in Wireless Sensor Networks,” in Proc. <em>ACM MOBIHOC 2003</em>, pp. 177–188, Annapolis, USA, June 2003.</li>
-  <li>O. B. Akan, J. Fang, and I. F. Akyildiz, “TP-Planet: A Reliable Transport Protocol for InterPlaNetary Internet,” <em>NASA Space Internet Workshop 2003</em>, Cleveland, USA, June 4–6, 2003.</li>
+  <li>Y. Sankarasubramaniam, O. B. Akan, I. F. Akyildiz, “ESRT: Event-to-Sink Reliable Transport in Wireless Sensor Networks,” in Proc. <em>ACM MOBIHOC 2003</em>, pp. 177–188, Annapolis, Maryland, USA, June 2003.</li>
+  <li>O. B. Akan, J. Fang, and I. F. Akyildiz, “TP-Planet: A Reliable Transport Protocol for InterPlaNetary Internet,” <em>NASA Space Internet Workshop 2003 (SIWIII)</em>, Cleveland, Ohio, USA, June 4–6, 2003.</li>
   <li>B. Baykal, O. B. Akan, “A QoS-Aware Handoff using RSVP in Next Generation Wireless Networks,” in Proc. <em>IEEE ISCC 2003</em>, pp. 125–130, Antalya, Turkey, July 2003.</li>
   <li>O. B. Akan, B. Baykal, “Dynamic SLA Management in Cellular DiffServ Networks,” in Proc. <em>IEEE ICT 2003</em>, vol. 1, pp. 330–333, Tahiti, February 2003.</li>
   <li>B. Baykal, O. E. Akdemir, O. B. Akan, “An IP Multicast Handoff Scheme with Focus on IGMP Sourced Latency,” in Proc. <em>IEEE HSNMC 2002</em>, pp. 361–364, Korea, July 2002.</li>
 </ol>
 
-
 <br>
-
 
 ## <span class="section-title">Patents</span>
 <ol class="pubs" reversed>
   <li>O. Cetinkaya, O. B. Akan, “System and Method of Electric Field Energy Harvesting from Lighting Elements for Internet of Things,” International Patent Application, PCT/TR2016/050467, November 2016.</li>
 </ol>
-
 
 <br>
 
