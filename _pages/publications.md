@@ -7,9 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-<!-- Bibsearch Feature -->
-
 <style>
 /* 版式与悬挂缩进，仿学术简历风格 */
 .pubs{ margin: .25rem 0 2rem 0; padding-left: 2.2rem; }
@@ -19,13 +16,12 @@ nav_order: 2
 .section-title{ font-size: 2rem; font-weight: 800; margin: 1rem 0 .5rem; }
 </style>
 
+<!-- _pages/publications.md -->
+<!-- Bibsearch Feature -->
 
 <!-- {% include bib_search.liquid %} -->
-
 <!-- <div class="publications"> -->
-
 <!-- {% bibliography %} -->
-
 <!-- </div> -->
 
 
