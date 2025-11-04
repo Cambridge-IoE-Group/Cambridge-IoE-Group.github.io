@@ -6,7 +6,7 @@ title: Research
 nav: true
 nav_order: 1
 
-profile:
+profiles:
   - align: right
     image: ioe_logo.png
     # content: people/about_ioe.md
@@ -18,6 +18,8 @@ profile:
       <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.</p>
 
 ---
+
+{% include profiles.liquid profiles=page.profiles %}
 
 <!-- <style>
 /* 仅对本页生效：隐藏标题下布局自动插入的首个分隔线 */
