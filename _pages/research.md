@@ -20,8 +20,14 @@ profiles:
 ---
 
 <style>
-/* 仅对本页生效：隐藏标题下布局自动插入的首个分隔线 */
-.page__content > hr:first-of-type { display: none; }
+/*
+  选择器 h1.page-title + hr 的含义是：
+  找到一个 class 为 "page-title" 的 h1 元素，
+  并选中紧跟 ( + ) 在它后面的那个 hr 元素。
+*/
+h1.page-title + hr {
+    display: none;
+}
 </style>
 
 <!-- Internet of Everything (IoE), the seamless interconnection and autonomous coordination of massive number of computing elements and sensors, inanimate and living entities, people, processes and data through the Internet infrastructure, is an emerging research direction towards enabling the Connected Universe from molecular sensors to vehicles and people. This novel framework has an enormous potential to transform the way we connect with and understand the Universe, by enabling new methods of interfering with the processes at the single-molecular level, and extending the human consciousness and control with smart agents collaboratively sensing and acting upon the environments never explored by any other paradigm before. The realization of IoE demands novel engineering solutions to overcome the unique connectivity, spectrum scarcity, miniaturization, interoperability and energy-efficiency challenges.
