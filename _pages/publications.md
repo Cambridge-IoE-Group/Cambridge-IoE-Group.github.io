@@ -16,11 +16,12 @@ nav_order: 2
 .section-title{ font-size: 2rem; font-weight: 800; margin: 1rem 0 .5rem; }
 </style>
 
-<a href='https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl'>Google Scholar of Prof. Akan</a><br>
+<!-- <a href='https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl'>Google Scholar of Prof. Akan</a><br> -->
 
 
 ## <span class="section-title">Journal Papers</span>
 <ol class="pubs" reversed>
+  <!-- 2025 -->
   <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
   <li>H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” <em>IEEE Internet of Things Journal</em> (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.</li>
   <li>J. Zheng, O. B. Akan, et al., “GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated Learning,” <em>ACM Transactions on Privacy and Security</em> (Just Accepted), doi: 10.1145/3765743, 2025.</li>
@@ -28,12 +29,12 @@ nav_order: 2
   <li>W. Ni, K. Li, C. Li, X. Yuan, S. Li, S. Zou, S. S. Ahmed, D. Niyato, A. Jamalipour, F. Dressler, and O. B. Akan, “Zero-Trust Foundation Models: A New Paradigm for Secure and Collaborative Artificial Intelligence for Internet of Things,” accepted to appear in <em>IEEE Internet of Things Journal</em>, 2025.</li>
   <li>S. H. Zulfiqar, and O. B. Akan, “Molecular Communication-Based Quorum Sensing Disruption for Enhanced Immune Defense,” accepted to appear in <em>IEEE Transactions on NanoBioscience</em>, 2025.</li>
   <li>B. E. Ortlek and O. B. Akan, “Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em> (Early Access), doi: 10.1109/TMBMC.2025.3585798, 2025.</li>
-  <li>H. Ni and O. B. Akan, “ART-Rx: A Proportional-Integral-Derivative (PID) Controlled Adaptive Real-Time Threshold Receiver for Molecular Communication,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em> (Early Access), doi: 10.1109/TMBMC.2025.3581470, IF: 2.4, Q2, 2025.</li>
+  <li>H. Ni and O. B. Akan, “ART-Rx: A Proportional-Integral-Derivative (PID) Controlled Adaptive Real-Time Threshold Receiver for Molecular Communication,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em> (Early Access), doi: 10.1109/TMBMC.2025.3581470, 2025.</li>
   <li>H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” to appear in <em>IEEE Transactions on Wireless Communications</em> (Early Access), doi: 10.1109/TWC.2025.3572276, 2025.</li>
   <li>B. A. Kilic, O. B. Akan, “Multi Ratio Shift Keying (MRSK) Modulation for Molecular Communication,” <em>IEEE Transactions on Communications</em> (Early Access), doi: 10.1109/TCOMM.2025.3581006, 2025.</li>
   <li>K. Li, Y. Liang, X. Yuan, W. Ni, J. Crowcroft, C. Yuen, and O. B. Akan, “A Novel Framework of Horizontal-Vertical Hybrid Federated Learning for EdgeIoT,” <em>IEEE Networking Letters</em>, vol. 7, no. 2, pp. 83–87, June 2025, doi: 10.1109/LNET.2025.3540268.</li>
   <li>B. Y. Koca, O. B. Akan, “Bacterial Communications and Computing in Internet of Everything (IoE),” <em>IEEE Communications Surveys &amp; Tutorials</em>, vol. 27, no. 3, pp. 1839–1866, June 2025, doi: 10.1109/COMST.2024.3451302.</li>
-  <li>N. FallahBagheri, O. B. Akan, “A Molecular Communication Perspective of Alzheimer’s Disease: Impact of Amyloid Beta Oligomers on Glutamate Diffusion in the Synaptic Cleft,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em>, vol. 11, no. 2, pp. 186–200, June 2025, doi: 10.1109/TMBMC.2025.3552959, IF: 2.4, Q2.</li>
+  <li>N. FallahBagheri, O. B. Akan, “A Molecular Communication Perspective of Alzheimer’s Disease: Impact of Amyloid Beta Oligomers on Glutamate Diffusion in the Synaptic Cleft,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em>, vol. 11, no. 2, pp. 186–200, June 2025, doi: 10.1109/TMBMC.2025.3552959, 2025.</li>
   <li>E. Baradari, O. B. Akan, “Molecular Communication-Based Intelligent Dopamine Rate Modulator for Parkinson's Disease Treatment,” <em>IEEE Transactions on Nanobioscience</em>, vol. 24, no. 2, pp. 136–144, April 2025.</li>
   <li>K. Li, J. Zheng, W. Ni, H. Huang, P. Liò, F. Dressler, and O. B. Akan, “Biasing Federated Learning With a New Adversarial Graph Attention Network,” <em>IEEE Transactions on Mobile Computing</em>, vol. 24, no. 3, pp. 2407–2421, March 2025.</li>
   <li>F. E. Bilgen, A. B. Kilic, O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-based Molecular Communication,” <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, vol. 11, no. 1, pp. 1–12, March 2025.</li>
@@ -41,6 +42,7 @@ nav_order: 2
   <li>M. Sahin, B. E. Ortlek, O. B. Akan, “Molecular Arithmetic Coding (MoAC) and Optimized Molecular Prefix Coding (MoPC) for Diffusion-Based Molecular Communication,” <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, vol. 11, no. 1, pp. 66–77, March 2025.</li>
   <li>Z. Zhang, O. B. Akan, “Analysis of Terahertz Communication Under Dust Storm Conditions on Mars,” <em>IEEE Communications Letters</em>, vol. 29, no. 2, pp. 388–392, February 2025.</li>
   <li>C. Koca, M. Ozger, O. Cetinkaya, O. B. Akan, “Information-theoretic Lifetime Maximization for IoBNT-enabled Sensing,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em>, doi: 10.1109/TMBMC.2025.3562353, 2025.</li>
+  <!-- 2024 -->
   <li>B. Maitra, O. B. Akan, “Molecular Quantum (MolQ) Communication Channel in the Gut-Brain Axis Synapse,” <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, vol. 10, no. 4, pp. 604–612, December 2024.</li>
   <li>M. J. Fakhimi, O. B. Akan, “Nanoantennas and Nanoradars: The Future of Integrated Sensing and Communication at the Nanoscale,” <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, vol. 10, no. 4, pp. 493–516, December 2024.</li>
   <li>D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” <em>IEEE Communications Surveys &amp; Tutorials</em> (Early Access), doi: 10.1109/COMST.2024.3487472, 2024.</li>
@@ -51,15 +53,18 @@ nav_order: 2
   <li>Z. Zhang, S. Liu, S. M. Goetz, and O. B. Akan, “Novel Improvement of Least Mean Square Adaptive Algorithm for Non-monotonic Systems,” <em>Optics Express</em>, 2024.</li>
   <li>B. Maitra, M. Gulgun, E. Bardakci, O. Cetinkaya, O. B. Akan, “Internet of Harvester Nano Things: A Future Prospects,” <em>Nano Communication Networks</em> (Elsevier), 2024.</li>
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, O. B. Akan and H. V. Poor, “Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach,” <em>IEEE Transactions on Information Forensics and Security</em>, vol. 19, pp. 3465–3480, 2024.</li>
+  <!-- 2023 -->
   <li>O. B. Akan, E. Dinc, M. Kuscu, O. Cetinkaya, B. A. Bilgin, “Internet of Everything (IoE) – From Molecules to the Universe,” <em>IEEE Communications Magazine</em>, vol. 61, no. 10, pp. 122–128, October 2023.</li>
   <li>M. Civas, M. Kuscu, O. Cetinkaya, B. E. Ortlek, O. B. Akan, “Graphene and Related Materials for the Internet of Bio-Nano Things,” <em>APL Materials</em>, vol. 11, no. 8, pp. 080901, August 2023.</li>
   <li>O. T. Baydas, O. Cetinkaya, O. B. Akan, “Estimation and Detection for Molecular MIMO Communications in the Internet of Bio-Nano Things,” <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, vol. 9, no. 1, pp. 106–110, March 2023.</li>
+  <!-- 2022 -->
   <li>C. Koca, O. B. Akan, “Channel Clearance by Perfectly Absorbing Boundaries in Synaptic Molecular Communications,” <em>IEEE Access</em>, vol. 10, pp. 121480–121493, November 2022.</li>
   <li>D. Aktas, O. B. Akan, “Weight Shift Keying (WSK) with Practical Mechanical Receivers for Molecular Communications in Internet of Everything,” <em>IEEE Journal on Selected Areas in Communications</em>, vol. 40, no. 11, pp. 3285–3294, October 2022.</li>
   <li>N. A. Turgut, B. A. Bilgin, O. B. Akan, “N4Sim: The first Nervous NaNoNetwork Simulator accounting for Synaptic Molecular Communications,” <em>IEEE Transactions on Nanobioscience</em>, vol. 21, no. 4, pp. 468–481, October 2022.</li>
   <li>T. Khan, O. B. Akan, “Communication Theoretical Modeling and Analysis of Tripartite Synapses with Astrocytes in Synaptic Molecular Communication,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em>, vol. 8, no. 8, pp. 169–177, September 2022.</li>
   <li>M. Ozger, E. Pehlivanoglu, O. B. Akan, “Energy-Efficient Transmission Range and Duration for Cognitive Radio Sensor Networks,” <em>IEEE Transactions on Cognitive Communications and Networking</em>, vol. 8, no. 2, pp. 907–918, June 2022.</li>
   <li>M. Kuscu, O. B. Akan, “Detection in Molecular Communications with Ligand Receptors under Molecular Interference,” <em>Digital Signal Processing</em> (Elsevier), vol. 124, pp. 103186, May 2022.</li>
+  <!-- 2021 -->
   <li>M. Civas, O. B. Akan, “Terahertz Wireless Communications in Space,” <em>ITU Journal on Future and Evolving Technologies</em>, vol. 2, no. 7, October 2021.</li>
   <li>M. Civas, O. Cetinkaya, M. Kuscu, O. B. Akan, “Universal Transceivers: Opportunities and Future Directions for the Internet of Everything (IoE),” <em>Frontiers in Communications and Networks</em>, vol. 2, pp. 50, September 2021.</li>
   <li>M. Kuscu, H. Ramezani, E. Dinc, S. Akhavan, O. B. Akan, “Fabrication and Microfluidic Analysis of Graphene-based Molecular Communication Receiver for Internet of Nano Things (IoNT),” <em>Scientific Reports</em> (Nature), vol. 11, no. 1, pp. 19600, September 2021.</li>
