@@ -19,6 +19,10 @@ profiles:
 
 ---
 
+<style>
+/* 仅对本页生效：隐藏标题下布局自动插入的首个分隔线 */
+.page__content > hr:first-of-type { display: none; }
+</style>
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 

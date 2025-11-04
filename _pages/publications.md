@@ -16,7 +16,6 @@ nav_order: 2
 .section-title{ font-size: 2rem; font-weight: 800; margin: 1rem 0 .5rem; }
 </style>
 
-
 ## <span class="section-title">Journal Papers</span>
 <ol class="pubs" reversed>
   <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <em>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</em> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>

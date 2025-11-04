@@ -123,6 +123,10 @@ profiles:
 # add new member here
 ---
 
+<style>
+/* 仅对本页生效：隐藏标题下布局自动插入的首个分隔线 */
+.page__content > hr:first-of-type { display: none; }
+</style>
 
 
 <style>
