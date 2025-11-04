@@ -16,14 +16,6 @@ nav_order: 2
 .section-title{ font-size: 2rem; font-weight: 800; margin: 1rem 0 .5rem; }
 </style>
 
-<!-- _pages/publications.md -->
-<!-- Bibsearch Feature -->
-
-<!-- {% include bib_search.liquid %} -->
-<!-- <div class="publications"> -->
-<!-- {% bibliography %} -->
-<!-- </div> -->
-
 
 ## <span class="section-title">Journal Papers</span>
 <ol class="pubs" reversed>
@@ -208,6 +200,7 @@ nav_order: 2
   <li>O. B. Akan, J. Fang, I. F. Akyildiz, “Performance of TCP Protocols in Deep Space Communication Networks,” <em>IEEE Communications Letters</em>, vol. 6, no. 11, pp. 478–480, November 2002.</li>
 </ol>
 
+
 ## <span class="section-title">Book Chapters</span>
 <ol class="pubs" reversed>
   <li>M. Civas, T. Yilmaz, O. B. Akan, “Terahertz Band Intersatellite Communication Links,” in <em>Next Generation Wireless Terahertz Communication Networks</em>, CRC Press, 2021.</li>
@@ -239,6 +232,7 @@ nav_order: 2
   <li>W. Su, O. B. Akan, E. Cayirci, “Communication Protocols for Sensor Networks,” in <em>Wireless Sensor Networks</em>, Kluwer, 2004.</li>
   <li>W. Su, E. Cayirci, O. B. Akan, “Overview of Communication Protocols for Sensor Networks,” in <em>Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems</em>, CRC Press, 2004.</li>
 </ol>
+
 
 ## <span class="section-title">Conference Papers</span>
 <ol class="pubs" reversed>
@@ -331,10 +325,12 @@ nav_order: 2
   <li>B. Baykal, O. E. Akdemir, O. B. Akan, “An IP Multicast Handoff Scheme with Focus on IGMP Sourced Latency,” in Proc. <em>IEEE HSNMC 2002</em>, pp. 361–364, Korea, July 2002.</li>
 </ol>
 
+
 ## <span class="section-title">Patents</span>
 <ol class="pubs" reversed>
   <li>O. Cetinkaya, O. B. Akan, “System and Method of Electric Field Energy Harvesting from Lighting Elements for Internet of Things,” International Patent Application, PCT/TR2016/050467, November 2016.</li>
 </ol>
+
 
 ## <span class="section-title">Submitted</span>
 <ol class="pubs" reversed>
@@ -395,6 +391,8 @@ nav_order: 2
   <li>B. Gulbahar, O. B. Akan, “A Communication Theoretical Modelling and Analysis of Wireless Nanoscale Magneto-Inductive Communication with Carbon Nanotube NanoCoils,” 2015.</li>
 </ol>
 
+
+
 ## <span class="section-title">Theses</span>
 <ol class="pubs">
   <li>M. Civas, “Transceiver Architectures and Physical Layer Techniques for Unconventional Communications in the Internet of Everything,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
@@ -436,4 +434,5 @@ nav_order: 2
   <li>M. T. Isik, “Localization in Underwater Acoustic Sensor Networks,” M.Sc. Thesis, Middle East Technical University, Ankara, Turkey, 2007.</li>
   <li>M. Yagli, “The feasibility, reliable communication and networking aspects of passive wireless sensor networks,” M.Sc. Thesis, Middle East Technical University, Ankara, Turkey, 2006.</li>
 </ol>
+
 
