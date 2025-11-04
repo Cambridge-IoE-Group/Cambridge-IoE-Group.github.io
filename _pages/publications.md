@@ -396,7 +396,7 @@ nav_order: 2
 </ol>
 
 ## <span class="section-title">Theses</span>
-<ol class="pubs" reversed>
+<ol class="pubs">
   <li>M. Civas, “Transceiver Architectures and Physical Layer Techniques for Unconventional Communications in the Internet of Everything,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>C. Koca, “Game Theoretic and Bio-Inspired Communication Techniques for Internet of Bio-Nano Things,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>T. Khan, “Communication Theoretical Modeling and Analysis of Neuronal Communication with Synaptic Plasticity,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2022.</li>
