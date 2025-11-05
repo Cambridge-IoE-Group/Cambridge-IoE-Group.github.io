@@ -2,7 +2,7 @@
 layout: page
 title: TURK TELEKOM
 description: Green Visible Light Communications (2012-2013)
-img: assets/img/gVLC.jpg
+img: assets/img/logos/tubitak.jpg
 importance: 5
 category: Previous
 ---

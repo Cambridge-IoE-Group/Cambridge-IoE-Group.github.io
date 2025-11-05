@@ -2,7 +2,7 @@
 layout: page
 title: TUBITAK 110E249
 description: Cognitive Radio Sensor Networks (2011-2014)
-img: assets/img/crsn1.png
+img: assets/img/logos/tubitak.jpg
 importance: 8
 category: Previous
 ---
