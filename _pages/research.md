@@ -5,7 +5,7 @@ title: Research
 # description: Internet of Everything (IoE) Group
 nav: true
 nav_order: 1
-show_title_rule: false
+show_profile_rules: false
 
 profiles:
   - align: right
