@@ -586,13 +586,17 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> receives <strong>Editor of the Year Award</strong>, <em>AD HOC Networks Journal (Elsevier Science)</em>, <em>2006</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10056.gif">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> receives <strong>Best Paper Award</strong>, <strong>IEEE ISCN 2006</strong>, <em>Istanbul, Turkey</em>, <em>June 2006</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10058.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -600,7 +604,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Multimedia Sensor Networks” at <strong>NATO-ARW</strong> in <em>Romania</em> on <em>Sept. 2006</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10060.png">
+                <img src="/assets/img/news/10057.jpg">
             </div>
         </div>
 
@@ -609,7 +613,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Wireless Sensor Networks for Military and Defense Applications” at <strong>NATO-ARW</strong> in <em>Romania</em> on <em>Sept. 2006</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10061.png">
+                <img src="/assets/img/news/10057.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -617,7 +621,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Multimedia Communication in Wireless Sensor Networks” at <strong>IEEE ISCN 2006</strong> in <em>Istanbul Turkey</em> on <em>June 2006</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10062.png">
+                <img src="/assets/img/news/10058.png">
             </div>
         </div>
 
@@ -626,7 +630,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has receives <strong>TUBITAK-Career Award</strong>, <em>The Scientific & Technological Research Council of Turkey</em>, <em>2005</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10063.gif">
+                <img src="/assets/img/news/10059.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -634,7 +638,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Correlation-based Communication in Wireless Sensor Networks” at <strong>IEEE Communication Society-TR Chapter Distinguished Seminer</strong> in <em>Istanbul Turkey</em> on <em>June 2005</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10064.jpg">
+                <img src="/assets/img/news/10060.gif">
             </div>
         </div>
         <div class="news-item">
