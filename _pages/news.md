@@ -70,49 +70,63 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gave a <strong>Keynote Speech</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>IEEE CAMAD 2023</strong>, Edinburgh, UK, <em>November 2023</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/CAMAD-LOGO.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> delivered a <strong>Tutorial</strong>, “Internet of Bio-Nano Things: Getting Practical with Molecular Communications,” at <strong>IEEE Future Networks World Forum 2023</strong>, Baltimore, MD, USA, <em>November 2023</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/world-forum.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gave an <strong>Invited Talk</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>Clare Hall College, University of Cambridge</strong>, <em>August 2023</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/clare-hall-cam.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> is serving as <strong>Associate Editor</strong>, <em>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</em>, <em>since 2023</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/MBMCLogo_color.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> is serving as <strong>Editor</strong>, <em>Scientific Reports (Nature)</em>, <em>since 2023</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/Sci-Reports-Nature.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> delivered a <strong>Tutorial</strong>, “Internet of Bio-Nano Things: Getting Practical with Molecular Communications,” at <strong>IEEE GLOBECOM 2022</strong>, Rio de Janeiro, Brazil, <em>December 2022</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/ieee-globecom.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gave an <strong>Invited Talk</strong>, “Internet of Everything - From Molecules to the Universe,” at the <strong>Nanjing Institute of Technology Seminar</strong>, <em>October 2022</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/NJIT-logo.jpg">
+            </div>
         </div>
 
         <div class="news-item">
