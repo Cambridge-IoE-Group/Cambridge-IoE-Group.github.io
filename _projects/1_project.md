@@ -2,7 +2,7 @@
 layout: page
 title: AXA RESEARCH FUND
 description: "AXA Chair in Molecular Information and Communication Technologies (2020-2025)"
-img: assets/img/project_AXA_website.png
+img: assets/img/logos/axa_logo.png
 importance: 1
 category: Current
 # related_publications: true

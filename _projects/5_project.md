@@ -2,7 +2,7 @@
 layout: page
 title: Lockheed Martin
 description: "Mobile Ad Hoc beyond-Line-of-Sight (b-LoS) Networks (2012-2015)"
-img: assets/img/blos2.jpg
+img: assets/img/logos/lockheed_martin.png
 importance: 4
 category: Previous
 ---

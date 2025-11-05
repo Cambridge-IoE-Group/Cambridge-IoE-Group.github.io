@@ -2,7 +2,7 @@
 layout: page
 title: TUBITAK 1003 Fund
 description: "TeraFemto: Terahertz Femtocell for 5G Mobile Networks (2014-2017)"
-img: assets/img/project_thz.jpg
+img: assets/img/logos/tubitak.jpg
 # redirect: https://unsplash.com
 importance: 2
 category: Previous
