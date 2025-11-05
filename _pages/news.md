@@ -151,14 +151,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received the <strong>TÜBİTAK Science Award 2020</strong>, <em>The Scientific and Technological Research Council of Turkey (TÜBİTAK)</em>, <em>2020</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/logos/10059.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Dr. Akan</strong> receives the <strong>ACM NanoCom Outstanding Milestone Award</strong>, in recognition of his foundational contributions in developing theoretical and experimental molecular communication models for neural systems and brain. <em>NanoCom</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/logos/10001.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -172,7 +176,9 @@ nav_order: 6
             <div class="news-text">
                 <p><em>IEEE Networking Letters</em>: <strong>Dr. Akan</strong> will be serving on the <strong>inaugural editorial board</strong> for the soon to be launched journal.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/logos/10003.png">
+            </div>
         </div>
 
         <div class="news-item">
