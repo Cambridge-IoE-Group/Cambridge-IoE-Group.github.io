@@ -133,14 +133,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> was named a <strong>Turing Fellow</strong>, <strong>The Alan Turing Institute</strong>, <em>2021</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/ati-logo-black.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> was appointed as <strong>AXA Chair in Internet of Everything</strong>, supported by <strong>AXA Research Fund</strong>, <em>2020</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/logos/axa_logo.png">
+            </div>
         </div>
 
         <div class="news-item">
