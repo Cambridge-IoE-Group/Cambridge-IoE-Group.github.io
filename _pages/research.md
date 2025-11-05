@@ -5,6 +5,7 @@ title: Research
 # description: Internet of Everything (IoE) Group
 nav: true
 nav_order: 1
+show_title_rule: false
 
 profiles:
   - align: right
@@ -16,7 +17,6 @@ profiles:
       <p>CAPE Building, Electrical Engineering Division,</p>
       <p>Department of Engineering, University of Cambridge,</p>
       <p>9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.</p>
-
 ---
 
 
