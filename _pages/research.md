@@ -19,44 +19,39 @@ nav_order: 1
 ---
 
 
+
 <style>
-/* 右侧卡片：与原布局相近的外观与尺寸 */
 .research-aside{
-  float: right;                /* 关键：让正文环绕在左侧 */
-  width: 340px;                /* 依据你站点内容区宽度，可在 300–380px 调整 */
-  margin: 0 0 1.25rem 2rem;    /* 左侧留空隙，底部留间距 */
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 12px 14px;
-  background: #fff;
-  box-shadow: 0 1px 2px rgba(0,0,0,.04);
-  font-size: .95rem; line-height: 1.45;
+  float: right;
+  width: 320px;                  /* 需要更窄/更宽可在 300–360px 调整 */
+  margin: 0 0 1.25rem 2rem;      /* 与正文的间距 */
+  padding: 0;                    /* 取消内边距，避免“卡片感” */
+  border: 0;                     /* 去边框 */
+  box-shadow: none;              /* 去阴影 */
+  background: transparent;       /* 透明背景 */
+  font-size: 0.9rem;            /* 比正文略小一档 */
+  line-height: 1.5;
 }
 .research-aside img{
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 6px;
+  border-radius: 0;              /* 如需圆角可改为 6px */
   margin-bottom: .5rem;
 }
 .research-aside .caption{
-  color: #6b7280; font-size: .9rem; margin-bottom: .25rem;
-}
-/* 移动端：改为上下排布，避免拥挤 */
-@media (max-width: 900px){
-  .research-aside{
-    float: none;
-    width: 100%;
-    margin: 0 0 1rem 0;
-  }
+  color: #6b7280;                /* 次要信息灰 */
+  font-size: 0.88rem;            /* 再小半档，弱化标题行 */
+  margin-bottom: .25rem;
 }
 </style>
 
 
+
 <aside class="research-aside">
-  <img src="/assets/images/ioe_logo.png" alt="IoE">
-  <div class="caption">Principal Investigator: Özgür B. Akan</div>
-  <div>
+  <img src="/assets/img/ioe_logo.png" alt="IoE">
+  <div class="caption">
+    Principal Investigator: Prof. Özgür B. Akan<br>
     CAPE Building, Electrical Engineering Division,<br>
     Department of Engineering, University of Cambridge,<br>
     9, JJ Thomson Avenue, Cambridge, CB3 0FA, UK.
