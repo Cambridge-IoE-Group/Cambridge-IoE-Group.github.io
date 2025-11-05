@@ -152,7 +152,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has received the <strong>TÜBİTAK Science Award 2020</strong>, <em>The Scientific and Technological Research Council of Turkey (TÜBİTAK)</em>, <em>2020</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/logos/10059.jpg">
+                <img src="/assets/img/news/10059.jpg">
             </div>
         </div>
 
@@ -161,7 +161,7 @@ nav_order: 6
                 <p><strong>Dr. Akan</strong> receives the <strong>ACM NanoCom Outstanding Milestone Award</strong>, in recognition of his foundational contributions in developing theoretical and experimental molecular communication models for neural systems and brain. <em>NanoCom</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/logos/10001.png">
+                <img src="/assets/img/news/10001.png">
             </div>
         </div>
 
@@ -177,7 +177,7 @@ nav_order: 6
                 <p><em>IEEE Networking Letters</em>: <strong>Dr. Akan</strong> will be serving on the <strong>inaugural editorial board</strong> for the soon to be launched journal.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/logos/10003.png">
+                <img src="/assets/img/news/10003.png">
             </div>
         </div>
 
@@ -256,7 +256,9 @@ nav_order: 6
             <div class="news-text">
                 <p>“<strong>Kadir Has Awards’</strong> have found their owners. ‘The Promising Scientist Award’ was granted to <strong>Prof. Dr. Ozgur B. Akan</strong>.” – <em>Hurriyet, 19.03.2014</em>. <a href="html">[html]</a></p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10012.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
@@ -299,7 +301,9 @@ nav_order: 6
             <div class="news-text">
                 <p>Our research project on <strong>communication theoretical investigations of nervous nanonetworks</strong> has been awarded the <strong>European Research Council's (ERC) Consodilator Grant</strong> with an amount of <strong>1,8 million Euro</strong> for 5 years.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10019.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
@@ -323,7 +327,9 @@ nav_order: 6
             <div class="news-text">
                 <p>“<strong>Prof. Ozgur B. AKAN</strong> of Koc University awarded 1.8 million Euro grant by <strong>European Research Council (ERC)</strong>.” – <em>Hürriyet Ankara, 14.12.2013</em>. <a href="link">[link]</a></p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10023.jpg">
+            </div>
         </div>
 
         <div class="news-item">
