@@ -414,6 +414,7 @@ nav_order: 2
 
 ## <span class="section-title">Theses</span>
 <ol class="pubs" reversed>
+  <li>H. Cai, Semantic Communication for the Internet of Everything: From Molecular to Space Networks,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
   <li>M. Civas, “Transceiver Architectures and Physical Layer Techniques for Unconventional Communications in the Internet of Everything,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>C. Koca, “Game Theoretic and Bio-Inspired Communication Techniques for Internet of Bio-Nano Things,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>T. Khan, “Communication Theoretical Modeling and Analysis of Neuronal Communication with Synaptic Plasticity,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2022.</li>
