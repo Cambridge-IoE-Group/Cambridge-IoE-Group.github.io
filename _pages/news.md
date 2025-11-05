@@ -254,7 +254,7 @@ nav_order: 6
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p>“<strong>Kadir Has Awards’</strong> have found their owners. ‘The Promising Scientist Award’ was granted to <strong>Prof. Dr. Ozgur B. Akan</strong>.” – <em>Hurriyet, 19.03.2014</em>. <a href="html">[html]</a></p>
+                <p>“<strong>Kadir Has Awards’</strong> have found their owners. ‘The Promising Scientist Award’ was granted to <strong>Prof. Dr. Ozgur B. Akan</strong>.” – <em>Hurriyet, 19.03.2014</em>. </p>
             </div>
             <div class="thumb">
                 <img src="/assets/img/news/10012.jpg">
@@ -262,7 +262,7 @@ nav_order: 6
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p>The article featuring <strong>Project MINERVA</strong> and NWCL’s research on nano-communications appears in <strong>Popular Science</strong>. <a href="pdf">[pdf]</a></p>
+                <p>The article featuring <strong>Project MINERVA</strong> and NWCL’s research on nano-communications appears in <strong>Popular Science</strong>. </p>
             </div>
             <div class="thumb"></div>
         </div>
@@ -280,7 +280,7 @@ nav_order: 6
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p>Article featuring <strong>Project MINERVA</strong> and nano-communications in <strong>Panorama</strong> (<em>Kadir Has University magazine</em>). <a href="pdf">[pdf]</a></p>
+                <p>Article featuring <strong>Project MINERVA</strong> and nano-communications in <strong>Panorama</strong> (<em>Kadir Has University magazine</em>). </p>
             </div>
             <div class="thumb"></div>
         </div>
@@ -307,25 +307,25 @@ nav_order: 6
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p><strong>Project MINERVA</strong> covered on <strong>ACM TechNews</strong> (<em>Dec 2013</em>). <a href="html">[html]</a></p>
+                <p><strong>Project MINERVA</strong> covered on <strong>ACM TechNews</strong> (<em>Dec 2013</em>). </p>
             </div>
             <div class="thumb"></div>
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p><strong>Prof. Akan</strong> featured on nationwide TV (<strong>NTV</strong>) answering questions about <strong>Project MINERVA</strong> (<em>Dec 2013</em>). <a href="video">[video]</a></p>
+                <p><strong>Prof. Akan</strong> featured on nationwide TV (<strong>NTV</strong>) answering questions about <strong>Project MINERVA</strong> (<em>Dec 2013</em>).</p>
             </div>
             <div class="thumb"></div>
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p>“The first ever Consolidator Grant in Turkey goes to <strong>MINERVA</strong>.” – <em>Cumhuriyet, 08.12.2013</em>. <a href="pdf">[pdf]</a></p>
+                <p>“The first ever Consolidator Grant in Turkey goes to <strong>MINERVA</strong>.” – <em>Cumhuriyet, 08.12.2013</em>.</p>
             </div>
             <div class="thumb"></div>
         </div>
         <div class="news-item">
             <div class="news-text">
-                <p>“<strong>Prof. Ozgur B. AKAN</strong> of Koc University awarded 1.8 million Euro grant by <strong>European Research Council (ERC)</strong>.” – <em>Hürriyet Ankara, 14.12.2013</em>. <a href="link">[link]</a></p>
+                <p>“<strong>Prof. Ozgur B. AKAN</strong> of Koc University awarded 1.8 million Euro grant by <strong>European Research Council (ERC)</strong>.” – <em>Hürriyet Ankara, 14.12.2013</em>.</p>
             </div>
             <div class="thumb">
                 <img src="/assets/img/news/10023.jpg">
