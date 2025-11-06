@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news/
-description: News of the IoE Group
+description: News of the Internet of Everything (IoE) Group
 nav: true
 nav_order: 6
 ---

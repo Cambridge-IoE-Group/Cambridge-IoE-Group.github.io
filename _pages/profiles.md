@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members of the IoE Group
+description: Members of the Internet of Everything (IoE) Group
 nav: true
 nav_order: 4
 
