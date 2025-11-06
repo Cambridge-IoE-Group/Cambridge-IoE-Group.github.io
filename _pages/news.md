@@ -192,14 +192,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has been appointed as the <strong>IEEE Nanotechnology Council (NTC) Distinguished Lecturer</strong>, <em>IEEE NTC</em>, <em>January 2017–December 2017</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10005.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p>Our paper titled “<strong>Crowdsourcing-based Mobile Network Tomography for xG Wireless Systems</strong>” (co-authored by <em>Ergin Dinc, Mustafa Ozger, Ahmet F. Ates, Ibrahim Delibalta and Ozgur B. Akan</em>) has received the <strong>Best Paper Award</strong>, <strong>IEEE ISCC 2016</strong>, Messina, Italy, <em>June 2016</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10006.jpg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -213,19 +217,25 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received the <strong>2015 Sedat Simavi Award</strong> in the category of sciences with its work “Physical Model and Analysis of Forster Resonance Energy Transfer (FRET) Based Nano Molecular Communication Channel,” <em>2015</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10008.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has been elected as the member of <strong>Science Academy</strong>, <em>2015</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10017.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has been named an <strong>IEEE Fellow</strong>, with the citation: “For contributions to wireless sensor networks”, <em>2016</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10009.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
@@ -238,13 +248,17 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received the <strong>Outstanding Faculty of the Year Award 2014</strong>, <em>Faculty of Engineering, Koc University</em>, <em>2014</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10028.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received <strong>TÜBİTAK Young Scientist Award 2014</strong>, <em>The Scientific and Technological Research Council of Turkey (TÜBİTAK)</em>, <em>2014</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10059.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
@@ -315,7 +329,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> featured on nationwide TV (<strong>NTV</strong>) answering questions about <strong>Project MINERVA</strong> (<em>Dec 2013</em>).</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10021.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
@@ -454,7 +470,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Murat Kocaoglu</strong> presents the paper titled “Minimum Energy Coding for Wireless NanoSensor Networks” in <strong>IEEE INFOCOM 2012</strong>, <em>March 2012</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10039.jpg">
+            </div>
         </div>
 
         <div class="news-item">
