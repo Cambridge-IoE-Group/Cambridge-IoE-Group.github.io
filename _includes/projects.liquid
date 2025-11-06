@@ -1,19 +1,22 @@
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
+    <!-- 加上自定义类 project-card -->
+    <div class="card h-100 hoverable project-card">
       {% if project.img %}
         {%
           include figure.liquid
           loading="eager"
           path=project.img
-          sizes = "250px"
+          sizes="250px"
           alt="project thumbnail"
           class="card-img-top"
         %}
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
+        <!-- 可选钩子类：project-card-title -->
+        <h2 class="card-title project-card-title">{{ project.title }}</h2>
+        <!-- 可选钩子类：project-card-text -->
+        <p class="card-text project-card-text">{{ project.description }}</p>
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">

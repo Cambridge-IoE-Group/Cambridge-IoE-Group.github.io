@@ -1,0 +1,7 @@
+/* 调小 Projects 卡片与字体（给卡片模板加了 .project-card 类会更精准） */
+.project-card {
+  .card-body { padding: .75rem .9rem; }
+  .card-title { font-size: 1.15rem; margin-bottom: .3rem; line-height: 1.25; }
+  .card-text  { font-size: .95rem; }
+  .card-img-top, .card-img { max-height: 180px; object-fit: cover; }
+}
