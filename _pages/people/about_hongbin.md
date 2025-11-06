@@ -1,3 +1,3 @@
 Hongbin Ni received his BEng degree in Mechatronic Engineering from the University of Manchester, UK, in June 2021, and his MSc degree in Biomedical Engineering from Imperial College London, UK, in September 2022. He is currently pursuing a Ph.D. in Engineering at the University of Cambridge, UK, under the supervision of Prof. Akan. His research focuses on developing particle-based communication transceivers for brain organoids.
 
-Personal Page
+[Personal Page](https://oba.eco/people/hongbin/)

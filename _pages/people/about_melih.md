@@ -1,3 +1,3 @@
 Melih Sahin is a Ph.D. student in Engineering at the University of Cambridge. He joined the Internet of Everything (IoE) Group in October 2025 and is supervised by Prof. Akan. He received an M.S. in Electrical and Electronics Engineering with thesis in 2025 and a B.Sc. in Computer Engineering with a Mathematics minor and an AI track in 2024 at Koç University, after his first year of undergraduate studies at KAIST. His notable distinctions include an Intel ISEF 4th place Grand Award in Mathematics in 2018. His research interests cover Information Theory, Coding Theory, and Molecular Communication.
 
-Personal Page
+[Personal Page](https://oba.eco/people/melih/)
