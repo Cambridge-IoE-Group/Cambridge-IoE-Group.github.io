@@ -6,6 +6,16 @@ permalink: /people/tansel/
 nav: false
 ---
 
+<div class="float-md-right person-photo">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/tansel.jpg"
+     alt="Osman Tansel Baydas"
+     class="person-photo__img rounded z-depth-1"
+     sizes="440px"
+  %}
+</div>
+
 O. Tansel Baydas joined Cambridge as a Ph.D. student in 2024. He received his B.S. in Electrical & Electronics Engineering and Mathematics from Bogazici University in Istanbul, Turkey in 2024. His research interests are broadly in communication and information theory for biological and distributed systems.
 
 <h3>Research Interests</h3>

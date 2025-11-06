@@ -6,6 +6,17 @@ permalink: /people/koc_ahmet/
 nav: false
 ---
 
+<div class="float-md-right person-photo">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/ahmet.jpg"
+     alt="Ahmet Burak Kilic"
+     class="person-photo__img rounded z-depth-1"
+     sizes="440px"
+  %}
+</div>
+
+
 Ahmet Burak Kilic completed his high school education Bilfen Kayseri High School, Kayseri, Turkey. He received his B.Sc. degree in Electrical and Electronics Engineering from Koç University, Istanbul, Turkey. He is also currently a senior student in Business Administration at Koç University, Istanbul, Turkey. He is pursuing his M.Sc. degree in Electrical and Electronics Engineering at Koç University, under the supervision of Prof. Akan.
 
 

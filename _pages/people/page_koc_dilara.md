@@ -6,6 +6,17 @@ permalink: /people/koc_dilara/
 nav: false
 ---
 
+<div class="float-md-right person-photo">
+  {% include figure.liquid
+     loading="eager"
+     path="assets/img/dilara.jpg"
+     alt="Dilara Aktas"
+     class="person-photo__img rounded z-depth-1"
+     sizes="440px"
+  %}
+</div>
+
+
 
 <h3>Research Interests</h3>
 
