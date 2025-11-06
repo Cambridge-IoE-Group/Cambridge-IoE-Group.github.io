@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "Members of the IoE Group",
+          description: "Members of the Internet of Everything (IoE) Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-news",
           title: "News",
-          description: "News of the IoE Group",
+          description: "News of the Internet of Everything (IoE) Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
