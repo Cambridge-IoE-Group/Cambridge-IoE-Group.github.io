@@ -19,7 +19,7 @@ nav: false
      path="assets/img/haofan.jpg"
      alt="Haofan Dong"
      class="person-photo__img rounded z-depth-1"
-     sizes="440px"
+     sizes="320px"
   %}
 </div>
 

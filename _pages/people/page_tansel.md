@@ -18,7 +18,7 @@ nav: false
      path="assets/img/tansel.jpg"
      alt="Osman Tansel Baydas"
      class="person-photo__img rounded z-depth-1"
-     sizes="440px"
+     sizes="320px"
   %}
 </div>
 

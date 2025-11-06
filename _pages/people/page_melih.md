@@ -18,7 +18,7 @@ nav: false
      path="assets/img/melih.jpg"
      alt="Melih Sahin"
      class="person-photo__img rounded z-depth-1"
-     sizes="440px"
+     sizes="320px"
   %}
 </div>
 
