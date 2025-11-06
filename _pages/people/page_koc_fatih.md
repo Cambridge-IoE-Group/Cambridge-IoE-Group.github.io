@@ -6,6 +6,13 @@ permalink: /people/koc_fatih/
 nav: false
 ---
 
+<style>
+.person-photo{ width:260px;height:340px;margin:0 0 1rem 1rem; }
+.person-photo__img{ width:100% !important;height:100% !important;object-fit:cover;object-position:center;display:block; }
+@media (max-width:576px){ .person-photo{ float:none !important;margin:0 auto 1rem;width:200px;height:260px; } }
+</style>
+
+
 <div class="float-md-right person-photo">
   {% include figure.liquid
      loading="eager"
