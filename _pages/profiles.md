@@ -16,6 +16,7 @@ profiles:
     more_info: >
       <p>Prof. Ozgur Baris Akan, IEEE Fellow</p>
       <p>Principal Investigator of IoE Group</p>
+      <p>Email: oba21[at]cam.ac.uk</p>
 
   - align: left
     image: haofan.jpg
