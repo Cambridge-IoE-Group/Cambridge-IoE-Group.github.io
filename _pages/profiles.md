@@ -115,7 +115,7 @@ profiles:
     more_info: >
       <p>Dilara Aktas	</p>
       <p>Final-year PhD Student, Koç University, Turkey</p>
-      <p>Email:</p>
+      <p>Email: dilaraaktas20[at]ku.edu.tr</p>
 
   - align: left
     image: ahmet.jpg
@@ -124,7 +124,7 @@ profiles:
     more_info: >
       <p>Ahmet Burak Kilic</p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
-      <p>Email:</p>
+      <p>Email: ahmetkilic20[at]ku.edu.tr</p>
 
   - align: left
     image: fatihmerdan.jpeg
@@ -133,7 +133,7 @@ profiles:
     more_info: >
       <p>Fatih Merdan</p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
-      <p>Email:</p>
+      <p>Email: fmerdan25[at]ku.edu.tr</p>
 
 
 # add new member here
