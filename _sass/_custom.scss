@@ -6,8 +6,18 @@
   .card-img-top, .card-img { max-height: 180px; object-fit: cover; }
 }
 
-.person-photo{ width:260px;height:340px;margin:0 0 1rem 1rem; }
-.person-photo__img{ width:100% !important;height:100% !important;object-fit:cover;object-position:center;display:block; }
+/* 桌面尺寸：统一为 220 × 300 */
+.person-photo{ width:220px;height:300px;margin:0 0 .75rem .75rem; }
+.person-photo__img{
+  width:220px !important;
+  height:300px !important;
+  object-fit:cover;
+  object-position:center;
+  display:block;
+}
+
+/* 手机尺寸：统一为 180 × 240，并居中 */
 @media (max-width:576px){
-  .person-photo{ float:none !important;margin:0 auto 1rem;width:200px;height:260px; }
+  .person-photo{ float:none !important;margin:0 auto .75rem;width:180px;height:240px; }
+  .person-photo__img{ width:180px !important;height:240px !important; }
 }
