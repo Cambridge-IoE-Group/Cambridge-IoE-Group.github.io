@@ -273,7 +273,7 @@ nav_order: 6
                 <p>The <strong>Minerva Project</strong> on <strong>Bloomberg Businessweek</strong>: “Telecommunications the key to spinal cord disorders” – <em>Bloomberg Businessweek, 14.11.2014</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10011.png">
+                <img src="/assets/img/news/10011.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -289,7 +289,7 @@ nav_order: 6
                 <p>The article featuring <strong>Project MINERVA</strong> and NWCL’s research on nano-communications appears in <strong>Popular Science</strong>. </p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10013.png">
+                <img src="/assets/img/news/10013.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -297,7 +297,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has been selected to the list of “The 100 Most Influential Turkish Scientists” by <strong>Platin Magazine</strong>, <em>Turkey's leading monthly business publication</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10014.png">
+                <img src="/assets/img/news/10014.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -305,7 +305,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has received <strong>Kadir Has University Promising Scientist Award 2014</strong>, <em>Kadir Has University</em>, <em>2014</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10015.png">
+                <img src="/assets/img/news/10015.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -313,7 +313,7 @@ nav_order: 6
                 <p>Article featuring <strong>Project MINERVA</strong> and nano-communications in <strong>Panorama</strong> (<em>Kadir Has University magazine</em>). </p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10016.png">
+                <img src="/assets/img/news/10016.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -321,7 +321,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has received <strong>Young Scientist Award 2014 (BAGEP 2014)</strong>, <em>The Science Academy</em>, <em>2014</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10017.png">
+                <img src="/assets/img/news/10017.jpg">
             </div>
         </div>
         <div class="news-item">
@@ -329,7 +329,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has received the <strong>Scientist of the Year Award 2013</strong>, <em>Bilim Kahramanlari Dernegi</em>, <em>2013</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10018.png">
+                <img src="/assets/img/news/10018.gif">
             </div>
         </div>
 
