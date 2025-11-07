@@ -215,7 +215,7 @@ nav_order: 6
                 <p><strong>Ergin Dinc</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10007.png">
+                <img src="/assets/img/news/10007.jpg">
             </div>
         </div>
 
@@ -248,7 +248,7 @@ nav_order: 6
                 <p><strong>Ozgur Ergul</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10010.png">
+                <img src="/assets/img/news/10010.jpg">
             </div>
         </div>
 
