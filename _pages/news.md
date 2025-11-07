@@ -546,7 +546,7 @@ nav_order: 6
                 <p><strong>Prof. Akan</strong> has received <strong>IBM Shared University Research (SUR) Award</strong> for the project “Fundamentals of Green Communications and Networking,” <em>IBM</em>, <em>2011</em>.</p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10041.jpeg">
+                <img src="/assets/img/news/10053.jpg">
             </div>
         </div>
 
@@ -554,14 +554,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Baris Atakan</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10041.jpeg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>NWCL Workshop 2011</strong> is held on <em>December 14, 2011</em> in <em>NWCL-Lab (ENG-140)</em>. Detailed information is available in <a href="Workshop Webpage">Workshop Webpage</a>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10042.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -600,14 +604,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> is elected as <strong>IEEE Communications Society Distinguished Lecturer</strong>, <em>IEEE</em>, <em>January 2011-December 2012</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10060.gif">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> receives <strong>IEEE Communications Society 2010 Outstanding Young Researcher Award</strong> for <em>Europe, Middle-East and Africa Region (as runner-up)</em>, <em>IEEE ComSoc</em>, <em>2011</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10060.gif">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
