@@ -51,3 +51,6 @@ Haofan Dong joined the IoE group at the University of Cambridge Department of En
 4. H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models ,” submitted to IEEE Communications Magazine, Manuscript ID: COMMAG-25-00424, 2025.
 5. H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to IEEE Journal on Selected Areas in Communications, Manuscript ID: JSAC-00796-2025, 2025.
 6. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
+
+
+<br>

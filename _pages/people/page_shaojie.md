@@ -48,3 +48,5 @@ Shaojie Zhang received his B.Sc. degree in Electrical and Electronics Engineerin
 1. S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to IEEE Transactions on Communications, 2025.
 2. S. Zhang, O. B. Akan, “Ion Transmitter for Molecular Communication,” 2024.
 3. S. Zhang, O. B. Akan, “Internet of Organoids - Bridging IoT with the Future of Organoid Research,” 2024.
+
+<br>

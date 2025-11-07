@@ -31,10 +31,10 @@ Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024.
 
 <h3>Research Interests</h3>
 
-- Internet of Everything
-- Internet of Agents
+- Space Communication
+- Gravitational Communication
 - Wireless Communication
-- Federated Learning
+- Integrated Sensing and Communication (ISAC)
 
 <br>
 

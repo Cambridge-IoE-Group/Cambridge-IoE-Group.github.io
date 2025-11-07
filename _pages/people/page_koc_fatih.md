@@ -30,11 +30,11 @@ Fatih Merdan completed his high school education at Kırıkkale Science High Sch
 
 <h3>Research Interests</h3>
 
-- Internet of Everything
-- Internet of Agents
-- Wireless Communication
-- Federated Learning
+- Molecular Communications
+- Internet of Bio-Nano Things (IoBNT)
 
 <br>
 
 <h3>Publications</h3>
+
+<br>

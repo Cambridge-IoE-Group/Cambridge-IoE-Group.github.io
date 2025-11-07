@@ -42,3 +42,5 @@ Ahmet Burak Kilic completed his high school education Bilfen Kayseri High School
 1. A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.
 2. F. E. Bilgen, A. B. Kilic, O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-based Molecular Communication,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 1–12, March 2025.
 3. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
+
+<br>
