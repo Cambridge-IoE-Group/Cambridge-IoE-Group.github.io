@@ -561,7 +561,7 @@ nav_order: 6
 
         <div class="news-item">
             <div class="news-text">
-                <p><strong>NWCL Workshop 2011</strong> is held on <em>December 14, 2011</em> in <em>NWCL-Lab (ENG-140)</em>. Detailed information is available in <a href="Workshop Webpage">Workshop Webpage</a>.</p>
+                <p><strong>NWCL Workshop 2011</strong> is held on <em>December 14, 2011</em> in <em>NWCL-Lab (ENG-140)</em>. Detailed information is available in Workshop Webpage.</p>
             </div>
             <div class="thumb">
                 <img src="/assets/img/news/10042.png">
