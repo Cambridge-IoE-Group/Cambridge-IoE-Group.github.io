@@ -25,6 +25,7 @@ profiles:
     more_info: >
       <p>Haofan Dong</p>
       <p>Third-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: hd489[at]cam.ac.uk</p>
 
   - align: left
     image: hongbin.jpg
@@ -33,6 +34,7 @@ profiles:
     more_info: >
       <p>Hongbin Ni</p>
       <p>Third-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: hn345[at]cam.ac.uk</p>
 
   - align: left
     image: zhengyang.jpg
@@ -41,6 +43,7 @@ profiles:
     more_info: >
       <p>Zhengyang Zhang</p>
       <p>Third-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: zz420[at]cam.ac.uk</p>
 
   - align: left
     image: shaojie.jpg
@@ -49,6 +52,7 @@ profiles:
     more_info: >
       <p>Shaojie Zhang</p>
       <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: sz466[at]cam.ac.uk</p>
 
   - align: left
     image: tansel.jpg
@@ -57,6 +61,7 @@ profiles:
     more_info: >
       <p>Osman Tansel Baydas</p>
       <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: otb26[at]cam.ac.uk</p>
 
   - align: left
     image: sila.jpg
@@ -65,6 +70,7 @@ profiles:
     more_info: >
       <p>Ayse Sila Okcu</p>
       <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: aso32[at]cam.ac.uk</p>
 
   - align: left
     image: tiff.jpg
@@ -73,6 +79,7 @@ profiles:
     more_info: >
       <p>Houtianfu Wang</p>
       <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: hw680[at]cam.ac.uk	</p>
 
   - align: left
     image: hanlin.png
@@ -81,6 +88,7 @@ profiles:
     more_info: >
       <p>Hanlin Cai</p>
       <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Email:hc663[at]cam.ac.uk</p>
 
   - align: left
     image: melih.jpg
@@ -89,6 +97,7 @@ profiles:
     more_info: >
       <p>Melih Sahin</p>
       <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: ms3195[at]cam.ac.uk</p>
 
   - align: left
     image: fati.jpg
@@ -97,6 +106,7 @@ profiles:
     more_info: >
       <p>Fatih Efe Bilgen</p>
       <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Email:feb49[at]cam.ac.uk</p>
 
   - align: left
     image: dilara.jpg
@@ -105,6 +115,7 @@ profiles:
     more_info: >
       <p>Dilara Aktas	</p>
       <p>Final-year PhD Student, Koç University, Turkey</p>
+      <p>Email:</p>
 
   - align: left
     image: ahmet.jpg
@@ -113,6 +124,7 @@ profiles:
     more_info: >
       <p>Ahmet Burak Kilic</p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
+      <p>Email:</p>
 
   - align: left
     image: fatihmerdan.jpeg
@@ -121,6 +133,9 @@ profiles:
     more_info: >
       <p>Fatih Merdan</p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
+      <p>Email:</p>
+
+
 # add new member here
 ---
 
