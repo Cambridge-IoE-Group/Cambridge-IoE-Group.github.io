@@ -23,7 +23,7 @@ profiles:
     content: people/about_haofan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Haofan Dong</p>
+      <p><a href="https://oba.eco/people/haofan">Haofan Dong</a></p>
       <p>Third-year PhD Student, University of Cambridge</p>
       <p>Email: hd489[at]cam.ac.uk</p>
 
@@ -32,7 +32,7 @@ profiles:
     content: people/about_hongbin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hongbin Ni</p>
+      <p><a href="https://oba.eco/people/hongbin">Hongbin Ni</a></p>
       <p>Third-year PhD Student, University of Cambridge</p>
       <p>Email: hn345[at]cam.ac.uk</p>
 
@@ -41,7 +41,7 @@ profiles:
     content: people/about_zhengyang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Zhengyang Zhang</p>
+      <p><a href="https://oba.eco/people/zhengyang">Zhengyang Zhang</a></p>
       <p>Third-year PhD Student, University of Cambridge</p>
       <p>Email: zz420[at]cam.ac.uk</p>
 
@@ -50,7 +50,7 @@ profiles:
     content: people/about_shaojie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Shaojie Zhang</p>
+      <p><a href="https://oba.eco/people/shaojie">Shaojie Zhang</a></p>
       <p>Second-year PhD Student, University of Cambridge</p>
       <p>Email: sz466[at]cam.ac.uk</p>
 
@@ -59,7 +59,7 @@ profiles:
     content: people/about_tansel.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Osman Tansel Baydas</p>
+      <p><a href="https://oba.eco/people/tansel">Osman Tansel Baydas</a></p>
       <p>Second-year PhD Student, University of Cambridge</p>
       <p>Email: otb26[at]cam.ac.uk</p>
 
@@ -68,7 +68,7 @@ profiles:
     content: people/about_sila.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ayse Sila Okcu</p>
+      <p><a href="https://oba.eco/people/sila">Ayse Sila Okcu</a></p>
       <p>Second-year PhD Student, University of Cambridge</p>
       <p>Email: aso32[at]cam.ac.uk</p>
 
@@ -77,7 +77,7 @@ profiles:
     content: people/about_tianfu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Houtianfu Wang</p>
+      <p><a href="https://oba.eco/people/houtianfu">Houtianfu Wang</a></p>
       <p>Second-year PhD Student, University of Cambridge</p>
       <p>Email: hw680[at]cam.ac.uk	</p>
 
@@ -86,7 +86,7 @@ profiles:
     content: people/about_hanlin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Hanlin Cai</p>
+      <p><a href="https://oba.eco/people/hanlin">Hanlin Cai</a></p>
       <p>First-year PhD Student, University of Cambridge</p>
       <p>Email:hc663[at]cam.ac.uk</p>
 
@@ -95,7 +95,7 @@ profiles:
     content: people/about_melih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Melih Sahin</p>
+      <p><a href="https://oba.eco/people/melih">Melih Sahin</a></p>
       <p>First-year PhD Student, University of Cambridge</p>
       <p>Email: ms3195[at]cam.ac.uk</p>
 
@@ -104,7 +104,7 @@ profiles:
     content: people/about_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Fatih Efe Bilgen</p>
+      <p><a href="https://oba.eco/people/fatih">Fatih Efe Bilgen</a></p>
       <p>First-year PhD Student, University of Cambridge</p>
       <p>Email:feb49[at]cam.ac.uk</p>
 
@@ -113,7 +113,7 @@ profiles:
     content: people/about_koc_dilara.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Dilara Aktas	</p>
+      <p><a href="https://oba.eco/people/koc_dilara">Dilara Aktas</a></p>
       <p>Final-year PhD Student, Koç University, Turkey</p>
       <p>Email: dilaraaktas20[at]ku.edu.tr</p>
 
@@ -122,7 +122,7 @@ profiles:
     content: people/about_koc_ahmet.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Ahmet Burak Kilic</p>
+      <p><a href="https://oba.eco/people/koc_ahmet">Ahmet Burak Kilic</a></p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
       <p>Email: ahmetkilic20[at]ku.edu.tr</p>
 
@@ -131,10 +131,9 @@ profiles:
     content: people/about_koc_fatih.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Fatih Merdan</p>
+      <p><a href="https://oba.eco/people/koc_fatih">Fatih Merdan</a></p>
       <p>Final-year Master's Student, Koç University, Turkey</p>
       <p>Email: fmerdan25[at]ku.edu.tr</p>
-
 
 # add new member here
 ---
