@@ -23,28 +23,29 @@ nav: false
 </div>
 
 
-Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, National University of Ireland (Maynooth) in 2024, and the M.Phil. degree from the Department of Engineering, University of Cambridge in 2025, where he is currently pursuing the Ph.D. degree under the supervision of Prof. Akan. He is a recipient of the Cambridge Trust Scholarship, China CSC Scholarship and the Undergraduate Scholar Awards from top-tier AI conferences, including AAAI 2024 and ACM SIGKDD 2024. His research interests include wireless communication, federated learning, and the Internet of Agents.
+Mr. Zhengyang Zhang joined the IoE Group as a PhD student in 2023. He holds a Bachelor’s degree in Electronic Information Engineering from Beihang University, awarded in 2020, and a Master of Research degree in Connected Electronic and Photonic Systems from the University of Cambridge, completed in 2021.
+
+
+<br>
 
 <h3>Research Interests</h3>
 
-- Internet of Everything
-- Internet of Agents
-- Wireless Communication
-- Federated Learning
+- Space Communication
+- Integrated Sensing and Communication (ISAC)
+- THz Communication
+
+<br>
 
 <h3>Publications</h3>
 
-1. H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” Proceedings of the 9th Workshop on Molecular Communications, 2025.
-2. H. Cai and Z. Xu, et al., “Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks,” Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services, 2024.
-3. H. Cai, “Securing billion bluetooth devices Leveraging learning-based techniques,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+1. Z. Zhang, O. B. Akan, “Analysis of Terahertz Communication Under Dust Storm Conditions on Mars,” IEEE Communications Letters, vol. 29, no. 2, pp. 388–392, February 2025.
+2. Z. Zhang, S. Liu, S. M. Goetz, and O. B. Akan, “Novel Improvement of Least Mean Square Adaptive Algorithm for Non-monotonic Systems,” Optics Express, 2024.
+
+<br>
 
 <h3>Submitted Papers</h3>
 
-1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
-2. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
-3. H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models ,” submitted to IEEE Communications Magazine, 2025.
-4. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
+1. K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.
 
-<h3>Useful Links</h3>
 
-[Academic Website](https://caihanlin.com/), [Linkedin](https://www.linkedin.com/in/hanlincai/)
+<br>

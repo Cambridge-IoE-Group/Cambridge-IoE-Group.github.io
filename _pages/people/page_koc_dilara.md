@@ -24,17 +24,19 @@ nav: false
   %}
 </div>
 
+Dilara Aktas received her BS degree in Electronics and Communication Engineering in Istanbul Technical University, Istanbul, Turkey, in June 2019. She is currently a research assistant at the Next-generation and Wireless Communications Laboratory and pursuing her Ph.D. degree in Electrical and Electronics Engineering under the supervision of Prof. Akan at Koc University, Istanbul, Turkey.
 
+<br>
 
 <h3>Research Interests</h3>
 
-- Internet of Everything
-- Internet of Agents
-- Wireless Communication
-- Federated Learning
+- Molecular Communications
+- Internet of Bio-Nano Things (IoBNT)
+
+<br>
 
 <h3>Publications</h3>
 
-1. H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” Proceedings of the 9th Workshop on Molecular Communications, 2025.
-2. H. Cai and Z. Xu, et al., “Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks,” Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services, 2024.
-3. H. Cai, “Securing billion bluetooth devices Leveraging learning-based techniques,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+1. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
+2. D. Aktas, O. B. Akan, “Weight Shift Keying (WSK) with Practical Mechanical Receivers for Molecular Communications in Internet of Everything,” IEEE Journal on Selected Areas in Communications, vol. 40, no. 11, pp. 3285–3294, October 2022.
+3. D. Aktas, O. B. Akan, “A Mechanical Transduction-Based Molecular Communication Receiver for Internet of Nano Things (IoNT),” in Proc. ACM NanoCom 2021, Virtual Conference, September 2021.

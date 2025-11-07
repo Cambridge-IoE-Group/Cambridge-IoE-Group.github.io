@@ -24,8 +24,10 @@ nav: false
 </div>
 
 
+Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024. He received M.S. degree in Electrical and Computer Engineering from University of California, San Diego in 2024, and B.S. degree in Electrical Engineering from The Ohio State University in 2022. He is currently a member in Internet of Everything group, under the supervision of Prof. Akan.
 
-Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, National University of Ireland (Maynooth) in 2024, and the M.Phil. degree from the Department of Engineering, University of Cambridge in 2025, where he is currently pursuing the Ph.D. degree under the supervision of Prof. Akan. He is a recipient of the Cambridge Trust Scholarship, China CSC Scholarship and the Undergraduate Scholar Awards from top-tier AI conferences, including AAAI 2024 and ACM SIGKDD 2024. His research interests include wireless communication, federated learning, and the Internet of Agents.
+<br>
+
 
 <h3>Research Interests</h3>
 
@@ -34,11 +36,14 @@ Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, Natio
 - Wireless Communication
 - Federated Learning
 
+<br>
+
 <h3>Publications</h3>
 
-1. H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” Proceedings of the 9th Workshop on Molecular Communications, 2025.
-2. H. Cai and Z. Xu, et al., “Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks,” Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services, 2024.
-3. H. Cai, “Securing billion bluetooth devices Leveraging learning-based techniques,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+1. H. Wang, O. B. Akan, et al., “Gravitational Communication: Fundamentals, State-of-the-Art and Future Vision,” IEEE Communications Surveys & Tutorials (Early Access), doi: 10.1109/COMST.2025.3601088, 2025.
+
+
+<br>
 
 <h3>Submitted Papers</h3>
 
@@ -47,6 +52,4 @@ Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, Natio
 3. H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models ,” submitted to IEEE Communications Magazine, 2025.
 4. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
 
-<h3>Useful Links</h3>
-
-[Academic Website](https://caihanlin.com/), [Linkedin](https://www.linkedin.com/in/hanlincai/)
+<br>

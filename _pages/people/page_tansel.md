@@ -24,16 +24,16 @@ nav: false
 
 O. Tansel Baydas joined Cambridge as a Ph.D. student in 2024. He received his B.S. in Electrical & Electronics Engineering and Mathematics from Bogazici University in Istanbul, Turkey in 2024. His research interests are broadly in communication and information theory for biological and distributed systems.
 
-[Personal Website](https://tanselbaydas.github.io/), [Linkedin](https://www.linkedin.com/in/tanselbaydas/?originalSubdomain=uk).
+
+[Personal Website](https://tanselbaydas.github.io/), [Linkedin](https://www.linkedin.com/in/tanselbaydas/?originalSubdomain=uk)
 
 <br>
 
 <h3>Research Interests</h3>
 
-- Internet of Everything
-- Internet of Agents
-- Wireless Communication
-- Federated Learning
+- Communication and Information Theory
+- Molecular Communication
+- Distributed System
 
 <br>
 
@@ -49,3 +49,5 @@ O. Tansel Baydas joined Cambridge as a Ph.D. student in 2024. He received his B.
 
 1. O. T. Baydas, O. B. Akan, et al., “Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
 2. O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2025.
+
+<br>
