@@ -252,6 +252,7 @@ nav_order: 2
 
 ## <span class="section-title">Conference Papers</span>
 <ol class="pubs" reversed>
+  <li>K. Li, O. B. Akan, et al., "Explainable Graph Attention-Driven Fairness Manipulation for Federated Learning in EdgeIoT," 2025 IEEE/CIC International Conference on Communications in China (ICCC), Shanghai, China, 2025.</li>
   <li>F. E. Bilgen, O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. <strong>ACM NanoCom 2024</strong>, Milan, Italy, October 2024.</li>
   <li>K. Li, A. Noor, W. Ni, E. Tovar, X. Fu, O. B. Akan, “Poisoning Federated Learning with Graph Neural Networks in Internet of Drones,” in Proc. <strong>IEEE ICCCN 2024</strong>.</li>
   <li>C. Koca, O. B. Akan, “A Fast Simulation Algorithm for Molecular Dispersion and Binding in Molecular Communications,” in Proc. <strong>ACM NanoCom 2023</strong>, Coventry, UK, September 2023.</li>
