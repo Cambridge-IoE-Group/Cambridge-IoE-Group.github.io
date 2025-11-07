@@ -169,7 +169,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Murat Kuscu</strong> has been awarded the <strong>IEEE Turkey Ph.D. Thesis Award</strong>, <em>2018</em>. <em>Murat Kuscu</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10002.jpg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -185,7 +187,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Tooba Khan</strong> has received <strong>IEEE INFOCOM 2018 Best-in-Session Presentation Award</strong> for presenting the paper entitled “Information Theoretical Analysis of Synaptic Communication for Nanonetworks” (co-authored by <em>Hamideh Ramezani, Tooba Khan and Ozgur B. Akan</em>) in <strong>IEEE INFOCOM 2018</strong>, Honolulu, USA, <em>April 2018</em>. <em>Tooba Khan</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10004.jpg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -210,7 +214,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Ergin Dinc</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10007.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -241,7 +247,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Ozgur Ergul</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10010.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -264,7 +272,9 @@ nav_order: 6
             <div class="news-text">
                 <p>The <strong>Minerva Project</strong> on <strong>Bloomberg Businessweek</strong>: “Telecommunications the key to spinal cord disorders” – <em>Bloomberg Businessweek, 14.11.2014</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10011.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
@@ -278,37 +288,49 @@ nav_order: 6
             <div class="news-text">
                 <p>The article featuring <strong>Project MINERVA</strong> and NWCL’s research on nano-communications appears in <strong>Popular Science</strong>. </p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10013.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has been selected to the list of “The 100 Most Influential Turkish Scientists” by <strong>Platin Magazine</strong>, <em>Turkey's leading monthly business publication</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10014.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received <strong>Kadir Has University Promising Scientist Award 2014</strong>, <em>Kadir Has University</em>, <em>2014</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10015.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p>Article featuring <strong>Project MINERVA</strong> and nano-communications in <strong>Panorama</strong> (<em>Kadir Has University magazine</em>). </p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10016.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received <strong>Young Scientist Award 2014 (BAGEP 2014)</strong>, <em>The Science Academy</em>, <em>2014</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10017.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received the <strong>Scientist of the Year Award 2013</strong>, <em>Bilim Kahramanlari Dernegi</em>, <em>2013</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10018.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -319,12 +341,16 @@ nav_order: 6
                 <img src="/assets/img/news/10019.jpg">
             </div>
         </div>
+
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Project MINERVA</strong> covered on <strong>ACM TechNews</strong> (<em>Dec 2013</em>). </p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10020.jpg">
+            </div>
         </div>
+
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> featured on nationwide TV (<strong>NTV</strong>) answering questions about <strong>Project MINERVA</strong> (<em>Dec 2013</em>).</p>
@@ -337,8 +363,11 @@ nav_order: 6
             <div class="news-text">
                 <p>“The first ever Consolidator Grant in Turkey goes to <strong>MINERVA</strong>.” – <em>Cumhuriyet, 08.12.2013</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10022.jpg">
+            </div>
         </div>
+
         <div class="news-item">
             <div class="news-text">
                 <p>“<strong>Prof. Ozgur B. AKAN</strong> of Koc University awarded 1.8 million Euro grant by <strong>European Research Council (ERC)</strong>.” – <em>Hürriyet Ankara, 14.12.2013</em>.</p>
@@ -352,83 +381,107 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> delivers an oral and poster presentation on “Fundamentals of Nanoscale Communications and Nanonetworks” at <strong>Koc University - Kyoto University International Symposium on "New Frontiers in Health Sciences and Technologies"</strong>, Kyoto, Japan.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10025.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives tutorials on “FRET-based Nanoscale Wireless Communications” and “Intra-body Molecular Nanonetworks” at <strong>The 1st International Summer School on Nanocommunications</strong>, <em>Nano Communications Center (NCC), Tampere University of Technology, Tampere, Finland</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10026.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Derya Malak</strong> has been awarded <strong>M.Sc. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10027.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received <strong>Outstanding Faculty of the Year Award 2012</strong>, <em>Faculty of Engineering, Koc University</em>, <em>2012</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10028.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives a tutorial on “Biologically-inspired and Nanoscale Communication and Networking” at the <strong>International Doctoral School on Advanced Topics in Electrical and Electronic Engineering and Informatics</strong>, <em>University of Pavia, Italy</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10029.png">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> joins as a “<strong>YOUNG SCIENTIST</strong>” and delivers an invited talk on “Frontiers in Nanotechnology” panel in the <strong>World Economic Forum (Summer Davos) 2012</strong>, in Tianjin, China.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10030.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Murat Kocaoglu</strong> has been awarded <strong>M.Sc. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10031.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Ahmet Ozan Bicen</strong> has been affiliated to <strong>Broadband Wireless Networking Lab (BWN Lab), Georgia Institute of Technology</strong> as a Ph.D. candidate.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10032.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Ahmet Ozan Bicen</strong> has been awarded <strong>M.Sc. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10032.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> chairs <strong>ACM MOBICOM 2012</strong>, <em>Istanbul</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10033.gif">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Ahmet Ozan Bicen</strong> presents the paper titled “Energy-efficient RF Source Power Control for Opportunistic Distributed Sensing in Wireless Passive Sensor Networks” in <strong>IEEE ISCC 2012</strong>, <em>July 2012</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10036.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> is <strong>TPC Co-Chair</strong> of <strong>IEEE ISCC 2012</strong>, <em>Cappadocia</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10036.jpg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -449,14 +502,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Derya Malak</strong> presents the papers titled “On the Node Density Limits and Rate-Delay-Energy Tradeoffs in Ad Hoc Nanonetworks with Minimum Energy Coding” and “An Information Theoretical Analysis of Broadcast Networks and Channel Routing for FRET-based Nanoscale Communications” in <strong>IEEE MoNaCom 2012</strong> (in conjunction with <strong>IEEE ICC 2012</strong>), <em>June 2012</em></p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10037.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> chairs <strong>2nd IEEE International Workshop on Molecular and Nano-Scale Communications (MoNaCom 2012)</strong> in conjunction with <strong>IEEE ICC 2012</strong>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10037.jpg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -479,14 +536,18 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Burhan Gulbahar</strong> has been awarded <strong>Ph.D. degree</strong>. Congratulations!</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10040.jpg">
+            </div>
         </div>
 
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> has received <strong>IBM Shared University Research (SUR) Award</strong> for the project “Fundamentals of Green Communications and Networking,” <em>IBM</em>, <em>2011</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10041.jpeg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -507,7 +568,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> delivers an <strong>Invited Presentation</strong> titled “Next-generation Communications for Pervasive Surveillance” in the <strong>Workshop on Emerging Surveillance Capabilities and Requirements</strong> organized by the <em>Institute for the Protection and Security of the Citizen (IPSC), Joint Research Center (JRC), European Commission</em>, on <em>July 5-6, 2011</em>, in Ispra, Italy.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10043.png">
+            </div>
         </div>
 
         <div class="news-item">
@@ -521,7 +584,9 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> gives an <strong>Ignite Talk</strong> at <strong>FET11</strong> in <em>Hungary</em>, on <em>May 2011</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10045.jpg">
+            </div>
         </div>
 
         <div class="news-item">
@@ -609,19 +674,25 @@ nav_order: 6
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> receives <strong>Turkish Academy of Sciences Distinguished Young Scientist Award 2008 (TUBA-GEBIP)</strong>, <em>Turkish Academy of Sciences</em>, <em>2008</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10052.gif">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> receives <strong>IBM Faculty Award 2008</strong>, <em>IBM</em>, <em>2008</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10053.jpg">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
                 <p><strong>Prof. Akan</strong> receives <strong>METU Outstanding Young Researcher Award 2008</strong>, <em>Middle East Technical University</em>, <em>2008</em>.</p>
             </div>
-            <div class="thumb"></div>
+            <div class="thumb">
+                <img src="/assets/img/news/10054.png">
+            </div>
         </div>
         <div class="news-item">
             <div class="news-text">
