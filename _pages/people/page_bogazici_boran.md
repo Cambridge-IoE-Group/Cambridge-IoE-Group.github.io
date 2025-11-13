@@ -42,7 +42,7 @@ Boran Aybak Kilic is a fourth-year student concurrently pursuing B.Sc. degrees i
 <h3>Publications</h3>
 
 1.  B. A. Kilic and O. B. Akan, "Multi Ratio Shift Keying (MRSK) Modulation for Molecular Communication," in IEEE Transactions on Communications, vol. 73, no. 10, pp. 8873-8885, Oct. 2025, doi: 10.1109/TCOMM.2025.3581006.
-2. Güngör, Ö., Kılıç, B. A., Gündüz, B. S., & Özkurt, M. "QUANTUM MAGNETIC ANOMALY DETECTION USING NITROGEN-VACANCY CENTERS DIAMOND". Quantum Optics and Information Meeting 2025 (KOBIT), Hacettepe University, Turkey. [poster presentation](https://media.licdn.com/dms/image/v2/D4D22AQG91he9TwEZ6Q/feedshare-shrink_1280/B4DZbjtqR9GwAk-/0/1747577124900?)
+2. Güngör, Ö., Kılıç, B. A., Gündüz, B. S., & Özkurt, M. "QUANTUM MAGNETIC ANOMALY DETECTION USING NITROGEN-VACANCY CENTERS DIAMOND". Quantum Optics and Information Meeting 2025 (KOBIT), Hacettepe University, Turkey. ([poster presentation](https://media.licdn.com/dms/image/v2/D4D22AQG91he9TwEZ6Q/feedshare-shrink_1280/B4DZbjtqR9GwAk-/0/1747577124900?))
 
 <br>
 
