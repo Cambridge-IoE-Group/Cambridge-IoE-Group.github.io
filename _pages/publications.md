@@ -365,7 +365,7 @@ nav_order: 2
   <li>H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
   <li>O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
-  <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys and Tutorials</strong>, 2025.</li>
+  <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys &amp; Tutorials</strong>, 2025.</li>
   <li>B. Ortlek, O. B. Akan, et al., “Gut-Brain Axis as a Closed-Loop Molecular Communication Network,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>X. Zhang, O. B. Akan, et al., “A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System,” submitted to <strong>IEEE Wireless Communications Letters</strong>, 2025.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models
