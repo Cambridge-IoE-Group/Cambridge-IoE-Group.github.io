@@ -26,6 +26,7 @@ nav: false
 
 Boran Aybak Kilic is a fourth-year student concurrently pursuing B.Sc. degrees in Electrical and Electronics Engineering and Physics at Boğaziçi University. He established a strong foundation in physics during high school, having been awarded multiple medals in the National Physics Olympiad. His current research interests are interdisciplinary, spanning molecular communications, wireless communication, complex systems, and the Internet of Everything (IoE).
 
+[Google Scholar](https://scholar.google.com/citations?user=9SPQHJEAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0004-3410-2176), [GitHub](https://github.com/borankilic)
 
 <br>
 
