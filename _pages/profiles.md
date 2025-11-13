@@ -135,6 +135,15 @@ profiles:
       <p>Final-year Master's Student, Koç University, Turkey</p>
       <p>Email: fmerdan25[at]ku.edu.tr</p>
 
+  - align: left
+    image: boran.jpeg
+    content: people/about_bogazici_boran.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="https://oba.eco/people/bogazici_boran/">Boran Aybak Kilic</a></p>
+      <p>Fourth-year Undergraduate Student, Boğaziçi University, Turkey</p>
+      <p>Email: boran.kilic[at]std.bogazici.edu.tr</p>
+
 # add new member here
 ---
 
