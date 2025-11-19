@@ -108,14 +108,14 @@ profiles:
       <p>First-year PhD Student, University of Cambridge</p>
       <p>Email:feb49[at]cam.ac.uk</p>
 
-  - align: left
-    image: dilara.jpg
-    content: people/about_koc_dilara.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><a href="https://oba.eco/people/koc_dilara">Dilara Aktas</a></p>
-      <p>Final-year PhD Student, Koç University, Turkey</p>
-      <p>Email: dilaraaktas20[at]ku.edu.tr</p>
+  # - align: left
+  #   image: dilara.jpg
+  #   content: people/about_koc_dilara.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p><a href="https://oba.eco/people/koc_dilara">Dilara Aktas</a></p>
+  #     <p>Final-year PhD Student, Koç University, Turkey</p>
+  #     <p>Email: dilaraaktas20[at]ku.edu.tr</p>
 
   - align: left
     image: ahmet.jpg
@@ -219,11 +219,14 @@ profiles:
 <h2 id="alumni">Alumni</h2>
 
 <ul class="alumni">
+  <li><span class="name"><a href="https://oba.eco/people/koc_dilara">Dr. Dilara Aktas</a></span><span class="dots"></span><span class="meta">Ph.D., 2025</span></li>
+  <li><span class="name">Hanlin Cai</span><span class="dots"></span><span class="meta">M.Phil., 2025</span></li>
   <li><span class="name">Zherong Zhang</span><span class="dots"></span><span class="meta">M.Phil., 2025</span></li>
   <li><span class="name">Dr. Beyza Ezgi Örtlek</span><span class="dots"></span><span class="meta">Ph.D., 2025</span></li>
   <li><span class="name">Hilal Esra Yaldiz</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Melih Şahin</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Fatih Efe Bilgen</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
+  <li><span class="name">Shaojie Zhang</span><span class="dots"></span><span class="meta">M.Phil., 2024</span></li>
   <li><span class="name">Dr. Meltem Civas</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
   <li><span class="name">Dr. Caglar Koca</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
   <li><span class="name">Dr. Tooba Khan</span><span class="dots"></span><span class="meta">Ph.D., 2022</span></li>
