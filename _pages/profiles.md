@@ -226,6 +226,7 @@ profiles:
   <li><span class="name">Hilal Esra Yaldiz</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Melih Şahin</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
   <li><span class="name">Fatih Efe Bilgen</span><span class="dots"></span><span class="meta">M.Sc., 2025</span></li>
+  <li><span class="name">Dr. Kai Li</span><span class="dots"></span><span class="meta">Visiting Scholar, 2024</span></li>
   <li><span class="name">Shaojie Zhang</span><span class="dots"></span><span class="meta">M.Phil., 2024</span></li>
   <li><span class="name">Dr. Meltem Civas</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
   <li><span class="name">Dr. Caglar Koca</span><span class="dots"></span><span class="meta">Ph.D., 2024</span></li>
