@@ -68,6 +68,22 @@ nav_order: 6
 
         <div class="news-item">
             <div class="news-text">
+                <p>
+                    <strong>Hanlin, Houtianfu and Haofan</strong> received an 
+                    <strong>Honorary Mention Award</strong> in the 
+                    <strong>IEEE ComSoc Student Competition 2025: “Communications Technology Changing the World”</strong> 
+                    for their project <strong>“DefenderIoT: An IoT-Based Automated Inspection System for Hazardous Industrial Environments”</strong>, 
+                    <em>November 2025</em>.
+                </p>
+            </div>
+            <div class="thumb">
+                <img src="/assets/img/news/10003.png">
+            </div>
+        </div>
+
+
+        <div class="news-item">
+            <div class="news-text">
                 <p><strong>Prof. Akan</strong> gave a <strong>Keynote Speech</strong>, “Internet of Everything - From Molecules to the Universe,” at <strong>IEEE CAMAD 2023</strong>, Edinburgh, UK, <em>November 2023</em>.</p>
             </div>
             <div class="thumb">
