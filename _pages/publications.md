@@ -22,6 +22,7 @@ nav_order: 2
 ## <span class="section-title">Journal Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
+  <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” accepted to appear in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2025.</li>
   <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
   <li>H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.</li>
   <li>J. Zheng, O. B. Akan, et al., “GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated Learning,” <strong>ACM Transactions on Privacy and Security</strong> (Early Access), doi: 10.1145/3765743, 2025.</li>
