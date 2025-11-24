@@ -356,6 +356,8 @@ nav_order: 2
 ## <span class="section-title">Submitted Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
+  <li>A. Kilic, O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
+  <li>H. Wang, H. Cai, H. Dong, and O. B. Akan, “A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink,” submitted to <strong>ACM Internet Measurement Conference (IMC) 2026</strong>, 2025.</li>
   <li>D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the <strong>IEEE International Conference on Communications (ICC) 2026</strong>, 2025.</li>
