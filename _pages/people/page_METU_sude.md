@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sude Özcan
-description: Fourth-year Undergraduate Student, Boğaziçi University, Turkey
+description: Fourth-year Undergraduate Student, Middle East Technical University, Turkey
 permalink: /people/METU_sude/
 nav: false
 ---
