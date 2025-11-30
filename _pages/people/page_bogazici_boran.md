@@ -17,7 +17,7 @@ nav: false
   {% include figure.liquid
      loading="eager"
      path="assets/img/boran.jpg"
-     alt="Ahmet Burak Kilic"
+     alt="Boran Aybak Kilic"
      class="person-photo__img rounded z-depth-1"
      sizes="320px"
   %}

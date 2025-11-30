@@ -144,6 +144,14 @@ profiles:
       <p>Fourth-year Undergraduate Student, Boğaziçi University, Turkey</p>
       <p>Email: boran.kilic[at]std.bogazici.edu.tr</p>
 
+  - align: left
+    image: sude.jpg
+    content: people/about_METU_sude.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="https://oba.eco/people/METU_sude/">Sude Özcan</a></p>
+      <p>Fourth-year Undergraduate Student, Middle East Technical University, Turkey</p>
+      <p>Email: so512[at]cam.ac.uk</p>
 # add new member here
 ---
 
