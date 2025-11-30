@@ -1,4 +1,4 @@
 Sude Özcan completed her high school education in İstanbul Capa Science High School and she is a fourth-year student pursuing a B.Sc. degree in Electrical and Electronics Engineering at Middle East Technical University (METU), Ankara, Turkey. She is currently an undergraduate researcher in the Internet of Everything (IoE) Group under the supervision of Prof. Dr.  Ozgur Baris Akan. Her research focuses on molecular and wireless communication systems, with a particular interest in modeling neurological diseases as end-to-end communication channels. She works on stochastic modeling, diffusion-based molecular communication channels, and synaptic-scale accumulation models that can enable early detection and intervention. 
 
 
-[Personal Page](https://oba.eco/people/METU_sudo/)
+[Personal Page](https://oba.eco/people/METU_sude/)
