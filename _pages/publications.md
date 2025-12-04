@@ -22,7 +22,7 @@ nav_order: 2
 ## <span class="section-title">Journal Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
-  <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” accepted to appear in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2025.</li>
+  <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), doi: 10.1109/TNNLS.2025.3636440, 2025.</li>
   <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
   <li>H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.</li>
   <li>J. Zheng, O. B. Akan, et al., “GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated Learning,” <strong>ACM Transactions on Privacy and Security</strong> (Early Access), doi: 10.1145/3765743, 2025.</li>
@@ -32,7 +32,7 @@ nav_order: 2
   <li>B. E. Ortlek and O. B. Akan, “Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3585798, 2025.</li>
   <li>H. Ni and O. B. Akan, “ART-Rx: A Proportional-Integral-Derivative (PID) Controlled Adaptive Real-Time Threshold Receiver for Molecular Communication,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3581470, 2025.</li>
   <li>H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” to appear in <strong>IEEE Transactions on Wireless Communications</strong> (Early Access), doi: 10.1109/TWC.2025.3572276, 2025.</li>
-  <li>B. A. Kilic, O. B. Akan, “Multi Ratio Shift Keying (MRSK) Modulation for Molecular Communication,” <strong>IEEE Transactions on Communications</strong> (Early Access), doi: 10.1109/TCOMM.2025.3581006, 2025.</li>
+  <li>B. A. Kilic, O. B. Akan, “Multi Ratio Shift Keying (MRSK) Modulation for Molecular Communication,” <strong>IEEE Transactions on Communications</strong> vol. 73, no. 10, pp. 8873-8885, October 2025, doi: 10.1109/TCOMM.2025.3581006, 2025.</li>
   <li>K. Li, Y. Liang, X. Yuan, W. Ni, J. Crowcroft, C. Yuen, and O. B. Akan, “A Novel Framework of Horizontal-Vertical Hybrid Federated Learning for EdgeIoT,” <strong>IEEE Networking Letters</strong>, vol. 7, no. 2, pp. 83–87, June 2025, doi: 10.1109/LNET.2025.3540268.</li>
   <li>B. Y. Koca, O. B. Akan, “Bacterial Communications and Computing in Internet of Everything (IoE),” <strong>IEEE Communications Surveys &amp; Tutorials</strong>, vol. 27, no. 3, pp. 1839–1866, June 2025, doi: 10.1109/COMST.2024.3451302.</li>
   <li>N. FallahBagheri, O. B. Akan, “A Molecular Communication Perspective of Alzheimer’s Disease: Impact of Amyloid Beta Oligomers on Glutamate Diffusion in the Synaptic Cleft,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, vol. 11, no. 2, pp. 186–200, June 2025, doi: 10.1109/TMBMC.2025.3552959, 2025.</li>
@@ -356,9 +356,10 @@ nav_order: 2
 ## <span class="section-title">Submitted Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
-  <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>Internet of Things Magazine</strong>, 2025.</li>  
+  <li>O. T. Baydas and O. B. Akan, "Federated Learning for Terahertz Wireless Communication," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
+  <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>Internet of Things Magazine</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
-  <!-- <li>H. Wang, H. Cai, H. Dong, and O. B. Akan, “A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink,” submitted to <strong>ACM Internet Measurement Conference (IMC) 2026</strong>, 2025.</li> -->
+  <li>H. Wang, H. Cai, H. Dong, and O. B. Akan, “A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink,” submitted to <strong>ACM Internet Measurement Conference (IMC) 2026</strong>, 2025.</li>
   <li>D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the <strong>IEEE International Conference on Communications (ICC) 2026</strong>, 2025.</li>
@@ -373,9 +374,9 @@ nav_order: 2
   <li>B. Ortlek, O. B. Akan, et al., “Gut-Brain Axis as a Closed-Loop Molecular Communication Network,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>X. Zhang, O. B. Akan, et al., “A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System,” submitted to <strong>IEEE Wireless Communications Letters</strong>, 2025.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models
-,” submitted to <strong>IEEE Communications Magazine</strong>, Manuscript ID: COMMAG-25-00424, 2025.</li>
-  <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to <strong>IEEE Journal on Selected Areas in Communications</strong>, Manuscript ID: JSAC-00796-2025, 2025.</li>
-  <li>H. Wang and O. B. Akan, “Physics-Informed CSI Prediction for Reliable NTN-assisted IoT Services in Congested Orbits,” submitted to <strong>IEEE Internet of Things Journal</strong>, Manuscript ID: IoT-52288-2025, 2025.</li>
+,” submitted to <strong>IEEE Communications Magazine</strong>, 2025.</li>
+  <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to <strong>IEEE Journal on Selected Areas in Communications</strong>, 2025.</li>
+  <li>H. Wang and O. B. Akan, “Physics-Informed CSI Prediction for Reliable NTN-assisted IoT Services in Congested Orbits,” submitted to <strong>IEEE Internet of Things Journal</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.</li>
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.</li>
   <li>H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” 2025.</li>
@@ -420,6 +421,8 @@ nav_order: 2
 ## <span class="section-title">Theses</span>
 <ol class="pubs" reversed>
   <li>H. Cai, “Semantic Communication for the Internet of Everything: From Molecular to Space Networks,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
+  <li>Z. Zhang, “Optimal Beamforming for Beyond Line-of-Sight Integrated Sensing and Communication,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
+  <li>S. Zhang, “State of Art, Challenges, Transmitter and Receiver Design for Internet of Organoids,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2024.</li>
   <li>M. Civas, “Transceiver Architectures and Physical Layer Techniques for Unconventional Communications in the Internet of Everything,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>C. Koca, “Game Theoretic and Bio-Inspired Communication Techniques for Internet of Bio-Nano Things,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2024.</li>
   <li>T. Khan, “Communication Theoretical Modeling and Analysis of Neuronal Communication with Synaptic Plasticity,” Ph.D. Thesis, Koc University, Istanbul, Turkey, 2022.</li>
