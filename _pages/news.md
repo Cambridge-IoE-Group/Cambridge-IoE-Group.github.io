@@ -71,13 +71,13 @@ nav_order: 6
                 <p>
                     <strong>Hanlin, Houtianfu and Haofan</strong> received an 
                     <strong>Honorary Mention Award</strong> in the 
-                    <strong>IEEE ComSoc Student Competition 2025</strong> 
+                    <strong>2025 IEEE ComSoc Student Competition</strong> 
                     for their project “DefenderIoT: An IoT-Based Automated Inspection System for Hazardous Industrial Environments”, 
                     <em>November 2025</em>.
                 </p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/10003.png">
+                <img src="/assets/img/news/ieee_comsoc_award.png">
             </div>
         </div>
 
