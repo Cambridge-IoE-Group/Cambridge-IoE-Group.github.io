@@ -19,6 +19,15 @@ profiles:
       <p>Email: oba21[at]cam.ac.uk</p>
 
   - align: left
+    image: beyza.jpg
+    content: people/about_beyza.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="https://oba.eco/people/beyza">Dr. Beyza Ezgi Örtlek</a></p>
+      <p>Visiting Postdoctoral Research Fellow, University of Cambridge</p>
+      <p>Email: bortlek14[at]ku.edu.tr</p>
+
+  - align: left
     image: haofan.jpg
     content: people/about_haofan.md
     image_circular: false # crops the image to make it circular
