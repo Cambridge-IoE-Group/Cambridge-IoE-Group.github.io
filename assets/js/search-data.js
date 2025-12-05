@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "Publications of Prof. Özgür B. Akan.",
+          description: "Publications of the Internet of Everything (IoE) Group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
