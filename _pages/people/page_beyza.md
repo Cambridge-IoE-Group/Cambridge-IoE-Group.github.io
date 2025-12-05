@@ -39,7 +39,8 @@ Dr. Beyza Ezgi Örtlek completed her high school education at Ankara Fen Lisesi 
 
 <br>
 
-PUBLICATIONS:
+<h3>Publications</h3>
+
 1. B. E. Ortlek and O. B. Akan, "Gut-Brain Axis as a Closed-Loop Molecular Communication Network," to appear in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2025.
 2. B. E. Ortlek and O. B. Akan, "Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication," in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, doi: 10.1109/TMBMC.2025.3585798.
 3. M. Sahin, B. E. Ortlek and O. B. Akan, "Molecular Arithmetic Coding (MoAC) and Optimized Molecular Prefix Coding (MoPC) for Diffusion-Based Molecular Communication," in IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 66-77, March 2025, doi: 10.1109/TMBMC.2024.3476197.
