@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications of Prof. Özgür B. Akan.
+description: Publications of the Internet of Everything (IoE) Group.
 nav: true
 nav_order: 2
 ---
