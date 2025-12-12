@@ -22,6 +22,10 @@ nav_order: 2
 ## <span class="section-title">Journal Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <li>X. Lan, X. Zhang, L. Zhang, Z. Ma, Q. Wang, and O. B. Akan, "A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System," accepted to appear in <strong>IEEE Wireless Communications Letters</strong>, 2025.</li>
   <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), doi: 10.1109/TNNLS.2025.3636440, 2025.</li>
   <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
   <li>H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.</li>
@@ -352,10 +356,12 @@ nav_order: 2
 
 <br>
 
-
 ## <span class="section-title">Submitted Papers</span>
 <ol class="pubs" reversed>
-  <!-- 2025 -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <li>B. Maitra and O. B. Akan, "Modeling and Analysis of VOC-based Interplant Molecular Communication Channel," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>O. T. Baydas and O. B. Akan, "Federated Learning for Terahertz Wireless Communication," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>Internet of Things Magazine</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
