@@ -251,13 +251,12 @@ nav_order: 2
   <li>W. Su, E. Cayirci, O. B. Akan, “Overview of Communication Protocols for Sensor Networks,” in <strong>Handbook of Sensor Networks: Compact Wireless and Wired Sensing Systems</strong>, Edited by M. Ilyas, I. Mahgoub, CRC Press, July 2004.</li>
 </ol>
 
-
 <br>
-
 
 ## <span class="section-title">Conference Papers</span>
 <ol class="pubs" reversed>
-  <li>K. Li, O. B. Akan, et al., "Explainable Graph Attention-Driven Fairness Manipulation for Federated Learning in EdgeIoT," 2025 IEEE/CIC International Conference on Communications in China (ICCC), Shanghai, China, 2025.</li>
+  <li>K. Li, O. B. Akan, et al., "Explainable Graph Attention-Driven Fairness Manipulation for Federated Learning in EdgeIoT," in Proc. <strong>IEEE/CIC International Conference on Communications in China (ICCC)</strong>, Shanghai, China, August 2025.</li>
+  <li>H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” in Proc. <strong>9th Internetinonal Workshop on Molecular Communications</strong>, Catania, Italy, April 2025.</li>
   <li>F. E. Bilgen, O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. <strong>ACM NanoCom 2024</strong>, Milan, Italy, October 2024.</li>
   <li>K. Li, A. Noor, W. Ni, E. Tovar, X. Fu, O. B. Akan, “Poisoning Federated Learning with Graph Neural Networks in Internet of Drones,” in Proc. <strong>IEEE ICCCN 2024</strong>.</li>
   <li>C. Koca, O. B. Akan, “A Fast Simulation Algorithm for Molecular Dispersion and Binding in Molecular Communications,” in Proc. <strong>ACM NanoCom 2023</strong>, Coventry, UK, September 2023.</li>
@@ -361,6 +360,14 @@ nav_order: 2
   <!-- <li></li> -->
   <!-- <li></li> -->
   <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "AFDM for LEO Inter-Satellite Links: Path-Level CSI Prediction and CRLB-Guided Pre-Equalization," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
+  <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
+  <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
   <li>B. Maitra and O. B. Akan, "Modeling and Analysis of VOC-based Interplant Molecular Communication Channel," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>O. T. Baydas and O. B. Akan, "Federated Learning for Terahertz Wireless Communication," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>Internet of Things Magazine</strong>, 2025.</li>
@@ -385,7 +392,6 @@ nav_order: 2
   <li>H. Wang and O. B. Akan, “Physics-Informed CSI Prediction for Reliable NTN-assisted IoT Services in Congested Orbits,” submitted to <strong>IEEE Internet of Things Journal</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.</li>
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.</li>
-  <li>H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” 2025.</li>
   <li>A. S. Okcu, O. B. Akan, “Smell of Source: Learning-Based Odor Source Localization with Molecular Communication,” 2025.</li>
   <li>D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. E. Yaldiz, O. B. Akan, “Molecular Communication-Inspired Particle Collector-Transmitter (PaCoT) for Heavy Metal Removal from Human Circulatory System,” 2025.</li>
@@ -395,7 +401,6 @@ nav_order: 2
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, H. Huang, P. Lio, F. Dressler, and O. B. Akan, “E-GATE: Explainable Graph-based Fairness Attacks on Federated Learning-enabled EdgeIoT,” 2024.</li>
   <li>S. Zhang, O. B. Akan, “Internet of Organoids - Bridging IoT with the Future of Organoid Research,” 2024.</li>
   <li>C. Koca, O. B. Akan, “Modelling 1D Partially Absorbing Boundaries for Brownian Molecular Communication Channels,” 2024.</li>
-  <li>H. Dong, O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” 2024.</li>
   <li>M. Şahin, O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication,” 2024.</li>
   <!-- 2018 -->
   <li>O. B. Akan, K. Cepni, M. Ozger, “Mobile Big Data in Wireless Social Sensor Networks,” 2018.</li>
