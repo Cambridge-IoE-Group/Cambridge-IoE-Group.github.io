@@ -24,7 +24,7 @@ nav_order: 2
   <!-- 2025 -->
   <!-- <li></li> -->
   <!-- <li></li> -->
-  <!-- <li></li> -->
+  <li>M. Sahin and O. B. Akan, "Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," accepted to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>X. Lan, X. Zhang, L. Zhang, Z. Ma, Q. Wang, and O. B. Akan, "A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System," accepted to appear in <strong>IEEE Wireless Communications Letters</strong>, 2025.</li>
   <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), doi: 10.1109/TNNLS.2025.3636440, 2025.</li>
   <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
@@ -367,6 +367,7 @@ nav_order: 2
   <!-- <li></li> -->
   <!-- <li></li> -->
   <!-- <li></li> -->
+  <li>B. Kilic and O. B. Akan, "Neural-Inspired Multi-Agent Molecular Communication Networks for Collective Intelligence," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2025.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
