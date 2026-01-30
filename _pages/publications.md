@@ -8,18 +8,36 @@ nav_order: 2
 ---
 
 <style>
-/* 版式与悬挂缩进，仿学术简历风格 */
+/* Hanging indent, academic CV style */
 .pubs{ margin: .25rem 0 2rem 0; padding-left: 2.2rem; }
 .pubs li{ margin: .6rem 0; }
 .pubs li p{ margin: 0; }
-.pubs li::marker{ font-weight: 700; } /* 序号加粗 */
+.pubs li::marker{ font-weight: 700; } /* Bold list markers */
 .section-title{ font-size: 2rem; font-weight: 800; margin: 1rem 0 .5rem; }
+/* Top table of contents */
+.toc-pubs{ margin: 1.5rem 0 2rem 0; padding: 1rem 1.5rem; background: var(--global-bg-color); border: 1px solid var(--global-border-color); border-radius: 6px; }
+.toc-pubs ul{ margin: 0; padding-left: 1.5rem; list-style: none; }
+.toc-pubs li{ margin: 0.4rem 0; }
+.toc-pubs a{ font-weight: 500; }
+.toc-pubs a:hover{ text-decoration: underline; }
 </style>
 
 <!-- <a href='https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl'>Google Scholar of Prof. Akan</a><br> -->
 
+**Contents**
 
-## <span class="section-title">Journal Papers</span>
+<nav class="toc-pubs" aria-label="Publications table of contents">
+<ul>
+<li><a href="#journal-papers">1. Journal Papers (185)</a></li>
+<li><a href="#book-chapters">2. Book Chapters (28)</a></li>
+<li><a href="#conference-papers">3. Conference Papers (91)</a></li>
+<li><a href="#patents">4. Patents (1)</a></li>
+<li><a href="#submitted-papers">5. Submitted Papers (56)</a></li>
+<li><a href="#theses">6. Student Theses (41)</a></li>
+</ul>
+</nav>
+
+## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
   <!-- <li></li> -->
@@ -219,7 +237,7 @@ nav_order: 2
 <br>
 
 
-## <span class="section-title">Book Chapters</span>
+## <span class="section-title" id="book-chapters">Book Chapters</span>
 <ol class="pubs" reversed>
   <li>M. Civas, T. Yilmaz, O. B. Akan, “Terahertz Band Intersatellite Communication Links,” in <strong>Next Generation Wireless Terahertz Communication Networks</strong>, Edited by S. Ghafoor, M. H. Rehmani, A. Davy, CRC Press, 2021.</li>
   <li>T. Khan, M. Civas, O. Cetinkaya, N. A. Abbasi, O. B. Akan, “Nanosensor Networks for Smart Health Care,” in <strong>Nanosensors for Smart Cities</strong>, Edited by B. Han, V. Tomer, T. Nguyen, A. Farmani, P. K. Singh, Elsevier, 2019.</li>
@@ -253,7 +271,7 @@ nav_order: 2
 
 <br>
 
-## <span class="section-title">Conference Papers</span>
+## <span class="section-title" id="conference-papers">Conference Papers</span>
 <ol class="pubs" reversed>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels," in Proc. <strong>IEEE ICC 2026</strong>, Glasgow, UK, May 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "PLOS-RS: Probabilistic Localization of Odor Sources via Random Search," in Proc. <strong>IEEE INFOCOM 2026</strong>, Tokyo, Japan, May 2026.</li>
@@ -350,14 +368,14 @@ nav_order: 2
 
 <br>
 
-## <span class="section-title">Patents</span>
+## <span class="section-title" id="patents">Patents</span>
 <ol class="pubs" reversed>
   <li>O. Cetinkaya, O. B. Akan, “System and Method of Electric Field Energy Harvesting from Lighting Elements for Internet of Things,” International Patent Application, PCT/TR2016/050467, November 2016.</li>
 </ol>
 
 <br>
 
-## <span class="section-title">Submitted Papers</span>
+## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
   <!-- <li></li> -->
   <!-- <li></li> -->
@@ -429,7 +447,7 @@ nav_order: 2
 
 <br>
 
-## <span class="section-title">Theses</span>
+## <span class="section-title" id="theses">Theses</span>
 <ol class="pubs" reversed>
   <li>H. Cai, “Semantic Communication for the Internet of Everything: From Molecular to Space Networks,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
   <li>Z. Zhang, “Optimal Beamforming for Beyond Line-of-Sight Integrated Sensing and Communication,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
