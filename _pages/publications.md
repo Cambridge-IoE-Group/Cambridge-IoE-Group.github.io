@@ -35,8 +35,6 @@ nav_order: 2
 </ul> 
 </nav>
 
-<br>
-
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
   <!-- 2025 -->
