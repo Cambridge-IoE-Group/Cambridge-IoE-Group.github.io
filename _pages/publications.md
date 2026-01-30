@@ -18,7 +18,7 @@ nav_order: 2
 .toc-pubs{ margin: 0.75rem 0 1rem 0; padding: 0; }
 .toc-pubs ul{ margin: 0; padding: 0; padding-left: 0; list-style: none; }
 .toc-pubs li{ margin: 0; line-height: 1.4; }
-.toc-pubs a{ font-weight: 400; color: inherit; text-decoration: underline; }
+.toc-pubs a{ font-weight: 400; color: #555; text-decoration: underline; }
 .toc-pubs a:hover{ text-decoration: underline; }
 </style>
 
@@ -34,6 +34,8 @@ nav_order: 2
 <li><a href="#theses">6. Student Theses</a></li>
 </ul> 
 </nav>
+
+<br>
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
