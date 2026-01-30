@@ -14,27 +14,25 @@ nav_order: 2
 .pubs li p{ margin: 0; }
 .pubs li::marker{ font-weight: 700; } /* Bold list markers */
 .section-title{ font-size: 2rem; font-weight: 800; margin: 1rem 0 .5rem; }
-/* Top table of contents */
-.toc-pubs{ margin: 1.5rem 0 2rem 0; padding: 1rem 1.5rem; background: var(--global-bg-color); border: 1px solid var(--global-border-color); border-radius: 6px; }
-.toc-pubs ul{ margin: 0; padding-left: 1.5rem; list-style: none; }
-.toc-pubs li{ margin: 0.4rem 0; }
-.toc-pubs a{ font-weight: 500; }
+/* Top table of contents – left-aligned, compact, body text color */
+.toc-pubs{ margin: 0.75rem 0 1rem 0; padding: 0; }
+.toc-pubs ul{ margin: 0; padding: 0; padding-left: 0; list-style: none; }
+.toc-pubs li{ margin: 0; line-height: 1.4; }
+.toc-pubs a{ font-weight: 400; color: inherit; text-decoration: none; }
 .toc-pubs a:hover{ text-decoration: underline; }
 </style>
 
 <!-- <a href='https://scholar.google.com/citations?user=Hy-HMd8AAAAJ&hl'>Google Scholar of Prof. Akan</a><br> -->
-
-**Contents**
 
 <nav class="toc-pubs" aria-label="Publications table of contents">
 <ul>
 <li><a href="#journal-papers">1. Journal Papers (185)</a></li>
 <li><a href="#book-chapters">2. Book Chapters (28)</a></li>
 <li><a href="#conference-papers">3. Conference Papers (91)</a></li>
-<li><a href="#patents">4. Patents (1)</a></li>
-<li><a href="#submitted-papers">5. Submitted Papers (56)</a></li>
-<li><a href="#theses">6. Student Theses (41)</a></li>
-</ul>
+<li><a href="#patents">4. Patents</a></li>
+<li><a href="#submitted-papers">5. Submitted Papers</a></li>
+<li><a href="#theses">6. Student Theses</a></li>
+</ul> 
 </nav>
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
