@@ -26,9 +26,9 @@ nav_order: 2
 
 <nav class="toc-pubs" aria-label="Publications table of contents">
 <ul>
-<li><a href="#journal-papers">1. Journal Papers (185)</a></li>
-<li><a href="#book-chapters">2. Book Chapters (28)</a></li>
-<li><a href="#conference-papers">3. Conference Papers (91)</a></li>
+<li><a href="#journal-papers">1. Journal Papers</a></li>
+<li><a href="#book-chapters">2. Book Chapters</a></li>
+<li><a href="#conference-papers">3. Conference Papers</a></li>
 <li><a href="#patents">4. Patents</a></li>
 <li><a href="#submitted-papers">5. Submitted Papers</a></li>
 <li><a href="#theses">6. Student Theses</a></li>
