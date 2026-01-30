@@ -18,7 +18,7 @@ nav_order: 2
 .toc-pubs{ margin: 0.75rem 0 1rem 0; padding: 0; }
 .toc-pubs ul{ margin: 0; padding: 0; padding-left: 0; list-style: none; }
 .toc-pubs li{ margin: 0; line-height: 1.4; }
-.toc-pubs a{ font-weight: 400; color: inherit; text-decoration: none; }
+.toc-pubs a{ font-weight: 400; color: inherit; text-decoration: underline; }
 .toc-pubs a:hover{ text-decoration: underline; }
 </style>
 
