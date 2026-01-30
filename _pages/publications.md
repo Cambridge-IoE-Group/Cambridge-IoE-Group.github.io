@@ -25,15 +25,15 @@ nav_order: 2
   <!-- <li></li> -->
   <!-- <li></li> -->
   <li>M. Sahin and O. B. Akan, "Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," accepted to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
-  <li>X. Lan, X. Zhang, L. Zhang, Z. Ma, Q. Wang, and O. B. Akan, "A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System," accepted to appear in <strong>IEEE Wireless Communications Letters</strong>, 2025.</li>
-  <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), doi: 10.1109/TNNLS.2025.3636440, 2025.</li>
-  <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
-  <li>H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.</li>
+  <li>X. Lan, X. Zhang, L. Zhang, Z. Ma, Q. Wang, and O. B. Akan, "A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System," in <strong>IEEE Wireless Communications Letters</strong> vol. 15, pp. 805-809, 2026, doi: 10.1109/LWC.2025.3642986, 2025.</li>
+  <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), December 2025, doi: 10.1109/TNNLS.2025.3636440, 2025.</li>
+  <li>A. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> vol. 12, pp. 69-78, October 2025, doi: 10.1109/TMBMC.2025.3626218, 2025.</li>
+  <li>H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” <strong>IEEE Internet of Things Journal</strong> vol. 13, no. 1, pp. 582-594, 1 Jan.1, 2026, doi: 10.1109/JIOT.2025.3624590, 2025.</li>
   <li>J. Zheng, O. B. Akan, et al., “GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated Learning,” <strong>ACM Transactions on Privacy and Security</strong> vol. 28, no. 4, pp. 1-23, November 2025, doi: 10.1145/3765743, 2025.</li>
-  <li>H. Wang, O. B. Akan, et al., “Gravitational Communication: Fundamentals, State-of-the-Art and Future Vision,” <strong>IEEE Communications Surveys &amp; Tutorials</strong> (Early Access), doi: 10.1109/COMST.2025.3601088, 2025.</li>
+  <li>H. Wang, O. B. Akan, et al., “Gravitational Communication: Fundamentals, State-of-the-Art and Future Vision,” <strong>IEEE Communications Surveys &amp; Tutorials</strong> vol. 28, pp. 3564-3595, doi: 10.1109/COMST.2025.3601088, 2025.</li>
   <li>W. Ni, K. Li, C. Li, X. Yuan, S. Li, S. Zou, S. S. Ahmed, D. Niyato, A. Jamalipour, F. Dressler, and O. B. Akan, "Zero-Trust Foundation Models: A New Paradigm for Secure and Collaborative Artificial Intelligence for Internet of Things," <strong>IEEE Internet of Things Journal</strong>, vol. 12, no. 22, pp. 46269-46293, November 2025, doi: 10.1109/JIOT.2025.3603957, 2025.</li>
-  <li>S. H. Zulfiqar, and O. B. Akan, “Molecular Communication-Based Quorum Sensing Disruption for Enhanced Immune Defense,” accepted to appear in <strong>IEEE Transactions on NanoBioscience</strong>, (Early Access), doi: DOI: 10.1109/TNB.2025.3593879, 2025.</li>
-  <li>B. E. Ortlek and O. B. Akan, “Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2025.3585798, 2025.</li>
+  <li>S. H. Zulfiqar, and O. B. Akan, “Molecular Communication-Based Quorum Sensing Disruption for Enhanced Immune Defense,” in <strong>IEEE Transactions on NanoBioscience</strong>, vol. 25, no. 1, pp. 23-32, Jan. 2026, doi: 10.1109/TNB.2025.3593879, 2025.</li>
+  <li>B. E. Ortlek and O. B. Akan, “Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> vol. 11, no. 4, pp. 588-599, July 2025, doi: 10.1109/TMBMC.2025.3585798, 2025.</li>
   <li>H. Ni and O. B. Akan, “ART-Rx: A Proportional-Integral-Derivative (PID) Controlled Adaptive Real-Time Threshold Receiver for Molecular Communication,” <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> vol. 11, no. 3, pp. 435-450, June 2025, doi: 10.1109/TMBMC.2025.3581470, 2025.</li>
   <li>H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” in <strong>IEEE Transactions on Wireless Communications</strong> vol. 24, no. 11, pp. 9282-9295, November 2025, doi: 10.1109/TWC.2025.3572276, 2025.</li>
   <li>B. A. Kilic, O. B. Akan, “Multi Ratio Shift Keying (MRSK) Modulation for Molecular Communication,” <strong>IEEE Transactions on Communications</strong> vol. 73, no. 10, pp. 8873-8885, October 2025, doi: 10.1109/TCOMM.2025.3581006, 2025.</li>
@@ -364,9 +364,9 @@ nav_order: 2
   <!-- <li></li> -->
   <!-- <li></li> -->
   <!-- <li></li> -->
-  <!-- <li></li> -->
-  <!-- <li></li> -->
-  <!-- <li></li> -->
+  <li>A. S. Okcu and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>B. Maitra and O. B. Akan, "Information Theoretic Modeling of Interspecies Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>B. Kilic and O. B. Akan, "Neural-Inspired Multi-Agent Molecular Communication Networks for Collective Intelligence," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2025.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
@@ -402,7 +402,6 @@ nav_order: 2
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, H. Huang, P. Lio, F. Dressler, and O. B. Akan, “E-GATE: Explainable Graph-based Fairness Attacks on Federated Learning-enabled EdgeIoT,” 2024.</li>
   <li>S. Zhang, O. B. Akan, “Internet of Organoids - Bridging IoT with the Future of Organoid Research,” 2024.</li>
   <li>C. Koca, O. B. Akan, “Modelling 1D Partially Absorbing Boundaries for Brownian Molecular Communication Channels,” 2024.</li>
-  <li>M. Şahin, O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication,” 2024.</li>
   <!-- 2018 -->
   <li>O. B. Akan, K. Cepni, M. Ozger, “Mobile Big Data in Wireless Social Sensor Networks,” 2018.</li>
   <li>H. Ramezani, O. B. Akan, “Information Capacity of SISO Neuro-spike Communication Channel under Axonal Noise,” 2018.</li>
