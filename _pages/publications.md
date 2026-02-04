@@ -71,8 +71,8 @@ nav_order: 2
   <li>A. Powari, O. B. Akan, “Odor Intensity Shift Keying (OISK) and Channel Capacity of Odor-based Molecular Communications in Internet of Everything,” <strong>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</strong>, vol. 10, no. 3, pp. 396–408, May 2024.</li>
   <li>H. Xiao, K. Dokaj, O. B. Akan, “What Really is ‘Molecule’ in Molecular Communications? The Quest for Physics of Particle-based Information Carriers,” <strong>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</strong>, vol. 10, no. 1, pp. 43–74, March 2024.</li>
   <li>O. T. Baydas, O. B. Akan, “Received Signal and Channel Parameter Estimation in Molecular Communications,” <strong>IEEE Transactions on Molecular, Biological and Multi-Scale Communications</strong>, vol. 10, no. 1, pp. 92–97, March 2024.</li>
-  <li>Z. Zhang, S. Liu, S. M. Goetz, and O. B. Akan, “Novel Improvement of Least Mean Square Adaptive Algorithm for Non-monotonic Systems,” <strong>Optics Express</strong>, 2024.</li>
-  <li>B. Maitra, M. Gulgun, E. Bardakci, O. Cetinkaya, O. B. Akan, “Internet of Harvester Nano Things: A Future Prospects,” <strong>Nano Communication Networks</strong> (Elsevier), 2024.</li>
+  <li>Z. Zhang, S. Liu, S. M. Goetz, and O. B. Akan, “Novel Improvement of Least Mean Square Adaptive Algorithm for Non-monotonic Systems,” <strong>Optics Express</strong>, vol. 33, no. 3, pp. 4582-4594, 2024.</li>
+  <li>B. Maitra, M. Gulgun, E. Bardakci, O. Cetinkaya, O. B. Akan, “Internet of Harvester Nano Things: A Future Prospects,” <strong>Nano Communication Networks</strong> (Elsevier), vol. 43, 100550, 2024.</li>
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, O. B. Akan and H. V. Poor, “Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach,” <strong>IEEE Transactions on Information Forensics and Security</strong>, vol. 19, pp. 3465–3480, 2024.</li>
   <!-- 2023 -->
   <li>O. B. Akan, E. Dinc, M. Kuscu, O. Cetinkaya, B. A. Bilgin, “Internet of Everything (IoE) – From Molecules to the Universe,” <strong>IEEE Communications Magazine</strong>, vol. 61, no. 10, pp. 122–128, October 2023.</li>
