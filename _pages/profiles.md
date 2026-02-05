@@ -18,6 +18,15 @@ profiles:
       <p>Principal Investigator of IoE Group</p>
       <p>Email: oba21[at]cam.ac.uk</p>
 
+
+  - align: left
+    image: caglar.jpeg
+    content: people/about_caglar_koca.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="https://oba.eco/people/caglar/">Caglar Koca</a></p>
+      <p>PhD Student, University of Cambridge, UK</p>
+
   # - align: left
   #   image: beyza.jpg
   #   content: people/about_beyza.md
@@ -161,6 +170,7 @@ profiles:
       <p><a href="https://oba.eco/people/METU_sude/">Sude Özcan</a></p>
       <p>Fourth-year Undergraduate Student, Middle East Technical University, Turkey</p>
       <p>Email: so512[at]cam.ac.uk</p>
+
 # add new member here
 ---
 
