@@ -24,8 +24,9 @@ profiles:
     content: people/about_caglar_koca.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><a href="https://oba.eco/people/caglar/">Caglar Koca</a></p>
+      <p><a href="https://oba.eco/people/caglar/">Caglar Koca</a><br></p>
       <p>PhD Student, University of Cambridge, UK</p>
+      <p>Email: cagkoca[at]ku.edu.tr</p>
 
   # - align: left
   #   image: beyza.jpg
