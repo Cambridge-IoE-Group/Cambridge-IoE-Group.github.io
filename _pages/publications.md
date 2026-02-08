@@ -378,7 +378,7 @@ nav_order: 2
   <!-- <li></li> -->
   <!-- <li></li> -->
   <!-- <li></li> -->
-  <!-- <li></li> -->
+  <li>H. Dong and O. B. Akan, "MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments," submitted to <strong>IEEE Wireless Communications Magazine</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan,"AFDM-Based ISAC for LEO Inter-Satellite Links: Path-Level CSI Prediction and CRLB-Driven Pre-Equalization," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
