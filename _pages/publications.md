@@ -377,11 +377,16 @@ nav_order: 2
 <ol class="pubs" reversed>
   <!-- <li></li> -->
   <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <!-- <li></li> -->
+  <li>H. Dong and O. B. Akan, "Cramér–Rao Bounds for Magneto-Inductive Integrated Sensing and Communications," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
+  <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," submitted to <strong>the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," submitted to <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," submitted to <strong>IEEE Internet of Things Journal</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments," submitted to <strong>IEEE Wireless Communications Magazine</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan,"AFDM-Based ISAC for LEO Inter-Satellite Links: Path-Level CSI Prediction and CRLB-Driven Pre-Equalization," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2026.</li>
-  <li>A. S. Okcu and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>A. Kilic, F. E. Bilgen and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>B. Maitra and O. B. Akan, "Information Theoretic Modeling of Interspecies Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>B. Kilic and O. B. Akan, "Neural-Inspired Multi-Agent Molecular Communication Networks for Collective Intelligence," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
@@ -395,7 +400,6 @@ nav_order: 2
   <li>H. Wang, H. Cai, H. Dong, and O. B. Akan, “A Policy-Aware, Cross-Layer Methodology for Auditing Service Tiering and Throttling in Starlink,” submitted to <strong>ACM Internet Measurement Conference (IMC) 2026</strong>, 2025.</li>
   <li>D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
-  <li>H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the <strong>IEEE International Conference on Communications (ICC) 2026</strong>, 2025.</li>
   <li>X. Hu, O. B. Akan, et al., “HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering,” submitted to <strong>IEEE Transactions on Multimedia</strong>, 2025.</li>
   <li>K. Li, O. B. Akan, et al., “User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” submitted to <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2025.</li>
   <li>S. Özcan and O. B. Akan, “Molecular Communication Framework for Early Epileptic Seizure Detection,” submitted to the <strong>IEEE International Conference on Communications (ICC) 2026</strong>, 2025.</li>
@@ -404,10 +408,8 @@ nav_order: 2
   <li>O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys &amp; Tutorials</strong>, 2025.</li>
   <li>B. Ortlek, O. B. Akan, et al., “Gut-Brain Axis as a Closed-Loop Molecular Communication Network,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
-  <li>X. Zhang, O. B. Akan, et al., “A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System,” submitted to <strong>IEEE Wireless Communications Letters</strong>, 2025.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models,” submitted to <strong>IEEE Communications Magazine</strong>, 2025.</li>
   <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to <strong>IEEE Journal on Selected Areas in Communications</strong>, 2025.</li>
-  <li>H. Wang and O. B. Akan, “Physics-Informed CSI Prediction for Reliable NTN-assisted IoT Services in Congested Orbits,” submitted to <strong>IEEE Internet of Things Journal</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.</li>
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.</li>
   <li>A. S. Okcu, O. B. Akan, “Smell of Source: Learning-Based Odor Source Localization with Molecular Communication,” 2025.</li>
