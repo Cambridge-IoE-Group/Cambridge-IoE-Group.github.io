@@ -379,7 +379,10 @@ nav_order: 2
   <!-- <li></li> -->
   <!-- <li></li> -->
   <!-- <li></li> -->
-  <!-- <li></li> -->
+  <li>F. Merdan and O. B. Akan, "Odor Communication with Green Leaf Volatiles for Stress Signalling in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>F. Merdan and O. B. Akan, "An Acoustic Communication Model in Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>F. Merdan and O. B. Akan, "Airborne Particle Communication Through Time-varying Diffusion-Advection Channels," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
+  <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>10th Workshop on Molecular Communications</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Cramér–Rao Bounds for Magneto-Inductive Integrated Sensing and Communications," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," submitted to <strong>the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," submitted to <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
