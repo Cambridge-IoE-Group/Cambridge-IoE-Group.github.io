@@ -35,15 +35,32 @@ Fatih Efe Bilgen is a Ph.D. candidate in Engineering at the University of Cambri
 
 <br>
 
-<h3>Publications</h3>
+<h3>Journal Papers</h3>
 
-1. F. E. Bilgen, A. B. Kilic, O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-based Molecular Communication,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 1–12, March 2025.
-2. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
-3. F. E. Bilgen, O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. ACM NanoCom 2024, Milan, Italy, October 2024.
+1. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, vol. 27, no. 4, pp. 2658–2692, Aug. 2025. doi: 10.1109/COMST.2024.3487472.
+2. F. E. Bilgen, A. B. Kilic, and O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-Based Molecular Communication,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 11, no. 1, pp. 1–12, Mar. 2025. doi: 10.1109/TMBMC.2024.3460708.
+
+<br>
+
+<h3>Book Chapters</h3>
+1. A. B. Kilic, F. E. Bilgen, and O.B. Akan, “Precision Farming with the Internet of Everything,” to appear in Precision Technologies for Digital Agriculture: IoT, Big Data, Crop Modeling, and AI for Agricultural Excellence, Edited by Shushil Kumar Himanshu, Hemendra Kumar, Santosh S. Palmate, 2025. 
+
+<br>
+
+<h3>Conference Papers</h3>
+1. F. E. Bilgen and O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. ACM NanoCom 2024, Milan, Italy, Oct. 2024. doi: 10.1145/3686015.3689365.
 
 
 <br>
 
 <h3>Submitted Papers</h3>
+1. F. E. Bilgen and O. B. Akan, “Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC),” Feb. 2026. doi: 10.48550/arXiv.2602.22914.
+2. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” Feb. 2026. doi: 10.48550/arXiv.2602.01091.
+3. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflecting Surfaces (IoIRS),” Nov. 2025. doi: 10.48550/arXiv.2512.01083.
+
+<br>
+
+<h3>Theses</h3>
+1. F. E. Bilgen, “Perceptual Shift Keying: A Novel Modulation Technique for Odor-Based Molecular  Communication,” M.Sc. Thesis, Koc University, Istanbul, Türkiye, June 2025.
 
 <br>
