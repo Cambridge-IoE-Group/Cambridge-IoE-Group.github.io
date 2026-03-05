@@ -37,6 +37,7 @@ nav_order: 2
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
+  <li>B. E. Ortlek, O. B. Akan, "Gut-Brain Axis as a Closed-Loop Molecular Communication Network," accepted to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>D. Aktas and O. B. Akan, "A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication," accepted to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," accepted to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), December 2025, doi: 10.1109/TNNLS.2025.3636440, 2026.</li>
@@ -376,6 +377,7 @@ nav_order: 2
 <ol class="pubs" reversed>
   <!-- <li></li> -->
   <!-- <li></li> -->  
+  <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>Special Issue on Fusing Digital Twins and World Models for Proactive 6G Networks</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan, "A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink," submitted to <strong>IEEE Networking Letters</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Local Differential Privacy for Molecular Communication Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Odor Communication with Green Leaf Volatiles for Stress Signalling in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
@@ -407,7 +409,6 @@ nav_order: 2
   <li>S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
   <li>O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys &amp; Tutorials</strong>, 2025.</li>
-  <li>B. Ortlek, O. B. Akan, et al., “Gut-Brain Axis as a Closed-Loop Molecular Communication Network,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models,” submitted to <strong>IEEE Communications Magazine</strong>, 2025.</li>
   <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to <strong>IEEE Journal on Selected Areas in Communications</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.</li>

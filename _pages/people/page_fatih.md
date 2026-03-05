@@ -49,14 +49,14 @@ Fatih Efe Bilgen is a Ph.D. candidate in Engineering at the University of Cambri
 
 <h3>Conference Papers</h3>
 1. F. E. Bilgen and O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. ACM NanoCom 2024, Milan, Italy, Oct. 2024. doi: 10.1145/3686015.3689365.
+2. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” in Proc. 10th International Workshop on Molecular Communications, Istanbul, Türkiye, Apr. 2026. doi: 10.48550/arXiv.2602.01091.
 
 
 <br>
 
 <h3>Submitted Papers</h3>
 1. F. E. Bilgen and O. B. Akan, “Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC),” Feb. 2026. doi: 10.48550/arXiv.2602.22914.
-2. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” Feb. 2026. doi: 10.48550/arXiv.2602.01091.
-3. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflecting Surfaces (IoIRS),” Nov. 2025. doi: 10.48550/arXiv.2512.01083.
+2. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflecting Surfaces (IoIRS),” Nov. 2025. doi: 10.48550/arXiv.2512.01083.
 
 <br>
 
