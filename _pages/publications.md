@@ -38,8 +38,8 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
   <li>B. E. Ortlek, O. B. Akan, "Gut-Brain Axis as a Closed-Loop Molecular Communication Network," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
-  <li>D. Aktas and O. B. Akan, "A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>D. Aktas and O. B. Akan, "A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3671270, 2026.</li>
   <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), December 2025, doi: 10.1109/TNNLS.2025.3636440, 2026.</li>
   <li>S. H. Zulfiqar, and O. B. Akan, “Molecular Communication-Based Quorum Sensing Disruption for Enhanced Immune Defense,” in <strong>IEEE Transactions on NanoBioscience</strong>, vol. 25, no. 1, pp. 23-32, Jan. 2026, doi: 10.1109/TNB.2025.3593879, 2026.</li>
   <li>X. Lan, X. Zhang, L. Zhang, Z. Ma, Q. Wang, and O. B. Akan, "A Sparse Bayesian Learning-based OTFS Channel Estimation for 6G Wireless System," in <strong>IEEE Wireless Communications Letters</strong>, vol. 15, pp. 805-809, 2026, doi: 10.1109/LWC.2025.3642986, 2026.</li>
@@ -377,7 +377,7 @@ nav_order: 2
 <ol class="pubs" reversed>
   <!-- <li></li> -->
   <!-- <li></li> -->  
-  <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>Special Issue on Fusing Digital Twins and World Models for Proactive 6G Networks</strong>, 2026.</li>
+  <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan, "A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink," submitted to <strong>IEEE Networking Letters</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Local Differential Privacy for Molecular Communication Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Odor Communication with Green Leaf Volatiles for Stress Signalling in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
