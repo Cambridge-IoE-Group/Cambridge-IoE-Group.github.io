@@ -37,6 +37,7 @@ nav_order: 2
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
+  <li>O. T. Baydas, E. Yatgin, and O. B. Akan, "Information Transmission in Quorum Sensing for Gut Microbiome," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>B. E. Ortlek, O. B. Akan, "Gut-Brain Axis as a Closed-Loop Molecular Communication Network," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>D. Aktas and O. B. Akan, "A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3671270, 2026.</li>
