@@ -376,6 +376,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Private and Robust Biochemical Sensing-Based Diagnostics for the Internet of Medical Things," submitted to <strong>IEEE Internet of Things Magazine</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," submitted to <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, 2026.</li>
   <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
