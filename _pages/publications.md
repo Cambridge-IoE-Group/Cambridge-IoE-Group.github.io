@@ -376,8 +376,8 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
-  <!-- <li></li> -->
-  <!-- <li></li> -->  
+  <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
+  <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," submitted to <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, 2026.</li>
   <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan, "A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink," submitted to <strong>IEEE Networking Letters</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Local Differential Privacy for Molecular Communication Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
@@ -386,6 +386,7 @@ nav_order: 2
   <li>F. Merdan and O. B. Akan, "Airborne Particle Communication Through Time-varying Diffusion-Advection Channels," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>10th Workshop on Molecular Communications</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Cramér–Rao Bounds for Magneto-Inductive Integrated Sensing and Communications," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
+  <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," submitted to <strong>the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," submitted to <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," submitted to <strong>IEEE Internet of Things Journal</strong>, 2026.</li>
@@ -397,10 +398,9 @@ nav_order: 2
   <li>B. Kilic and O. B. Akan, "Neural-Inspired Multi-Agent Molecular Communication Networks for Collective Intelligence," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2025.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
-  <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
   <li>B. Maitra and O. B. Akan, "Modeling and Analysis of VOC-based Interplant Molecular Communication Channel," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>O. T. Baydas and O. B. Akan, "Federated Learning for Terahertz Wireless Communication," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
-  <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>Internet of Things Magazine</strong>, 2025.</li>
+  <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>IEEE Internet of Things Magazine</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>X. Hu, O. B. Akan, et al., “HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering,” submitted to <strong>IEEE Transactions on Multimedia</strong>, 2025.</li>
