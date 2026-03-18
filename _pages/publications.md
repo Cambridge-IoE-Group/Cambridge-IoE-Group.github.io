@@ -40,7 +40,7 @@ nav_order: 2
   <li>S. Zhang, and O. B. Akan, “Ion Transmitter for Molecular Communication,” to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
-  <li>B. E. Ortlek, O. B. Akan, “Gut-Brain Axis as a Closed-Loop Molecular Communication Network," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3673609.
+  <li>B. E. Ortlek, O. B. Akan, “Gut-Brain Axis as a Closed-Loop Molecular Communication Network," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3673609.</li>
   <li>D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3671270, 2026.</li>
   <li>K. Li, Y. Liang, P. Lio, W. Ni, F. Dressler, J. Crowcroft, and O. B. Akan, “User Isolation Poisoning on Decentralized Federated Learning: An Adversarial Message Passing Graph Neural Network Approach,” in <strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (Early Access), December 2025, doi: 10.1109/TNNLS.2025.3636440, 2026.</li>
   <li>S. H. Zulfiqar, and O. B. Akan, “Molecular Communication-Based Quorum Sensing Disruption for Enhanced Immune Defense,” in <strong>IEEE Transactions on NanoBioscience</strong>, vol. 25, no. 1, pp. 23-32, Jan. 2026, doi: 10.1109/TNB.2025.3593879, 2026.</li>
@@ -228,9 +228,7 @@ nav_order: 2
   <li>O. B. Akan, J. Fang, I. F. Akyildiz, “Performance of TCP Protocols in Deep Space Communication Networks,” <strong>IEEE Communications Letters</strong>, vol. 6, no. 11, pp. 478–480, November 2002.</li>
 </ol>
 
-
 <br>
-
 
 ## <span class="section-title" id="book-chapters">Book Chapters</span>
 <ol class="pubs" reversed>
@@ -265,6 +263,7 @@ nav_order: 2
 </ol>
 
 <br>
+
 
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 <ol class="pubs" reversed>
