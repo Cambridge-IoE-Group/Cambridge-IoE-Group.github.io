@@ -268,7 +268,7 @@ nav_order: 2
 
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 <ol class="pubs" reversed>
-  <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. <strong>22nd IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, 2026.</li>
+  <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. <strong>22nd IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, Shanghai, China, June 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels," in Proc. <strong>IEEE ICC 2026</strong>, Glasgow, UK, May 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "PLOS-RS: Probabilistic Localization of Odor Sources via Random Search," in Proc. <strong>IEEE INFOCOM 2026</strong>, Tokyo, Japan, May 2026.</li>
   <li>B. Kılıç and O. B. Akan, "Neural-Inspired Multi-Agent Molecular Communication Networks for Collective Intelligence," in Proc. <strong>10th International Workshop on Molecular Communications</strong>, Istanbul, Turkey, April 2026.</li>
