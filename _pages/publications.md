@@ -378,6 +378,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>D. Luan, J. Thompson, O. B. Akan, et al., "Hybrid Mamba-Attention Neural Architecture for Channel Estimation," submitted to <strong>2026 IEEE Global Communications Conference (Globecom)</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "Physics-Informed Odor Source Localization with Molecular Communication," submitted to <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2026.</li>
   <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Private and Robust Biochemical Sensing-Based Diagnostics for the Internet of Medical Things," submitted to <strong>IEEE Internet of Things Magazine</strong>, 2026.</li>
@@ -415,8 +416,6 @@ nav_order: 2
   <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.</li>
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.</li>
-  <li>A. S. Okcu, O. B. Akan, “Smell of Source: Learning-Based Odor Source Localization with Molecular Communication,” 2025.</li>
-  <li>H. E. Yaldiz, O. B. Akan, “Molecular Communication-Inspired Particle Collector-Transmitter (PaCoT) for Heavy Metal Removal from Human Circulatory System,” 2025.</li>
   <!-- 2024 -->
   <li>S. Zhang, O. B. Akan, “Ion Transmitter for Molecular Communication,” 2024.</li>
   <li>A. Z. Babar, O. B. Akan, “Sustainable and Precision Agriculture with the Internet of Everything (IoE),” 2024.</li>
