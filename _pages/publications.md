@@ -378,6 +378,8 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>H. Wang, L. Cao, and O. B. Akan, "Validation-Fixed Operating Points for Risk-Aware Sender Control on Volatile LEO Access Links," submitted to <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, 2026.</li>
+  <li>H. Wang and O. B. Akan, "Path-Level CSI Prediction and CRLB-Guided Delay–Doppler Domain Pre-Equalization for LEO Inter-Satellite Links," submitted to <strong>IEEE Transactions on Wireless Communications, 2026.</li>
   <li>D. Luan, J. Thompson, O. B. Akan, et al., "Hybrid Mamba-Attention Neural Architecture for Channel Estimation," submitted to <strong>2026 IEEE Global Communications Conference (Globecom)</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "Physics-Informed Odor Source Localization with Molecular Communication," submitted to <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2026.</li>
