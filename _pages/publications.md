@@ -379,6 +379,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "CisLunarSense: Opportunistic ISAC for Debris Detection at the Lunar Gateway," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
   <li>H. Ni and O. B. Akan, "A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Robust and Differentially Private Federated Learning via Over-the-Air Computation for Norm-Aligned Poisoning Attacks," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, 2026.</li>
