@@ -417,7 +417,6 @@ nav_order: 2
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>X. Hu, O. B. Akan, et al., “HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering,” submitted to <strong>IEEE Transactions on Multimedia</strong>, 2025.</li>
   <li>S. Özcan and O. B. Akan, “Molecular Communication Framework for Early Epileptic Seizure Detection,” submitted to the <strong>IEEE International Conference on Communications (ICC) 2026</strong>, 2025.</li>
-  <li>H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys &amp; Tutorials</strong>, 2025.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models,” 2025.</li>
