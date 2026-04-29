@@ -41,7 +41,7 @@ nav_order: 2
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," to appear in <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," to appear in <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
-  <li>S. Zhang, and O. B. Akan, “Ion Transmitter for Molecular Communication,” to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>S. Zhang, and O. B. Akan, “Ion Transmitter for Molecular Communication,” to appear in <strong>IEEE Transactions on NanoBioscience</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3677248, 2026.</li>
   <li>B. E. Ortlek, O. B. Akan, “Gut-Brain Axis as a Closed-Loop Molecular Communication Network," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3673609, 2026.</li>
