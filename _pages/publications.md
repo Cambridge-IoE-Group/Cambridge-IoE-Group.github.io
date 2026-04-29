@@ -381,6 +381,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>M. Sahin and O. B. Akan, "Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry Enforced Phase State Communication in Chiral Magnonics," submitted to <strong>IEEE Communications Letters</strong>, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Dispersion-Domain Detection for Mobile Molecular Communication Under Multiplicative Geometry Uncertainty," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
