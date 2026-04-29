@@ -37,6 +37,7 @@ nav_order: 2
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
+  <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," to appear in <strong>IEEE Internet of Things Journal</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," to appear in <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," to appear in <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
@@ -403,7 +404,6 @@ nav_order: 2
   <li>F. Merdan and O. B. Akan, "Airborne Particle Communication Through Time-varying Diffusion-Advection Channels," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>10th Workshop on Molecular Communications</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Cramér–Rao Bounds for Magneto-Inductive Integrated Sensing and Communications," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
-  <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," submitted to <strong>IEEE Internet of Things Journal</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments," submitted to <strong>IEEE Wireless Communications Magazine</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan,"AFDM-Based ISAC for LEO Inter-Satellite Links: Path-Level CSI Prediction and CRLB-Driven Pre-Equalization," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2026.</li>
   <li>A. Kilic, F. E. Bilgen and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
