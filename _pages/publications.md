@@ -381,6 +381,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Latency-Power Optimization for UAV-Assisted Multi-Hop Multi-Path Sidelink Towards 6G V2X," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry Enforced Phase State Communication in Chiral Magnonics," submitted to <strong>IEEE Communications Letters</strong>, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Dispersion-Domain Detection for Mobile Molecular Communication Under Multiplicative Geometry Uncertainty," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
