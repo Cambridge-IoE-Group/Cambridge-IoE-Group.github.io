@@ -381,6 +381,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>H. Dong and O. B. Akan, "MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments," submitted to <strong>IEEE Communications Magazine</strong>, 2026.</li>
   <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Latency-Power Optimization for UAV-Assisted Multi-Hop Multi-Path Sidelink Towards 6G V2X," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry Enforced Phase State Communication in Chiral Magnonics," submitted to <strong>IEEE Communications Letters</strong>, 2026.</li>
@@ -406,7 +407,6 @@ nav_order: 2
   <li>F. Merdan and O. B. Akan, "Airborne Particle Communication Through Time-varying Diffusion-Advection Channels," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>10th Workshop on Molecular Communications</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Cramér–Rao Bounds for Magneto-Inductive Integrated Sensing and Communications," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
-  <li>H. Dong and O. B. Akan, "MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments," submitted to <strong>IEEE Wireless Communications Magazine</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan,"AFDM-Based ISAC for LEO Inter-Satellite Links: Path-Level CSI Prediction and CRLB-Driven Pre-Equalization," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2026.</li>
   <li>A. Kilic, F. E. Bilgen and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Intrinsic MIMO Particle Communication Channel with Random Advection," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
