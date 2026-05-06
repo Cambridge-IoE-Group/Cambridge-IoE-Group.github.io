@@ -39,7 +39,7 @@ nav_order: 2
 <ol class="pubs" reversed>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," to appear in <strong>IEEE Internet of Things Journal</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," to appear in <strong>IEEE Transactions on Communications</strong>, 2026.</li>
-  <li>D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3690065, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," to appear in <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
   <li>S. Zhang, and O. B. Akan, “Ion Transmitter for Molecular Communication,” to appear in <strong>IEEE Transactions on NanoBioscience</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
