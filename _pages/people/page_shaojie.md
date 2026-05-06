@@ -40,7 +40,7 @@ Shaojie Zhang received his B.Sc. degree in Electrical and Electronics Engineerin
 <h3>Publications</h3>
 
 1. S. Zhang, O. B. Akan, “3D Receiver for Molecular Communications in Internet of Organoids,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 91–100, March 2025.
-2. S. Zhang and O. B. Akan, “Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off,” to appear in IEEE Internet of Things Journal, 2026.
+2. S. Zhang and O. B. Akan, “Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off,” in IEEE Internet of Things Journal (Early Access), doi: 10.1109/JIOT.2026.3689994, 2026.
 
 <br>
 

@@ -39,18 +39,18 @@ O. Tansel Baydas joined Cambridge as a Ph.D. student in 2024. He received his B.
 
 <h3>Publications</h3>
 
-1. O. T. Baydas and O. B. Akan, “Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels,” will be in Proc. IEEE ICC 2026, Glasgow, UK, May 2026.
-2. O. T. Baydas, O. B. Akan, “Received Signal and Channel Parameter Estimation in Molecular Communications,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 10, no. 1, pp. 92–97, March 2024.
-3. O. T. Baydas, O. Cetinkaya, O. B. Akan, “Estimation and Detection for Molecular MIMO Communications in the Internet of Bio-Nano Things,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 9, no. 1, pp. 106–110, March 2023.
-4. A. Das, B. Runwal, O. T. Baydas, O. Cetinkaya, O. B. Akan, “Received Signal Modeling and BER Analysis for Molecular SISO Communications,” in Proc. ACM NanoCom 2022, Barcelona, Spain, October 2022.
+1. O. T. Baydas and O. B. Akan, “Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications,” to appear in IEEE Transactions on NanoBioscience, 2026.
+2. O. T. Baydas and O. B. Akan, “Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels,” will be in Proc. IEEE ICC 2026, Glasgow, UK, May 2026.
+3. O. T. Baydas, O. B. Akan, “Received Signal and Channel Parameter Estimation in Molecular Communications,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 10, no. 1, pp. 92–97, March 2024.
+4. O. T. Baydas, O. Cetinkaya, O. B. Akan, “Estimation and Detection for Molecular MIMO Communications in the Internet of Bio-Nano Things,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 9, no. 1, pp. 106–110, March 2023.
+5. A. Das, B. Runwal, O. T. Baydas, O. Cetinkaya, O. B. Akan, “Received Signal Modeling and BER Analysis for Molecular SISO Communications,” in Proc. ACM NanoCom 2022, Barcelona, Spain, October 2022.
 
 <br>
 
 <h3>Submitted Papers</h3>
 
 1. O.T. Baydas and O.B. Akan, Federated Learning for Terahertz Wireless Communication.
-2. O.T. Baydas and O.B. Akan, Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications.
-3. H. Wang, O.T. Baydas, H. Cai, O.B. Akan, Deadline Feasibility of AI Background Workloads over LEO RF and Optical Links.
-4. O.T. Baydas,, E. Yatgin, O.B. Akan, Information Transmission in Quorum Sensing for Gut Microbiome.
+2. H. Wang, O.T. Baydas, H. Cai, O.B. Akan, Deadline Feasibility of AI Background Workloads over LEO RF and Optical Links.
+3. O.T. Baydas, E. Yatgin, O.B. Akan, Information Transmission in Quorum Sensing for Gut Microbiome.
 
 <br>
