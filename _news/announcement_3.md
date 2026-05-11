@@ -6,6 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Welcome Melih, Fatih and Hanlin as new PhD students to IoE group!
+Welcome Melih, Fatih and Hanlin as new PhD students to the Centre for neXt Communications (CXC) Group!
 
 Note: This page is for backup purposes only

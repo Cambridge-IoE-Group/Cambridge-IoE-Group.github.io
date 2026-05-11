@@ -10,11 +10,11 @@ contact_note: >
   PhD, master and undergraduate positions are available every year. Highly motivated and skilled students are invited to send their CV to Prof. Akan.
   For enquiries concerning the website contact the webmaster (hc663[at]cam.ac.uk). For general inquiries, please contact Prof. Akan (oba21[at]cam.ac.uk).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to the website of the Internet of Everything Group at the University of Cambridge.
+  Welcome to the website of the Centre for neXt Communications (CXC) Group at the University of Cambridge.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Designed by <a href="https://caihanlin.com/" target="_blank">Hanlin Cai</a>.
-keywords: Özgür Barış Akan, Ozgur B. Akan, University of Cambridge, Internet of Everything Group, Cambridge, Wireless Communication # add your own keywords or leave empty
+keywords: Özgür Barış Akan, Ozgur B. Akan, University of Cambridge, Centre for neXt Communications, CXC Group, Cambridge, Wireless Communication # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: cam.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Internet of Everything # blog_name will be displayed in your blog page
+blog_name: Centre for neXt Communications (CXC) # blog_name will be displayed in your blog page
 blog_description: Latest news and updates.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
