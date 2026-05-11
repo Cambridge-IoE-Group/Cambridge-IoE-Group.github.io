@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: Research
-# description: Center for neXt Communications (CXC)
+# description: Centre for neXt Communications (CXC)
 nav: true
 nav_order: 1
 show_profile_rules: false

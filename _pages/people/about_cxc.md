@@ -1,4 +1,4 @@
-[Center for neXt Communications (CXC)](https://cxc.eng.cam.ac.uk/) is a global research hub dedicated to exploring the frontiers of communication across physical, biological, and cosmic scales.
+[Centre for neXt Communications (CXC)](https://cxc.eng.cam.ac.uk/) is a global research hub dedicated to exploring the frontiers of communication across physical, biological, and cosmic scales.
 
 Our mission is to redefine the fundamental limits of communication. Rather than focusing only on the next generation of wireless systems, we investigate the neXt physical layers of reality through which information can be exchanged. By bringing together information theory, communication engineering, biology, quantum physics, and space sciences, CXC aims to develop the scientific and technological foundations for the connectivity fabric that will support humanity's future.
 
@@ -32,7 +32,7 @@ Our work is organised around several interconnected frontiers of neXt communicat
 
 ## Evolution of Our Research Vision
 
-The Center for neXt Communications represents the latest stage in a long-term research vision led by Professor Özgür B. Akan.
+The Centre for neXt Communications represents the latest stage in a long-term research vision led by Professor Özgür B. Akan.
 
 The journey began at the Next-generation and Wireless Communications Laboratory (NWCL) at Middle East Technical University (METU), where foundational work was carried out in wireless sensor networks, cognitive radio, and next-generation wireless systems.
 
