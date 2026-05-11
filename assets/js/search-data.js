@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "Publications of the Internet of Everything (IoE) Group.",
+          description: "Publications of the Centre for neXt Communications (CXC) Group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "Members of the Internet of Everything (IoE) Group",
+          description: "Members of the Centre for neXt Communications (CXC) Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-news",
           title: "News",
-          description: "News of the Internet of Everything (IoE) Group",
+          description: "News of the Centre for neXt Communications (CXC) Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
