@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "",
+          description: "Center for neXt Communications (CXC)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
