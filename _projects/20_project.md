@@ -2,7 +2,7 @@
 layout: page
 title: European Research Council
 description: "MINERGRACE: Graphene-based High Resolution Neural Interfaces (ERC PoC)"
-img: assets/img/logos/erc.png
+img: assets/img/logos/erc_logo.png
 importance: 1.5
 category: Previous
 ---
@@ -11,7 +11,7 @@ category: Previous
 <div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
   {% include figure.liquid
      loading="eager"
-     path="assets/img/logos/erc.png"
+     path="assets/img/logos/erc_logo.png"
      class="img-fluid rounded z-depth-1"
   %}
 </div>
