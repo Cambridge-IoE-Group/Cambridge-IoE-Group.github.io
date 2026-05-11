@@ -2,6 +2,8 @@
 
 Our mission is to redefine the fundamental limits of communication. Rather than focusing only on the next generation of wireless systems, we investigate the neXt physical layers of reality through which information can be exchanged. By bringing together information theory, communication engineering, biology, quantum physics, and space sciences, CXC aims to develop the scientific and technological foundations for the connectivity fabric that will support humanity's future.
 
+<br>
+
 ## What the "X" Stands For
 
 In conventional telecommunications, progress is often described in terms of generations: 4G, 5G, 6G, and beyond. While this generational roadmap remains important, CXC's vision goes further. The "X" in CXC represents the unknown, the cross-disciplinary, and the extreme:
@@ -10,19 +12,23 @@ In conventional telecommunications, progress is often described in terms of gene
 - It also represents a deeply cross-disciplinary approach. CXC brings together engineering, biology, physics, information theory, machine learning, and space sciences to understand communication as a universal phenomenon rather than a technology confined to radio networks.
 - Finally, the "X" reflects communication across eXtreme scales: from nanoscale interactions inside cells to global intelligent infrastructures, from dense wireless environments to satellites, planetary surfaces, and deep-space systems.
 
+<br>
+
 ## Research Scope
 
 Our work is organised around several interconnected frontiers of neXt communications.
 
-**Wireless Communications:** We contribute to the development of 6G and beyond wireless systems, with a focus on robust, energy-efficient, intelligent, and sustainable communication technologies. Research in this area includes Integrated Sensing and Communications (ISAC), green wireless systems, broadband and mobile networks, adaptive communication architectures, and the theoretical and practical foundations for shaping future global standards.
+[**Wireless Communications:**](https://cxc.eng.cam.ac.uk/publications/wireless) We contribute to the development of 6G and beyond wireless systems, with a focus on robust, energy-efficient, intelligent, and sustainable communication technologies. Research in this area includes Integrated Sensing and Communications (ISAC), green wireless systems, broadband and mobile networks, adaptive communication architectures, and the theoretical and practical foundations for shaping future global standards.
 
-**Space Communications:** As humanity moves toward a multi-planetary future, communication systems must operate reliably across extreme distances, harsh environments, and highly dynamic network conditions. We develop theories, protocols, and architectures for satellite, deep-space, planetary, and beyond-line-of-sight communication systems. Our research includes high-frequency and THz satellite links, Martian and planetary environmental sensing and space-air-ground integrated networks.
+[**Space Communications:**](https://cxc.eng.cam.ac.uk/publications/space) As humanity moves toward a multi-planetary future, communication systems must operate reliably across extreme distances, harsh environments, and highly dynamic network conditions. We develop theories, protocols, and architectures for satellite, deep-space, planetary, and beyond-line-of-sight communication systems. Our research includes high-frequency and THz satellite links, Martian and planetary environmental sensing and space-air-ground integrated networks.
 
-**Quantum Communications:** We explore quantum principles as the basis for secure, high-capacity, and fundamentally new forms of communication. Our research includes quantum state manipulation, entanglement-based communication, quantum networking, and the integration of quantum systems with future communication infrastructures. This research aims to understand how quantum information can extend or transform the limits imposed by classical communication theory.
+[**Quantum Communications:**](https://cxc.eng.cam.ac.uk/publications/quantum) We explore quantum principles as the basis for secure, high-capacity, and fundamentally new forms of communication. Our research includes quantum state manipulation, entanglement-based communication, quantum networking, and the integration of quantum systems with future communication infrastructures. This research aims to understand how quantum information can extend or transform the limits imposed by classical communication theory.
 
-**Molecular & Biological Communications:** We investigate communication mechanisms inspired by, embedded in, or directly implemented through biological systems. Our research includes molecular, ion-based, bacterial, neural, and bio-nano communication paradigms. By studying how information is exchanged within and between living systems, we lay the foundations for the Internet of Bio-Nano Things, with potential applications in healthcare, synthetic biology, biotechnology, targeted sensing, and intelligent therapeutic systems.
+[**Molecular & Biological Communications:**](https://cxc.eng.cam.ac.uk/publications/biological) We investigate communication mechanisms inspired by, embedded in, or directly implemented through biological systems. Our research includes molecular, ion-based, bacterial, neural, and bio-nano communication paradigms. By studying how information is exchanged within and between living systems, we lay the foundations for the Internet of Bio-Nano Things, with potential applications in healthcare, synthetic biology, biotechnology, targeted sensing, and intelligent therapeutic systems.
 
-**Machine Learning for Communications:** We develop machine learning methods for spectrum management, resource allocation, channel modelling, network optimisation, sensing, and autonomous decision-making. This research supports communication systems that can adapt to complex environments, learn from data, and operate efficiently across diverse physical and network conditions.
+[**Machine Learning for Communications:**](https://cxc.eng.cam.ac.uk/publications/ml) We develop machine learning methods for spectrum management, resource allocation, channel modelling, network optimisation, sensing, and autonomous decision-making. This research supports communication systems that can adapt to complex environments, learn from data, and operate efficiently across diverse physical and network conditions.
+
+<br>
 
 ## Evolution of Our Research Vision
 
