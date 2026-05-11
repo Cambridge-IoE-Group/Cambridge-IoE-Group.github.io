@@ -46,10 +46,10 @@ Haofan Dong joined the Centre for neXt Communications (CXC) Group at the Univers
 <h3>Submitted Papers</h3>
 
 1. H. Dong and O. B. Akan, “MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments,” submitted to IEEE Communications Magazine, 2026.
-2. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
-3. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
-4. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
-5. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Mobile Computing, 2026.
+2. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Mobile Computing, 2026.
+3. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
+4. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
+5. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
 6. H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to IEEE Journal on Selected Areas in Communications, Manuscript ID: JSAC-00796-2025, 2025.
 7. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
 
