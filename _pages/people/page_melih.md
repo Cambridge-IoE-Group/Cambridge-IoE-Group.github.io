@@ -43,6 +43,7 @@ Melih Sahin is a Ph.D. student in Engineering at the University of Cambridge. He
 
 <h3>Submitted Papers</h3>
 
-1. M. Sahin and O. B. Akan, “Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication,” submitted to IEEE Transactions on Communications, 2026.
+1. M. Sahin and O. B. Akan, “Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026.
+2. M. Sahin and O. B. Akan, “Local Differential Privacy for Molecular Communication Networks,” submitted to IEEE Transactions on NanoBioscience, 2026.
 
 <br>
