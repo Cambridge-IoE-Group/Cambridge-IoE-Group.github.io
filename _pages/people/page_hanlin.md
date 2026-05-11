@@ -49,9 +49,9 @@ Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, Natio
 
 <h3>Submitted Papers</h3>
 
-1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
-2. H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
-3. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Mobile Computing, 2026.
+1. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Mobile Computing, 2026.
+2. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
+3. H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
 4. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” arXiv, 2025.
 
 <br>
