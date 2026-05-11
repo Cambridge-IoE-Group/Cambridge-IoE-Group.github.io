@@ -1,3 +1,3 @@
-Caglar Koca joined the Centre for neXt Communications (CXC) Group as a PhD student in 2017. Previously he completed his B.Sc. in Electrical and Electronics Engineering with a double major in Physics at Middle East Technical University. He holds an M.Sc. degree from Koç University in Electrical and Electronics Engineering as well. His primary research interest is the ICT foundation of the evolution of glutamatergic receptors.
+Caglar Koca joined the Centre for neXt Communications (CXC) as a PhD student in 2017. Previously he completed his B.Sc. in Electrical and Electronics Engineering with a double major in Physics at Middle East Technical University. He holds an M.Sc. degree from Koç University in Electrical and Electronics Engineering as well. His primary research interest is the ICT foundation of the evolution of glutamatergic receptors.
 
 [Personal Page](https://oba.eco/people/caglar/)
