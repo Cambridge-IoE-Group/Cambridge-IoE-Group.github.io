@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications of the Centre for neXt Communications (CXC) Group.
+description: Publications of the Centre for neXt Communications (CXC).
 nav: true
 nav_order: 2
 ---
