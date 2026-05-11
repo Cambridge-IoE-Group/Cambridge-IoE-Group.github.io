@@ -161,6 +161,11 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-european-research-council",
           title: 'European Research Council',
+          description: "MINERGRACE: Graphene-based High Resolution Neural Interfaces (ERC PoC)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/20_project/";
+            },},{id: "projects-european-research-council",
+          title: 'European Research Council',
           description: "MINERVA: Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment (2014-2019)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
