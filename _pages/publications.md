@@ -382,6 +382,7 @@ nav_order: 2
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <ol class="pubs" reversed>
+  <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Local Differential Privacy for Molecular Communication Networks," submitted to <strong>IEEE Transactions on NanoBioscience</strong>, 2026.</li>
   <li>H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, 2026.</li>
@@ -429,7 +430,6 @@ nav_order: 2
   <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys &amp; Tutorials</strong>, 2025.</li>
   <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.</li>
-  <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.</li>
   <!-- 2024 -->
   <li>S. Zhang, O. B. Akan, “Ion Transmitter for Molecular Communication,” 2024.</li>
   <li>A. Z. Babar, O. B. Akan, “Sustainable and Precision Agriculture with the Internet of Everything (IoE),” 2024.</li>

@@ -45,7 +45,7 @@ Mr. Zhengyang Zhang joined the Centre for neXt Communications (CXC) as a PhD stu
 
 <h3>Submitted Papers</h3>
 
-1. K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” 2025.
+1. K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, O. B. Akan, “Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends,” submitted to ACM Transactions on Intelligent Systems and Technology, 2026.
 
 
 <br>
