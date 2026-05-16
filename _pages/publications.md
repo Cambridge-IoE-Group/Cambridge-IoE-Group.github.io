@@ -37,7 +37,7 @@ nav_order: 2
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
-  <li>O. T. Baydas and O. B. Akan, "Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications," to appear in <strong>IEEE Transactions on NanoBioscience</strong>, 2026.</li>
+  <li>O. T. Baydas and O. B. Akan, "Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications," in <strong>IEEE Transactions on NanoBioscience</strong> (Early Access), doi: 10.1109/TNB.2026.3693618, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," in <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2026.3689994, 2026.</li>
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," to appear in <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3690065, 2026.</li>
