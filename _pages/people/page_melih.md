@@ -23,7 +23,7 @@ nav: false
 </div>
 
 
-Melih Sahin is a Ph.D. student in Engineering at the University of Cambridge. He joined the Internet of Everything (IoE) Group in October 2025 and is supervised by Prof. Akan. He received an M.S. in Electrical and Electronics Engineering with thesis in 2025 and a B.Sc. in Computer Engineering with a Mathematics minor and an AI track in 2024 at Koç University, after his first year of undergraduate studies at KAIST. His notable distinctions include an Intel ISEF 4th place Grand Award in Mathematics in 2018. His research interests cover Information Theory, Coding Theory, and Molecular Communication.
+Melih Sahin is a Ph.D. student in Engineering at the University of Cambridge. He joined the Centre for neXt Communications (CXC) in October 2025 and is supervised by Prof. Akan. He received an M.S. in Electrical and Electronics Engineering with thesis in 2025 and a B.Sc. in Computer Engineering with a Mathematics minor and an AI track in 2024 at Koç University, after his first year of undergraduate studies at KAIST. His notable distinctions include an Intel ISEF 4th place Grand Award in Mathematics in 2018. His research interests cover Information Theory, Coding Theory, and Molecular Communication.
 
 <br>
 
@@ -43,6 +43,7 @@ Melih Sahin is a Ph.D. student in Engineering at the University of Cambridge. He
 
 <h3>Submitted Papers</h3>
 
-1. M. Şahin, O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication,” 2024.
+1. M. Sahin and O. B. Akan, “Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026.
+2. M. Sahin and O. B. Akan, “Local Differential Privacy for Molecular Communication Networks,” submitted to IEEE Transactions on NanoBioscience, 2026.
 
 <br>

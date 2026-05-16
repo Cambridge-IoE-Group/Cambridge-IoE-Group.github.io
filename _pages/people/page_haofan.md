@@ -23,7 +23,7 @@ nav: false
   %}
 </div>
 
-Haofan Dong joined the IoE group at the University of Cambridge Department of Engineering as a Ph.D. student in 2023, supervised by Prof. Akan. He completed his MRes in Connected Electronic and Photonic Systems CDT (UCL based) in 2023. He received his BEng in Electronic and Computer Engineering from the University of Leeds and BEng in Communication Engineering from Wuhan University of Technology in 2022. Haofan’s research interests include integrated sensing and communication (ISAC), 6G, satellite communications, and space communications.
+Haofan Dong joined the Centre for neXt Communications (CXC) at the University of Cambridge Department of Engineering as a Ph.D. student in 2023, supervised by Prof. Akan. He completed his MRes in Connected Electronic and Photonic Systems CDT (UCL based) in 2023. He received his BEng in Electronic and Computer Engineering from the University of Leeds and BEng in Communication Engineering from Wuhan University of Technology in 2022. Haofan’s research interests include integrated sensing and communication (ISAC), 6G, satellite communications, and space communications.
 
 <br>
 
@@ -45,12 +45,13 @@ Haofan Dong joined the IoE group at the University of Cambridge Department of En
 
 <h3>Submitted Papers</h3>
 
-1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
-2. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
-3. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
-4. H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, “Graph Representation-based Model Poisoning on Federated Large Language Models ,” submitted to IEEE Communications Magazine, Manuscript ID: COMMAG-25-00424, 2025.
-5. H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to IEEE Journal on Selected Areas in Communications, Manuscript ID: JSAC-00796-2025, 2025.
-6. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
+1. H. Dong and O. B. Akan, “MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments,” submitted to IEEE Communications Magazine, 2026.
+2. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Mobile Computing, 2026.
+3. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
+4. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
+5. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
+6. H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to IEEE Journal on Selected Areas in Communications, Manuscript ID: JSAC-00796-2025, 2025.
+7. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
 
 
 <br>

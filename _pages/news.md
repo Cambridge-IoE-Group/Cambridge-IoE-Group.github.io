@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news/
-description: News of the Internet of Everything (IoE) Group
+description: News of the Centre for neXt Communications (CXC)
 nav: true
 nav_order: 6
 ---

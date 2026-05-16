@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members of the Internet of Everything (IoE) Group
+description: Members of the Centre for neXt Communications (CXC)
 nav: true
 nav_order: 4
 
@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Prof. Ozgur Baris Akan, IEEE Fellow</p>
-      <p>Principal Investigator of IoE Group</p>
+      <p>Principal Investigator of the Centre for neXt Communications (CXC)</p>
       <p>Email: oba21[at]cam.ac.uk</p>
 
 

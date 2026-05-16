@@ -40,14 +40,15 @@ Shaojie Zhang received his B.Sc. degree in Electrical and Electronics Engineerin
 <h3>Publications</h3>
 
 1. S. Zhang, O. B. Akan, “3D Receiver for Molecular Communications in Internet of Organoids,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 91–100, March 2025.
-2. S. Zhang and O. B. Akan, “Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off,” to appear in IEEE Internet of Things Journal, 2026.
+2. S. Zhang and O. B. Akan, “Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off,” in IEEE Internet of Things Journal (Early Access), doi: 10.1109/JIOT.2026.3689994, 2026.
 
 <br>
 
 <h3>Submitted Papers</h3>
 
-1. S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to IEEE Transactions on Communications, 2025.
-2. S. Zhang, O. B. Akan, “Ion Transmitter for Molecular Communication,” 2024.
-3. S. Zhang, O. B. Akan, “Internet of Organoids - Bridging IoT with the Future of Organoid Research,” 2024.
+1. S. Zhang and O. B. Akan, “Dispersion-Domain Detection for Mobile Molecular Communication Under Multiplicative Geometry Uncertainty,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026.
+2. S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to IEEE Transactions on Communications, 2025.
+3. S. Zhang, O. B. Akan, “Ion Transmitter for Molecular Communication,” 2024.
+4. S. Zhang, O. B. Akan, “Internet of Organoids - Bridging IoT with the Future of Organoid Research,” 2024.
 
 <br>

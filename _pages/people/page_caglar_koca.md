@@ -22,7 +22,7 @@ nav: false
   %}
 </div>
 
-Caglar Koca joined the IoE group as a PhD student in 2017. Previously he completed his B.Sc. in Electrical and Electronics Engineering with a double major in Physics at Middle East Technical University. He holds an M.Sc. degree from Koç University in Electrical and Electronics Engineering as well. His primary research interest is the ICT foundation of the evolution of glutamatergic receptors.
+Caglar Koca joined the Centre for neXt Communications (CXC) as a PhD student in 2017. Previously he completed his B.Sc. in Electrical and Electronics Engineering with a double major in Physics at Middle East Technical University. He holds an M.Sc. degree from Koç University in Electrical and Electronics Engineering as well. His primary research interest is the ICT foundation of the evolution of glutamatergic receptors.
 
 <br>
 
@@ -77,6 +77,8 @@ Caglar Koca joined the IoE group as a PhD student in 2017. Previously he complet
 
 <h3>Submitted or In-Preparation Papers</h3>
 
-1. C. Koca, O. B. Akan, "A Robust and Realistic Model of Partially Absorbing Boundaries" to be submitted to <strong>Physical Review E</strong>, May 2026.
+1. C. Koca and O. B. Akan, "A Three-dimensional Model for Partially Absorbing Boundaries in Synaptic Molecular Communications," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.
+2. C. Koca and O. B. Akan, "Modelling 1D Partially Absorbing Boundaries for Brownian Molecular Communication Channels," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.
+3. C. Koca, O. B. Akan, "A Robust and Realistic Model of Partially Absorbing Boundaries" to be submitted to <strong>Physical Review E</strong>, May 2026.
 
 <br>

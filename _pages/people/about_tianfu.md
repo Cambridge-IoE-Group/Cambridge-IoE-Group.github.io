@@ -1,3 +1,3 @@
-Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024. He received M.S. degree in Electrical and Computer Engineering from University of California, San Diego in 2024, and B.S. degree in Electrical Engineering from The Ohio State University in 2022. He is currently a member in Internet of Everything group, under the supervision of Prof. Akan.
+Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024. He received M.S. degree in Electrical and Computer Engineering from University of California, San Diego in 2024, and B.S. degree in Electrical Engineering from The Ohio State University in 2022. He is currently a member of the Centre for neXt Communications (CXC), under the supervision of Prof. Akan.
 
 [Personal Page](https://oba.eco/people/houtianfu/)

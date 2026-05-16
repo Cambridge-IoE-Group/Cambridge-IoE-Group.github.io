@@ -2,7 +2,7 @@
 layout: page
 title: European Research Council
 description: "MINERVA: Communication Theoretical Foundations of Nervous System Towards Bio-Inspired Nanonetworks and ICT-Inspired Neuro-Treatment (2014-2019)"
-img: assets/img/logos/euflag.png
+img: assets/img/logos/erc_logo.png
 importance: 1
 category: Previous
 # giscus_comments: true
@@ -12,7 +12,7 @@ category: Previous
 <div class="float-md-right" style="max-width:200px; margin:0 0 1rem 1rem;">
   {% include figure.liquid
      loading="eager"
-     path="assets/img/logos/euflag.png"
+     path="assets/img/logos/erc_logo.png"
      class="img-fluid rounded z-depth-1"
   %}
 </div>
