@@ -49,11 +49,12 @@ Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, Natio
 
 <h3>Submitted Papers</h3>
 
-1. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs", submitted to IEEE Transactions on Mobile Computing, May 2026.
-2. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links," IEEE Transactions on Aerospace and Electronic Systems, submitted for publication, April 2026.
-3. H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC," IEEE Transactions on Wireless Communications, submitted for publication, April 2026
-4. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), submitted for publication, March 2026. 
-5. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels," 2025.
-6. H. Cai, H. Wang, H. Dong, O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision", 2025.
+1. H. Dong, H. Wang, H. Cai, and O. B. Akan, "A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2," submitted to Publications of the Astronomical Society of Australia (PASA), May 2026.
+2. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs", submitted to IEEE Transactions on Mobile Computing, May 2026.
+3. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links," IEEE Transactions on Aerospace and Electronic Systems, submitted for publication, April 2026.
+4. H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC," IEEE Transactions on Wireless Communications, submitted for publication, April 2026
+5. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), submitted for publication, March 2026. 
+6. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels," 2025.
+7. H. Cai, H. Wang, H. Dong, O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision", 2025.
 
 <br>
