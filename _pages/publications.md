@@ -37,6 +37,7 @@ nav_order: 2
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
+  <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," to appear in <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications," in <strong>IEEE Transactions on NanoBioscience</strong> (Early Access), doi: 10.1109/TNB.2026.3693618, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," in <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2026.3689994, 2026.</li>
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," to appear in <strong>IEEE Transactions on Communications</strong>, 2026.</li>
@@ -406,7 +407,6 @@ nav_order: 2
   <li>H. Dong and O. B. Akan, "Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "Physics-Informed Odor Source Localization with Molecular Communication," submitted to <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2026.</li>
   <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Private and Robust Biochemical Sensing-Based Diagnostics for the Internet of Medical Things," submitted to <strong>IEEE Internet of Things Magazine</strong>, 2026.</li>
-  <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," submitted to <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," submitted to <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, 2026.</li>
   <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan, "A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink," submitted to <strong>IEEE Networking Letters</strong>, 2026.</li>
