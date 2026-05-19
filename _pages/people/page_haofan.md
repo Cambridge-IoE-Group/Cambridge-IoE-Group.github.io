@@ -38,8 +38,9 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 <h3>Publications</h3>
 
-1. H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” IEEE Internet of Things Journal (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.
-2. H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” to appear in IEEE Transactions on Wireless Communications (Early Access), doi: 10.1109/TWC.2025.3572276, 2025.
+1. H. Dong and O. B. Akan, “Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC,” to appear in IEEE Wireless Communications Letters, 2026.
+2. H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” IEEE Internet of Things Journal (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.
+3. H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” to appear in IEEE Transactions on Wireless Communications (Early Access), doi: 10.1109/TWC.2025.3572276, 2025.
 
 <br>
 
