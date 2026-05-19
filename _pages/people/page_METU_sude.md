@@ -48,6 +48,6 @@ Sude Özcan completed her high school education in İstanbul Capa Science High S
 
 <h3>Submitted Papers</h3>
 
-1. S. Ozcan and O. B. Akan, “Molecular Communication Framework for Early Epileptic Seizure Detection,” Submitted to IEEE International Conference on Communications (ICC 2026).
+1. S. Özcan and O. B. Akan, “Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics,” submitted to IEEE Transactions on NanoBioscience, 2026.
 
 <br>
