@@ -438,7 +438,6 @@ nav_order: 2
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, H. Huang, P. Lio, F. Dressler, and O. B. Akan, “E-GATE: Explainable Graph-based Fairness Attacks on Federated Learning-enabled EdgeIoT,” 2024.</li>
   <li>S. Zhang, O. B. Akan, “Internet of Organoids - Bridging IoT with the Future of Organoid Research,” 2024.</li>
   <!-- 2018 -->
-  <li>O. B. Akan, K. Cepni, M. Ozger, “Mobile Big Data in Wireless Social Sensor Networks,” 2018.</li>
   <li>H. Ramezani, O. B. Akan, “Information Capacity of SISO Neuro-spike Communication Channel under Axonal Noise,” 2018.</li>
   <!-- 2017 -->
   <li>O. Cetinkaya, M. Ozger, O. B. Akan, “An RSSI-based Routing Algorithm for 5G-assisted Internet of Things Networks,” 2017.</li>
@@ -447,19 +446,11 @@ nav_order: 2
   <li>M. Ozger, O. B. Akan, “Medium Access Control with Directional Antennas using Low Terahertz-band for IoT in 5G Networks,” 2017.</li>
   <li>E. Dinc, O. B. Akan, “Multi-Stage Hybrid Precoding Algorithms for mmWave MIMO Systems in 5G Wireless Networks,” 2017.</li>
   <li>C. Koca, O. Cetinkaya, O. B. Akan, “Theoretical Precision-Rate Limits of Analog-to-Digital Converters,” 2017.</li>
-  <li>M. Arik, E. Babatas, A. T. Erdogan, O. B. Akan, “Sidelobe ASK based Joint Radar-Communication with Bounded Component Analysis,” 2017.</li>
   <li>M. Ozger, O. B. Akan, “Network Coding in Cognitive Internet of Things,” 2017.</li>
-  <li>N. A. Abbasi, B. A. Bilgin, O. B. Akan, “The Nervous NaNoNetwork Simulator N4Sim for Molecular Communication in Nervous System,” 2017.</li>
   <li>O. Cetinkaya, O. B. Akan, “Fluorescent Troffer-powered Internet of Things: An Experimental Study of Electric-field Energy Harvesting,” 2017.</li>
-  <li>E. Dinc, O. B. Akan, “Cross-Layer Packet Size Optimization in mmWave 5G Wireless Networks,” 2017.</li>
   <!-- 2016 -->
   <li>C. Koca, O. B. Akan, “Bitwise Information Priority Measure,” 2016.</li>
   <li>C. Koca, O. B. Akan, “Hybrid Superposed Quantum Communication,” 2016.</li>
-  <li>O. Ergul, O. B. Akan, “Optimal Channel Coding for mm-Wave Communications in 5G Wireless Networks,” 2016.</li>
-  <li>T. Yilmaz, O. B. Akan, “On the 5G Wireless Communications at the Low Terahertz Band,” 2016.</li>
-  <li>G. Reali, M. Femminella, L. Felicetti, A. Davy, R. C. Fuentes, A. Cabellos-Aparicio, J. Sole-Pareta, E. Alarcon, P. Lio, P. Gresele, M. Malvestiti, W. Tavernier, Y. Koucheryavy, V. Petrov, S. Balasubramaniam, O. B. Akan, “A Survey of Simulation Tools for Molecular Communications and their Multi-Scale Integration,” 2016.</li>
-  <!-- 2015 -->
-  <li>B. Gulbahar, O. B. Akan, “A Communication Theoretical Modelling and Analysis of Wireless Nanoscale Magneto-Inductive Communication with Carbon Nanotube NanoCoils,” 2015.</li>
 </ol>
 
 <br>
