@@ -37,7 +37,7 @@ nav_order: 2
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 <ol class="pubs" reversed>
-  <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," to appear in <strong>IEEE Wireless Communications Letters</strong>, 2026.</li>
+  <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," in <strong>IEEE Wireless Communications Letters</strong> (Early Access), May 2026, doi: 10.1109/LWC.2026.3697114, 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications," in <strong>IEEE Transactions on NanoBioscience</strong> (Early Access), doi: 10.1109/TNB.2026.3693618, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," in <strong>IEEE Internet of Things Journal</strong> (Early Access), doi: 10.1109/JIOT.2026.3689994, 2026.</li>
   <li>H. Dong and O. B. Akan, "Performance Limits of Hardware-Constrained THz Inter-Satellite MIMO-ISAC Systems," to appear in <strong>IEEE Transactions on Communications</strong>, 2026.</li>
