@@ -48,7 +48,7 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2,” submitted to Publications of the Astronomical Society of Australia (PASA), Manuscript ID: PAS-2026-0104, 2026.
 2. H. Dong and O. B. Akan, “MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments,” submitted to IEEE Communications Magazine, 2026.
-3. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Mobile Computing, 2026.
+3. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Network Science and Engineering, 2026.
 4. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
 5. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
 6. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
