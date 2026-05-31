@@ -44,6 +44,13 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 <br>
 
+<h3>Conference Papers</h3>
+
+1. H. Dong and O. B. Akan, “Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation,” in Proc. European Microwave Conference (EuMC), European Microwave Week, London, UK, October 2026.
+2. H. Dong and O. B. Akan, “Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar,” in Proc. European Radar Conference (EuRAD), European Microwave Week, London, UK, October 2026.
+
+<br>
+
 <h3>Submitted Papers</h3>
 
 1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2,” submitted to Publications of the Astronomical Society of Australia (PASA), Manuscript ID: PAS-2026-0104, 2026.
