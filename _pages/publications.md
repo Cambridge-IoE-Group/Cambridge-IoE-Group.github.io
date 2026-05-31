@@ -273,6 +273,8 @@ nav_order: 2
 
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 <ol class="pubs" reversed>
+  <li>H. Dong and O. B. Akan, "Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation," in Proc. <strong>European Microwave Conference (EuMC)</strong>, European Microwave Week, London, UK, October 2026.</li>
+  <li>H. Dong and O. B. Akan, "Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar," in Proc. <strong>European Radar Conference (EuRAD)</strong>, European Microwave Week, London, UK, October 2026.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. <strong>22nd IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, Shanghai, China, June 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels," in Proc. <strong>IEEE ICC 2026</strong>, Glasgow, UK, May 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "PLOS-RS: Probabilistic Localization of Odor Sources via Random Search," in Proc. <strong>IEEE INFOCOM 2026</strong>, Tokyo, Japan, May 2026.</li>
