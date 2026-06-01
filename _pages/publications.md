@@ -276,6 +276,7 @@ nav_order: 2
 <ol class="pubs" reversed>
   <li>H. Dong and O. B. Akan, "Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation," in Proc. <strong>European Microwave Conference (EuMC)</strong>, European Microwave Week, London, UK, October 2026.</li>
   <li>H. Dong and O. B. Akan, "Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar," in Proc. <strong>European Radar Conference (EuRAD)</strong>, European Microwave Week, London, UK, October 2026.</li>
+  <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, "Internet of Intelligent Reflective Surfaces (IoIRS)," in Proc. <strong>IEEE PIMRC</strong>, Singapore, September 2026.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. <strong>22nd IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, Shanghai, China, June 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels," in Proc. <strong>IEEE ICC 2026</strong>, Glasgow, UK, May 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "PLOS-RS: Probabilistic Localization of Odor Sources via Random Search," in Proc. <strong>IEEE INFOCOM 2026</strong>, Tokyo, Japan, May 2026.</li>
@@ -427,7 +428,6 @@ nav_order: 2
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>B. Maitra and O. B. Akan, "Modeling and Analysis of VOC-based Interplant Molecular Communication Channel," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>O. T. Baydas and O. B. Akan, "Federated Learning for Terahertz Wireless Communication," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
-  <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>IEEE Internet of Things Magazine</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
   <li>S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
