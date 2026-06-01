@@ -45,6 +45,7 @@ nav_order: 2
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," to appear in <strong>IEEE Nanotechnology Magazine</strong>, 2026.</li>
   <li>S. Zhang, and O. B. Akan, “Ion Transmitter for Molecular Communication,” to appear in <strong>IEEE Transactions on NanoBioscience</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>X. Hu, J. Li, S. Zhang, S. Goetz, L. Picinali, O. B. Akan, and A. O. T. Hogg, "HRTFformer: A Spatially-Aware Transformer for Individual HRTF Upsampling in Immersive Audio Rendering," to appear in <strong>IEEE Transactions on Multimedia</strong>, 2026.</li>
   <li>O. T. Baydas, E. Yatgin, and O. B. Akan, “Information Transmission in Quorum Sensing for Gut Microbiome," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3677248, 2026.</li>
   <li>B. E. Ortlek, O. B. Akan, “Gut-Brain Axis as a Closed-Loop Molecular Communication Network," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3673609, 2026.</li>
   <li>D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3671270, 2026.</li>
@@ -429,7 +430,6 @@ nav_order: 2
   <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, Internet of Intelligent Reflective Surfaces (IoIRS),” submitted to <strong>IEEE Internet of Things Magazine</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to <strong>IEEE Transactions on Wireless Communications</strong>, 2025.</li>
-  <li>X. Hu, O. B. Akan, et al., “HRTFformer: A Spatially-Aware Transformer for Personalized HRTF Upsampling in Immersive Audio Rendering,” submitted to <strong>IEEE Transactions on Multimedia</strong>, 2025.</li>
   <li>S. Zhang and O. B. Akan, “Joint Diffusion-Based Molecular Communication and Self-Sensing for Channel-Adaptive Transmission,” submitted to <strong>IEEE Transactions on Communications</strong>, 2025.</li>
   <li>A. Kilic, O. B. Akan, et al., “Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,” submitted to <strong>IEEE Communications Surveys &amp; Tutorials</strong>, 2025.</li>
   <li>H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” 2025.</li>
