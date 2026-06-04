@@ -274,6 +274,8 @@ nav_order: 2
 
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 <ol class="pubs" reversed>
+  <li>O. T. Baydas, A. S. Okcu, and O. B. Akan, "Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks," in <strong>ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking</strong>, Seoul, South Korea, July 2026.</li>
+  <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Certified Characterization of Privacy, Participation, and Convergence in Over-the-Air Federated Learning," in <strong>ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking</strong>, Seoul, South Korea, July 2026.</li>
   <li>H. Dong and O. B. Akan, "Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation," in Proc. <strong>European Microwave Conference (EuMC)</strong>, European Microwave Week, London, UK, October 2026.</li>
   <li>H. Dong and O. B. Akan, "Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar," in Proc. <strong>European Radar Conference (EuRAD)</strong>, European Microwave Week, London, UK, October 2026.</li>
   <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, "Internet of Intelligent Reflective Surfaces (IoIRS)," in Proc. <strong>IEEE PIMRC</strong>, Singapore, September 2026.</li>
