@@ -43,6 +43,16 @@ Ayse Sila Okcu received her B.Sc. degree in Electrical and Electronics Engineeri
 
 <br>
 
+<h3>Conference Papers</h3>
+
+1. A. S. Okcu, O. T. Baydas, and O. B. Akan, “Certified Characterization of Privacy, Participation, and Convergence in Over-the-Air Federated Learning,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
+2. O. T. Baydas, A. S. Okcu, and O. B. Akan, “Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
+3. A. S. Okcu and O. B. Akan, “PLOS-RS: Probabilistic Localization of Odor Sources via Random Search,” in Proc. IEEE INFOCOM 2026, Tokyo, Japan, May 2026.
+4. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflective Surfaces (IoIRS),” in Proc. IEEE PIMRC, Singapore, September 2026.
+5. A. S. Okcu, M. E. B., and O. B. Akan, “Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles,” in Proc. 10th International Workshop on Molecular Communications, Istanbul, Turkey, April 2026.
+
+<br>
+
 <h3>Submitted Papers</h3>
 
 1. A. S. Okcu, O. B. Akan, “Smell of Source: Learning-Based Odor Source Localization with Molecular Communication,” 2025.
