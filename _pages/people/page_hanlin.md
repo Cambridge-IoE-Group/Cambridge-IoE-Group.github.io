@@ -40,10 +40,11 @@ Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, Natio
 
 <h3>Publications</h3>
 
-1. H. Cai, H. Wang, H. Dong, K. Li, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), Shanghai, China, June 2026.
-2. H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” Proceedings of the 9th Workshop on Molecular Communications, 2025.
-3. H. Cai and Z. Xu, et al., “Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks,” Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services, 2024.
-4. H. Cai, “Securing billion bluetooth devices Leveraging learning-based techniques,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+1. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC), Athens, Greece, September 2026.
+2. H. Cai, H. Wang, H. Dong, K. Li, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), Shanghai, China, June 2026.
+3. H. Cai, O. B. Akan, “Semantic Learning for Molecular Communication in Internet of Bio-Nano Things,” Proceedings of the 9th Workshop on Molecular Communications, 2025.
+4. H. Cai and Z. Xu, et al., “Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks,” Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services, 2024.
+5. H. Cai, “Securing billion bluetooth devices Leveraging learning-based techniques,” Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 
 <br>
 
@@ -53,8 +54,7 @@ Hanlin Cai (Lance) received the B.Sc. degree from the Engineering College, Natio
 2. H. Dong, H. Wang, H. Cai, and O. B. Akan, "A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2," submitted to Publications of the Astronomical Society of Australia (PASA), May 2026.
 3. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links," IEEE Transactions on Aerospace and Electronic Systems, submitted for publication, April 2026.
 4. H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC," IEEE Transactions on Wireless Communications, submitted for publication, April 2026
-5. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), submitted for publication, March 2026. 
-6. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels," 2025.
-7. H. Cai, H. Wang, H. Dong, O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision", 2025.
+5. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels," 2025.
+6. H. Cai, H. Wang, H. Dong, O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision", 2025.
 
 <br>
