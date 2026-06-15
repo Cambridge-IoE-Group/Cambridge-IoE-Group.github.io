@@ -279,6 +279,7 @@ nav_order: 2
   <li>H. Dong and O. B. Akan, "Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation," in Proc. <strong>European Microwave Conference (EuMC)</strong>, European Microwave Week, London, UK, October 2026.</li>
   <li>H. Dong and O. B. Akan, "Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar," in Proc. <strong>European Radar Conference (EuRAD)</strong>, European Microwave Week, London, UK, October 2026.</li>
   <li>F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, "Internet of Intelligent Reflective Surfaces (IoIRS)," in Proc. <strong>IEEE PIMRC</strong>, Singapore, September 2026.</li>
+  <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, Athens, Greece, September 2026.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, "Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents," in Proc. <strong>22nd IEEE International Wireless Communications & Mobile Computing Conference (IWCMC)</strong>, Shanghai, China, June 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Score-Based Diffusion Model for Bio-Nano Communication Channels," in Proc. <strong>IEEE ICC 2026</strong>, Glasgow, UK, May 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "PLOS-RS: Probabilistic Localization of Odor Sources via Random Search," in Proc. <strong>IEEE INFOCOM 2026</strong>, Tokyo, Japan, May 2026.</li>
@@ -390,6 +391,7 @@ nav_order: 2
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
 <!-- Ordering: resubmitted or venue-redirected manuscripts first (top of this list), then other active submissions. -->
 <ol class="pubs" reversed>
+  <li>A. B. Kilic and O. B. Akan, "Acoustic, VOC, and Multimodal Stress Source Localization in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, "Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>S. Özcan and O. B. Akan, “Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics,” submitted to <strong>IEEE Transactions on NanoBioscience</strong>, 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2," submitted to <strong>Publications of the Astronomical Society of Australia (PASA)</strong>, 2026.</li>
@@ -413,7 +415,6 @@ nav_order: 2
   <li>H. Dong and O. B. Akan, "Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "Physics-Informed Odor Source Localization with Molecular Communication," submitted to <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, 2026.</li>
   <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Private and Robust Biochemical Sensing-Based Diagnostics for the Internet of Medical Things," submitted to <strong>IEEE Internet of Things Magazine</strong>, 2026.</li>
-  <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," submitted to <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, 2026.</li>
   <li>Z. Zhang, H. Feng, P. Song, O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, 2026.</li>
   <li>H. Wang and O. B. Akan, "A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink," submitted to <strong>IEEE Networking Letters</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "Odor Communication with Green Leaf Volatiles for Stress Signalling in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
