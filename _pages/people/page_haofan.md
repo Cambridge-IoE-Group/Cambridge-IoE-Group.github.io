@@ -46,9 +46,9 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 <h3>Conference Papers</h3>
 
-1. H. Dong and O. B. Akan, “Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation,” in Proc. European Microwave Conference (EuMC), European Microwave Week, London, UK, October 2026.
-2. H. Dong and O. B. Akan, “Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar,” in Proc. European Radar Conference (EuRAD), European Microwave Week, London, UK, October 2026.
-3. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC), Athens, Greece, September 2026.
+1. H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC), Athens, Greece, September 2026.
+2. H. Dong and O. B. Akan, “Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation,” in Proc. European Microwave Conference (EuMC), European Microwave Week, London, UK, October 2026.
+3. H. Dong and O. B. Akan, “Joint Range and Spin Rate Estimation of Tumbling Space Targets Using OFDM Radar,” in Proc. European Radar Conference (EuRAD), European Microwave Week, London, UK, October 2026.
 
 <br>
 
