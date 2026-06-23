@@ -40,7 +40,8 @@ Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024.
 
 <h3>Publications</h3>
 
-1. H. Wang, O. B. Akan, et al., “Gravitational Communication: Fundamentals, State-of-the-Art and Future Vision,” IEEE Communications Surveys & Tutorials (Early Access), doi: 10.1109/COMST.2025.3601088, 2025.
+1. H. Wang, H. Dong, H. Cai and O. B. Akan, “Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances,” to appear in IEEE Transactions on Aerospace and Electronic Systems, 2026.
+2. H. Wang, O. B. Akan, et al., “Gravitational Communication: Fundamentals, State-of-the-Art and Future Vision,” IEEE Communications Surveys & Tutorials (Early Access), doi: 10.1109/COMST.2025.3601088, 2025.
 
 
 <br>
