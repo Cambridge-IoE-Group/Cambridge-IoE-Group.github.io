@@ -36,6 +36,7 @@ nav_order: 2
 </nav>
 
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
+
 <ol class="pubs" reversed>
   <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," to appear in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
   <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry Enforced Phase State Communication in Chiral Magnonics," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
@@ -240,6 +241,7 @@ nav_order: 2
 <br>
 
 ## <span class="section-title" id="book-chapters">Book Chapters</span>
+
 <ol class="pubs" reversed>
   <li>M. Civas, T. Yilmaz, O. B. Akan, “Terahertz Band Intersatellite Communication Links,” in <strong>Next Generation Wireless Terahertz Communication Networks</strong>, Edited by S. Ghafoor, M. H. Rehmani, A. Davy, CRC Press, 2021.</li>
   <li>T. Khan, M. Civas, O. Cetinkaya, N. A. Abbasi, O. B. Akan, “Nanosensor Networks for Smart Health Care,” in <strong>Nanosensors for Smart Cities</strong>, Edited by B. Han, V. Tomer, T. Nguyen, A. Farmani, P. K. Singh, Elsevier, 2019.</li>
@@ -273,8 +275,8 @@ nav_order: 2
 
 <br>
 
-
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
+
 <ol class="pubs" reversed>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, Athens, Greece, September 2026.</li>
   <li>O. T. Baydas, A. S. Okcu, and O. B. Akan, "Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks," in <strong>ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking</strong>, Seoul, South Korea, July 2026.</li>
@@ -384,6 +386,7 @@ nav_order: 2
 <br>
 
 ## <span class="section-title" id="patents">Patents</span>
+
 <ol class="pubs" reversed>
   <li>O. Cetinkaya, O. B. Akan, “System and Method of Electric Field Energy Harvesting from Lighting Elements for Internet of Things,” International Patent Application, PCT/TR2016/050467, November 2016.</li>
 </ol>
@@ -391,6 +394,7 @@ nav_order: 2
 <br>
 
 ## <span class="section-title" id="submitted-papers">Submitted Papers</span>
+
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, June 2026.</li>
@@ -455,6 +459,7 @@ nav_order: 2
 <br>
 
 ## <span class="section-title" id="theses">Theses</span>
+
 <ol class="pubs" reversed>
   <li>H. Cai, “Semantic Communication for the Internet of Everything: From Molecular to Space Networks,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
   <li>Z. Zhang, “Optimal Beamforming for Beyond Line-of-Sight Integrated Sensing and Communication,” M.Phil. Thesis, University of Cambridge, Cambridge, UK, 2025.</li>
@@ -498,5 +503,3 @@ nav_order: 2
   <li>M. T. Isik, “Localization in Underwater Acoustic Sensor Networks,” M.Sc. Thesis, Middle East Technical University, Ankara, Turkey, 2007.</li>
   <li>M. Yagli, “The feasibility, reliable communication and networking aspects of passive wireless sensor networks,” M.Sc. Thesis, Middle East Technical University, Ankara, Turkey, 2006.</li>
 </ol>
-
-
