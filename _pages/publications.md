@@ -39,7 +39,7 @@ nav_order: 2
 
 <ol class="pubs" reversed>
   <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," to appear in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
-  <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry Enforced Phase State Communication in Chiral Magnonics," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
+  <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry-Enforced Phase State Communication in Chiral Magnonics," in <strong>IEEE Communications Letters</strong> (Early Access), doi: 10.1109/LCOMM.2026.3709218, 2026.</li>
   <li>X. Hu, J. Li, S. Zhang, S. Goetz, L. Picinali, O. B. Akan, and A. O. T. Hogg, "HRTFformer: A Spatially-Aware Transformer for Individual HRTF Upsampling in Immersive Audio Rendering," to appear in <strong>IEEE Transactions on Multimedia</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," in <strong>IEEE Wireless Communications Letters</strong> (Early Access), May 2026, doi: 10.1109/LWC.2026.3697114, 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications," in <strong>IEEE Transactions on NanoBioscience</strong> (Early Access), doi: 10.1109/TNB.2026.3693618, 2026.</li>
