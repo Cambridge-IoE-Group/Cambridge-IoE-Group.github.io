@@ -397,6 +397,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>H. Wang, S. Zhang, H. Cai, H. Dong, and O. B. Akan, "Staying Online Costs More Energy Than Sending Bits in a Starlink Mini Terminal," submitted to <strong>IEEE Internet of Things Journal</strong>, July 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, June 2026.</li>
   <li>A. B. Kilic and O. B. Akan, "Acoustic, VOC, and Multimodal Stress Source Localization in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, June 2026.</li>
   <li>S. Ozcan and O. B. Akan, "A Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics," submitted to <strong>IEEE Transactions on NanoBioscience</strong>, May 2026.</li>
