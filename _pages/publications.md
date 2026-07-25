@@ -443,7 +443,6 @@ nav_order: 2
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, and O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, and O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision," 2025.</li>
   <li>A. S. Okcu and O. B. Akan, "Smell of Source: Learning-Based Odor Source Localization with Molecular Communication," 2025.</li>
-  <li>A. Z. Babar and O. B. Akan, "Sustainable and Precision Agriculture with the Internet of Everything (IoE)," 2024.</li>
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, H. Huang, P. Lio, F. Dressler, and O. B. Akan, "E-GATE: Explainable Graph-based Fairness Attacks on Federated Learning-enabled EdgeIoT," 2024.</li>
   <li>S. Zhang and O. B. Akan, "Internet of Organoids - Bridging IoT with the Future of Organoid Research," 2024.</li>
   <li>H. Ramezani and O. B. Akan, "Information Capacity of SISO Neuro-spike Communication Channel under Axonal Noise," 2018.</li>
