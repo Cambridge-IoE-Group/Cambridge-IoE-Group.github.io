@@ -399,6 +399,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>A. B. Kilic, F. E. Bilgen, A. Z. Babar, and O. B. Akan, "Sustainable and Precision Agriculture with the Internet of Everything (IoE)," submitted to <strong>Computers and Electronics in Agriculture</strong>, July 2026.</li>
   <li>H. Ni and O. B. Akan, "MC-BRIDGE: A Modular Receiver-Chain Simulation Framework for OECT-Based Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, July 2026.</li>
   <li>H. Wang, S. Zhang, H. Cai, H. Dong, and O. B. Akan, "Staying Online Costs More Energy Than Sending Bits in a Starlink Mini Terminal," submitted to <strong>IEEE Internet of Things Journal</strong>, July 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, June 2026.</li>
