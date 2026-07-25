@@ -399,6 +399,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>A. B. Kilic, F. E. Bilgen, A. Z. Babar, and O. B. Akan, "Sustainable and Precision Agriculture with the Internet of Everything (IoE)," submitted to <strong>Computers and Electronics in Agriculture</strong>, July 2026.</li>
   <li>H. Ni and O. B. Akan, "MC-BRIDGE: A Modular Receiver-Chain Simulation Framework for OECT-Based Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, July 2026.</li>
   <li>H. Wang, S. Zhang, H. Cai, H. Dong, and O. B. Akan, "Staying Online Costs More Energy Than Sending Bits in a Starlink Mini Terminal," submitted to <strong>IEEE Internet of Things Journal</strong>, July 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, June 2026.</li>
@@ -442,7 +443,6 @@ nav_order: 2
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, and O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, and O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision," 2025.</li>
   <li>A. S. Okcu and O. B. Akan, "Smell of Source: Learning-Based Odor Source Localization with Molecular Communication," 2025.</li>
-  <li>A. Z. Babar and O. B. Akan, "Sustainable and Precision Agriculture with the Internet of Everything (IoE)," 2024.</li>
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, H. Huang, P. Lio, F. Dressler, and O. B. Akan, "E-GATE: Explainable Graph-based Fairness Attacks on Federated Learning-enabled EdgeIoT," 2024.</li>
   <li>S. Zhang and O. B. Akan, "Internet of Organoids - Bridging IoT with the Future of Organoid Research," 2024.</li>
   <li>H. Ramezani and O. B. Akan, "Information Capacity of SISO Neuro-spike Communication Channel under Axonal Noise," 2018.</li>
