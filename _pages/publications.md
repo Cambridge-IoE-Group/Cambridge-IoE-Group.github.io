@@ -38,6 +38,7 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 
 <ol class="pubs" reversed>
+  <li>Z. Zhang, M. Shukla, and O. B. Akan, "Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space," to appear in <strong>Physical Communication</strong> (Elsevier), 2026.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>F. Merdan and O. B. Akan, "An Acoustic Communication Model in Plants," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Wang, H. Dong, H. Cai and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," to appear in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
