@@ -39,7 +39,7 @@ nav_order: 2
 
 <ol class="pubs" reversed>
   <li>Z. Zhang and O. B. Akan, "Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space," to appear in <strong>Physical Communication</strong>, 2026.</li>
-  <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
+  <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3719283, 2026.</li>
   <li>F. Merdan and O. B. Akan, "An Acoustic Communication Model in Plants," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3717168, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," in <strong>IEEE Nanotechnology Magazine</strong> (Early Access), doi: 10.1109/MNANO.2026.3706272, 2026.</li>
   <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry-Enforced Phase State Communication in Chiral Magnonics," in <strong>IEEE Communications Letters</strong> (Early Access), doi: 10.1109/LCOMM.2026.3709218, 2026.</li>
