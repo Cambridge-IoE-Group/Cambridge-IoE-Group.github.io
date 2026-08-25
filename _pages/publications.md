@@ -38,13 +38,14 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 
 <ol class="pubs" reversed>
+  <li>M. Sahin and O. B. Akan, "Masked Neural Detection for Run-Length-Limited Channel Coding in Molecular Communication," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
   <li>Z. Zhang and O. B. Akan, "Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space," to appear in <strong>Physical Communication</strong>, 2026.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3719283, 2026.</li>
   <li>F. Merdan and O. B. Akan, "An Acoustic Communication Model in Plants," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3717168, 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC)," in <strong>IEEE Nanotechnology Magazine</strong> (Early Access), doi: 10.1109/MNANO.2026.3706272, 2026.</li>
   <li>O. T. Baydas, H. Dong, and O. B. Akan, "Symmetry-Enforced Phase State Communication in Chiral Magnonics," in <strong>IEEE Communications Letters</strong> (Early Access), doi: 10.1109/LCOMM.2026.3709218, 2026.</li>
   <li>H. Wang, H. Dong, H. Cai, and O. B. Akan, "Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances," in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, vol. 62, pp. 13348-13360, 2026.</li>
-  <li>X. Hu, J. Li, S. Zhang, S. Goetz, L. Picinali, O. B. Akan, and A. O. T. Hogg, "HRTFformer: A Spatially-Aware Transformer for Individual HRTF Upsampling in Immersive Audio Rendering," to appear in <strong>IEEE Transactions on Multimedia</strong>, 2026.</li>
+  <li>X. Hu, J. Li, S. Zhang, S. Goetz, L. Picinali, O. B. Akan, and A. O. T. Hogg, "HRTFformer: A Spatially-Aware Transformer for Individual HRTF Upsampling in Immersive Audio Rendering," in <strong>IEEE Transactions on Multimedia</strong> (Early Access), doi: 10.1109/TMM.2026.3724332, 2026.</li>
   <li>H. Dong and O. B. Akan, "Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC," in <strong>IEEE Wireless Communications Letters</strong>, vol. 15, pp. 3284-3288, 2026, doi: 10.1109/LWC.2026.3697114, 2026.</li>
   <li>O. T. Baydas and O. B. Akan, "Physics-Informed Neural Operators for Signal Modeling in Particle-based Communications," in <strong>IEEE Transactions on NanoBioscience</strong> (Early Access), doi: 10.1109/TNB.2026.3693618, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Chemo-Hydrodynamic Transceivers for the Internet of Bio-Nano Things: Modeling the Joint Propulsion-Transmission Trade-off," in <strong>IEEE Internet of Things Journal</strong>, vol. 13, no. 14, pp. 32101-32114, July 2026, doi: 10.1109/JIOT.2026.3689994, 2026.</li>
