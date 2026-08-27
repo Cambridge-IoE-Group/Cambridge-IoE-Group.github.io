@@ -38,6 +38,7 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 
 <ol class="pubs" reversed>
+  <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links," to appear in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Masked Neural Detection for Run-Length-Limited Channel Coding in Molecular Communication," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
   <li>Z. Zhang and O. B. Akan, "Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space," to appear in <strong>Physical Communication</strong>, 2026.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3719283, 2026.</li>
@@ -402,6 +403,8 @@ nav_order: 2
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
   <li>H. Ni, H. Dong, and O. B. Akan, "Reliability Limits and Decoding for Partial Nanopore Protein Rereads With Persistent State," submitted to <strong>IEEE Transactions on Communications</strong>, August 2026.</li>
+  <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
+  <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
   <li>A. B. Kilic, F. E. Bilgen, A. Z. Babar, and O. B. Akan, "Sustainable and Precision Agriculture with the Internet of Everything (IoE)," submitted to <strong>Computers and Electronics in Agriculture</strong>, July 2026.</li>
   <li>H. Ni and O. B. Akan, "MC-BRIDGE: A Modular Receiver-Chain Simulation Framework for OECT-Based Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, July 2026.</li>
   <li>H. Wang, S. Zhang, H. Cai, H. Dong, and O. B. Akan, "Staying Online Costs More Energy Than Sending Bits in a Starlink Mini Terminal," submitted to <strong>IEEE Internet of Things Journal</strong>, July 2026.</li>
@@ -417,7 +420,6 @@ nav_order: 2
   <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Latency-Power Optimization for UAV-Assisted Multi-Hop Multi-Path Sidelink Towards 6G V2X," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Dispersion-Domain Detection for Mobile Molecular Communication Under Multiplicative Geometry Uncertainty," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
-  <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, April 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, April 2026.</li>
   <li>H. Dong and O. B. Akan, "CisLunarSense: Opportunistic ISAC for Debris Detection at the Lunar Gateway," submitted to <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, April 2026.</li>
   <li>H. Ni and O. B. Akan, "A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, April 2026.</li>
