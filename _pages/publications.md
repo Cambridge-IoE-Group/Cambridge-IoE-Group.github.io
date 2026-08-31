@@ -402,6 +402,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Controllable Latency-Power Trade-offs in 6G Low-Altitude V2X: Adaptive Multi-Hop Multi-Path Sidelink Scheduling," submitted to <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, August 2026.</li>
   <li>H. Ni, H. Dong, and O. B. Akan, "Reliability Limits and Decoding for Partial Nanopore Protein Rereads With Persistent State," submitted to <strong>IEEE Transactions on Communications</strong>, August 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
@@ -417,7 +418,6 @@ nav_order: 2
   <li>C. Koca and O. B. Akan, "A Three-dimensional Model for Partially Absorbing Boundaries in Synaptic Molecular Communications," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, May 2026.</li>
   <li>C. Koca and O. B. Akan, "Modelling 1D Partially Absorbing Boundaries for Brownian Molecular Communication Channels," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, May 2026.</li>
   <li>H. Dong and O. B. Akan, "MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments," submitted to <strong>IEEE Communications Magazine</strong>, May 2026.</li>
-  <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Latency-Power Optimization for UAV-Assisted Multi-Hop Multi-Path Sidelink Towards 6G V2X," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Low-Complexity Run-Length-Limited ISI-Mitigation (RLIM) Codes for Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>S. Zhang and O. B. Akan, "Dispersion-Domain Detection for Mobile Molecular Communication Under Multiplicative Geometry Uncertainty," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, April 2026.</li>
