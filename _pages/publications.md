@@ -38,7 +38,7 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 
 <ol class="pubs" reversed>
-  <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links," to appear in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong>, 2026.</li>
+  <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links," in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong> (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Masked Neural Detection for Run-Length-Limited Channel Coding in Molecular Communication," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
   <li>Z. Zhang and O. B. Akan, "Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space," to appear in <strong>Physical Communication</strong>, 2026.</li>
   <li>A. S. Okcu, M. E. Bas, and O. B. Akan, "Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles," in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong> (Early Access), doi: 10.1109/TMBMC.2026.3719283, 2026.</li>
@@ -402,6 +402,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, and O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>Computer Communications</strong>, September 2026.</li>
   <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Controllable Latency-Power Trade-offs in 6G Low-Altitude V2X: Adaptive Multi-Hop Multi-Path Sidelink Scheduling," submitted to <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, August 2026.</li>
   <li>H. Ni, H. Dong, and O. B. Akan, "Reliability Limits and Decoding for Partial Nanopore Protein Rereads With Persistent State," submitted to <strong>IEEE Transactions on Communications</strong>, August 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
@@ -445,7 +446,6 @@ nav_order: 2
   <li>A. Kilic, O. B. Akan, et al., "Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions," submitted to <strong>IEEE Communications Surveys and Tutorials</strong>, 2025.</li>
   <li>H. Cai, H. Dong, H. Wang, K. Li, and O. B. Akan, "Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks," submitted to <strong>IEEE Communications Magazine</strong>, 2025.</li>
   <li>H. Wang and O. B. Akan, "Physics-Informed CSI Prediction for Reliable NTN-assisted IoT Services in Congested Orbits," submitted to <strong>IEEE Internet of Things Journal</strong>, 2025.</li>
-  <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, and O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>ACM Transactions on Intelligent Systems and Technology</strong>, 2025.</li>
   <li>H. Cai, H. Wang, H. Dong, and O. B. Akan, "Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision," 2025.</li>
   <li>A. S. Okcu and O. B. Akan, "Smell of Source: Learning-Based Odor Source Localization with Molecular Communication," 2025.</li>
   <li>K. Li, J. Zheng, X. Yuan, W. Ni, H. Huang, P. Lio, F. Dressler, and O. B. Akan, "E-GATE: Explainable Graph-based Fairness Attacks on Federated Learning-enabled EdgeIoT," 2024.</li>
