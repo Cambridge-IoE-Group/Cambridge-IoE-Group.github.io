@@ -283,6 +283,8 @@ nav_order: 2
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 
 <ol class="pubs" reversed>
+  <li>Z. Wang, Y. Li, H. Wang, H. Cai, Q. Chen, R. Li, and O. B. Akan, "Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution," in <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2026.</li>
+  <li>T. Xiao, G. Liu, Y. Li, H. Wang, H. Cai, R. Li, and O. B. Akan, "Personalized Safety in Federated Fine-Tuning of Large Language Models," in <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, Athens, Greece, September 2026.</li>
   <li>O. T. Baydas, A. S. Okcu, and O. B. Akan, "Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks," in <strong>ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking</strong>, Seoul, South Korea, July 2026.</li>
   <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Certified Characterization of Privacy, Participation, and Convergence in Over-the-Air Federated Learning," in <strong>ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking</strong>, Seoul, South Korea, July 2026.</li>
@@ -402,6 +404,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>L. Dianxin, J. S. Thompson, K. Meng, Z. Lin, H. Dong, T. O'Farrell, and O. B. Akan, "Channel Estimation Aware Port Selection Strategy for Fluid Antenna Systems," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, September 2026.</li>
   <li>H. Dong and O. B. Akan, "EACR: Estimator-Aware Coexistence Regions for Service-Equivalent ISAC Waveforms," submitted to <strong>IEEE Wireless Communications Letters</strong>, September 2026.</li>
   <li>J. Zhan, H. Cai, T. He, and O. B. Akan, "ORBIT: Online Robust Battery-Aware Scheduling for Collaborative VLM Inference over Solar-Powered LEO Satellite Networks," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, September 2026.</li>
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, and O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>Artificial Intelligence Review</strong>, September 2026.</li>
