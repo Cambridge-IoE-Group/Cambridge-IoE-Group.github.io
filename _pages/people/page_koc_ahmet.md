@@ -39,7 +39,7 @@ Ahmet Burak Kılıç received his B.Sc. degree in Electrical and Electronics Eng
 <h3>Publications</h3>
 
 1. A. B. Kilic and O. B. Akan, "Acoustic, VOC, and Multimodal Stress Source Localization in the Internet of Plants," submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026.
-2. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” under revision; submitted to MolCom 2026. 
+2. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” to appear in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026. 
 2. A. B. Kilic and O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” under revision; submitted to IEEE SECON 2026.
 3. A. B. Kilic and O. B. Akan, "Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,", arXiv, 2025.
 4. A. B. Kilic, F. E. Bilgen, and O.B. Akan, “Precision Farming with the Internet of Everything,” to appear in Precision Technologies for Digital Agriculture: IoT, Big Data, Crop Modeling, and AI for Agricultural Excellence, Edited by Shushil Kumar Himanshu, Hemendra Kumar, Santosh S. Palmate.
