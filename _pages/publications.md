@@ -38,6 +38,7 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 
 <ol class="pubs" reversed>
+  <li>A. B. Kilic, F. E. Bilgen, and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links," in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong> (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Masked Neural Detection for Run-Length-Limited Channel Coding in Molecular Communication," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
   <li>Z. Zhang and O. B. Akan, "Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space," to appear in <strong>Physical Communication</strong>, 2026.</li>
@@ -443,7 +444,6 @@ nav_order: 2
   <li>F. Merdan and O. B. Akan, "Odor Communication with Green Leaf Volatiles for Stress Signalling in the Internet of Plants," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, February 2026.</li>
   <li>F. Merdan and O. B. Akan, "Airborne Particle Communication Through Time-varying Diffusion-Advection Channels," submitted to <strong>IEEE Transactions on Communications</strong>, 2026.</li>
   <li>H. Dong and O. B. Akan, "Cramér–Rao Bounds for Magneto-Inductive Integrated Sensing and Communications," submitted to <strong>IEEE Wireless Communications Letters</strong>, February 2026.</li>
-  <li>A. B. Kilic, F. E. Bilgen, and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>B. Maitra and O. B. Akan, "Information Theoretic Modeling of Interspecies Molecular Communication," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>B. Maitra and O. B. Akan, "Modeling and Analysis of VOC-based Interplant Molecular Communication Channel," submitted to <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2025.</li>
   <li>O. T. Baydas and O. B. Akan, "Federated Learning for Terahertz Wireless Communication," 2025.</li>
