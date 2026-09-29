@@ -284,6 +284,7 @@ nav_order: 2
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 
 <ol class="pubs" reversed>
+  <li>E. Haciyanli, A. S. Okcu, M. Sahin, and O. B. Akan, "Influence of History in Federated Unlearning," in <strong>NeurIPS InfPriv Workshop: Beyond Private Training: The New Landscape of AI Privacy</strong>, 2026.</li>
   <li>Z. Wang, Y. Li, H. Wang, H. Cai, Q. Chen, R. Li, and O. B. Akan, "Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution," in <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2026.</li>
   <li>T. Xiao, G. Liu, Y. Li, H. Wang, H. Cai, R. Li, and O. B. Akan, "Personalized Safety in Federated Fine-Tuning of Large Language Models," in <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, and O. B. Akan, "Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling," in Proc. <strong>IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)</strong>, Athens, Greece, September 2026.</li>
