@@ -38,6 +38,7 @@ nav_order: 2
 ## <span class="section-title" id="journal-papers">Journal Papers</span>
 
 <ol class="pubs" reversed>
+  <li>H. Dong and O. B. Akan, "Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication," to appear in <strong>IEEE Transactions on Information Forensics and Security</strong>, 2026.</li>
   <li>A. B. Kilic, F. E. Bilgen, and O. B. Akan, "Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems," to appear in <strong>IEEE Transactions on Molecular, Biological, and Multi-Scale Communications</strong>, 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links," in <strong>IEEE Transactions on Aerospace and Electronic Systems</strong> (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.</li>
   <li>M. Sahin and O. B. Akan, "Masked Neural Detection for Run-Length-Limited Channel Coding in Molecular Communication," to appear in <strong>IEEE Communications Letters</strong>, 2026.</li>
@@ -284,6 +285,7 @@ nav_order: 2
 ## <span class="section-title" id="conference-papers">Conference Papers</span>
 
 <ol class="pubs" reversed>
+  <li>A. S. Okcu and O. B. Akan, "Budgeted Temporal Context Selection for Time Series Forecasting," in <strong>NeurIPS TS-LIMITS Workshop: Generalization for Time Series in Tight Settings: Latency, Inference, Memory, prIvacy and susTainability</strong>, 2026.</li>
   <li>E. Haciyanli, A. S. Okcu, M. Sahin, and O. B. Akan, "Influence of History in Federated Unlearning," in <strong>NeurIPS InfPriv Workshop: Beyond Private Training: The New Landscape of AI Privacy</strong>, 2026.</li>
   <li>Z. Wang, Y. Li, H. Wang, H. Cai, Q. Chen, R. Li, and O. B. Akan, "Utility-Driven Clustered Federated Learning via Class-wise Interaction Attribution," in <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2026.</li>
   <li>T. Xiao, G. Liu, Y. Li, H. Wang, H. Cai, R. Li, and O. B. Akan, "Personalized Safety in Federated Fine-Tuning of Large Language Models," in <strong>Advances in Neural Information Processing Systems (NeurIPS)</strong>, 2026.</li>
@@ -406,6 +408,8 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>F. E. Bilgen and O. B. Akan, "EPR Count for Runtime Prediction in Distributed Quantum Computing," submitted to <strong>International Conference on Quantum Communications, Networking, and Computing (QCNC)</strong>, September 2026.</li>
+  <li>H. Ni and O. B. Akan, "Reading While Writing: Baseline Information Requirements for Molecular Neural Interfaces," submitted to <strong>IEEE International Conference on Communications (ICC)</strong>, September 2026.</li>
   <li>L. Dianxin, J. S. Thompson, K. Meng, Z. Lin, H. Dong, T. O'Farrell, and O. B. Akan, "Channel Estimation Aware Port Selection Strategy for Fluid Antenna Systems," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, September 2026.</li>
   <li>H. Dong and O. B. Akan, "EACR: Estimator-Aware Coexistence Regions for Service-Equivalent ISAC Waveforms," submitted to <strong>IEEE Wireless Communications Letters</strong>, September 2026.</li>
   <li>J. Zhan, H. Cai, T. He, and O. B. Akan, "ORBIT: Online Robust Battery-Aware Scheduling for Collaborative VLM Inference over Solar-Powered LEO Satellite Networks," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, September 2026.</li>
@@ -437,7 +441,6 @@ nav_order: 2
   <li>H. Wang, L. Cao, and O. B. Akan, "Validation-Fixed Operating Points for Risk-Aware Sender Control on Volatile LEO Access Links," submitted to <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, April 2026.</li>
   <li>H. Wang and O. B. Akan, "Path-Level CSI Prediction and CRLB-Guided Delay–Doppler Domain Pre-Equalization for LEO Inter-Satellite Links," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, April 2026.</li>
   <li>D. Luan, C. Liang, J. Huang, Z. Lin, K. Meng, C.-X. Wang, J. Thompson, and O. B. Akan, "Hybrid Mamba-Attention Neural Architecture for Channel Estimation," submitted to <strong>IEEE Global Communications Conference (GLOBECOM)</strong>, April 2026.</li>
-  <li>H. Dong and O. B. Akan, "Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, March 2026.</li>
   <li>A. S. Okcu and O. B. Akan, "Physics-Informed Odor Source Localization with Molecular Communication," submitted to <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>, March 2026.</li>
   <li>A. S. Okcu, O. T. Baydas, and O. B. Akan, "Private and Robust Biochemical Sensing-Based Diagnostics for the Internet of Medical Things," March 2026.</li>
   <li>Z. Zhang, H. Feng, P. Song, and O. B. Akan, "Channel Cognitive Twins: Fusing Physics-Informed Digital Twins for Proactive THz Links in 6G Non-Terrestrial Networks," submitted to <strong>IEEE Transactions on Network Science and Engineering</strong>, March 2026.</li>
