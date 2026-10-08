@@ -408,6 +408,8 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>K. Li, H. Cai, Z. Liu, Y. Li, J. Alcaraz Calero, W. Ni, F. Dressler, and O. B. Akan, "Byzantine-Resilient Federated Large Language Model via Hypergraph Message Passing," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, October 2026.</li>
+  <li>H. Wang, L. Cao, and O. B. Akan, "QoS-Aware Beamformer Selection for LEO Satellite Rainbow Uplinks," submitted to <strong>IEEE Transactions on Communications</strong>, October 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "EPR Count for Runtime Prediction in Distributed Quantum Computing," submitted to <strong>International Conference on Quantum Communications, Networking, and Computing (QCNC)</strong>, September 2026.</li>
   <li>H. Ni and O. B. Akan, "Reading While Writing: Baseline Information Requirements for Molecular Neural Interfaces," submitted to <strong>IEEE International Conference on Communications (ICC)</strong>, September 2026.</li>
   <li>L. Dianxin, J. S. Thompson, K. Meng, Z. Lin, H. Dong, T. O'Farrell, and O. B. Akan, "Channel Estimation Aware Port Selection Strategy for Fluid Antenna Systems," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, September 2026.</li>
