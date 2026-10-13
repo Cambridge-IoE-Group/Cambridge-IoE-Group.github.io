@@ -69,6 +69,22 @@ nav_order: 6
         <div class="news-item">
             <div class="news-text">
                 <p>
+                    <strong>Haofan</strong> received the 
+                    <strong>Young Engineer Prize</strong> at the 
+                    <strong>European Microwave Conference (EuMC 2026)</strong>, European Microwave Week, London, UK, 
+                    for the paper “Ku-Band Satellite Signals for Rain Rate Estimation: Performance Limits and 215-Link Validation”, 
+                    <em>October 2026</em>.
+                </p>
+            </div>
+            <div class="thumb">
+                <img src="/assets/img/news/haofan_award.jpg">
+            </div>
+        </div>
+
+
+        <div class="news-item">
+            <div class="news-text">
+                <p>
                     <strong>Hanlin, Houtianfu and Haofan</strong> received an 
                     <strong>Honorary Mention Award</strong> in the 
                     <strong>2025 IEEE ComSoc Student Competition</strong> 
