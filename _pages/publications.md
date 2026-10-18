@@ -408,6 +408,9 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>Z. Gong, Z. Liu, H. Wang, O. T. Baydas, L. Cao, X. Xu, and O. B. Akan, "StarMind: Challenges and Opportunities in Orbital Computing," submitted to <strong>IEEE Communications Magazine</strong>, October 2026.</li>
+  <li>O. T. Baydas, H. Wang, H. Dong, and O. B. Akan, "Scintillation Channel Neural Operator for Ionospheric Disturbances on Space-Earth Communication Links," submitted to <strong>IEEE Transactions on Communications</strong>, October 2026.</li>
+  <li>O. T. Baydas and O. B. Akan, "Resolution Blind Spots of Fourier Layers: Covert Poisoning and Information-Theoretic Limits of Validation," submitted to <strong>IEEE Journal on Selected Areas in Information Theory</strong>, October 2026.</li>
   <li>K. Li, H. Cai, Z. Liu, Y. Li, J. Alcaraz Calero, W. Ni, F. Dressler, and O. B. Akan, "Byzantine-Resilient Federated Large Language Model via Hypergraph Message Passing," submitted to <strong>IEEE Transactions on Information Forensics and Security</strong>, October 2026.</li>
   <li>H. Wang, L. Cao, and O. B. Akan, "QoS-Aware Beamformer Selection for LEO Satellite Rainbow Uplinks," submitted to <strong>IEEE Transactions on Communications</strong>, October 2026.</li>
   <li>F. E. Bilgen and O. B. Akan, "EPR Count for Runtime Prediction in Distributed Quantum Computing," submitted to <strong>International Conference on Quantum Communications, Networking, and Computing (QCNC)</strong>, September 2026.</li>
