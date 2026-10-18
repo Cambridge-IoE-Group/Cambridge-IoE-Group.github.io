@@ -43,7 +43,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/haofan">Haofan Dong</a></p>
-      <p>Third-year PhD Student, University of Cambridge, UK</p>
+      <p>Fourth-year PhD Student, University of Cambridge, UK</p>
       <p>Email: hd489[at]cam.ac.uk</p>
 
   - align: left
@@ -52,7 +52,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/hongbin">Hongbin Ni</a></p>
-      <p>Third-year PhD Student, University of Cambridge, UK</p>
+      <p>Fourth-year PhD Student, University of Cambridge, UK</p>
       <p>Email: hn345[at]cam.ac.uk</p>
 
   - align: left
@@ -61,7 +61,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/zhengyang">Zhengyang Zhang</a></p>
-      <p>Third-year PhD Student, University of Cambridge, UK</p>
+      <p>Fourth-year PhD Student, University of Cambridge, UK</p>
       <p>Email: zz420[at]cam.ac.uk</p>
 
   - align: left
@@ -70,7 +70,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/shaojie">Shaojie Zhang</a></p>
-      <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Third-year PhD Student, University of Cambridge, UK</p>
       <p>Email: sz466[at]cam.ac.uk</p>
 
   - align: left
@@ -79,7 +79,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/tansel">Osman Tansel Baydas</a></p>
-      <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Third-year PhD Student, University of Cambridge, UK</p>
       <p>Email: otb26[at]cam.ac.uk</p>
 
   - align: left
@@ -88,7 +88,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/sila">Ayse Sila Okcu</a></p>
-      <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Third-year PhD Student, University of Cambridge, UK</p>
       <p>Email: aso32[at]cam.ac.uk</p>
 
   - align: left
@@ -97,7 +97,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/houtianfu">Houtianfu Wang</a></p>
-      <p>Second-year PhD Student, University of Cambridge, UK</p>
+      <p>Third-year PhD Student, University of Cambridge, UK</p>
       <p>Email: hw680[at]cam.ac.uk	</p>
 
   - align: left
@@ -106,7 +106,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/hanlin">Hanlin Cai</a></p>
-      <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Second-year PhD Student, University of Cambridge, UK</p>
       <p>Email:hc663[at]cam.ac.uk</p>
 
   - align: left
@@ -115,7 +115,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/melih">Melih Sahin</a></p>
-      <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Second-year PhD Student, University of Cambridge, UK</p>
       <p>Email: ms3195[at]cam.ac.uk</p>
 
   - align: left
@@ -124,8 +124,17 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href="https://oba.eco/people/fatih">Fatih Efe Bilgen</a></p>
-      <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Second-year PhD Student, University of Cambridge, UK</p>
       <p>Email:feb49[at]cam.ac.uk</p>
+
+  - align: left
+    image: sude.jpg
+    content: people/about_METU_sude.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="https://oba.eco/people/METU_sude/">Sude Özcan</a></p>
+      <p>First-year PhD Student, University of Cambridge, UK</p>
+      <p>Email: so512[at]cam.ac.uk</p>
 
   # - align: left
   #   image: dilara.jpg
@@ -162,15 +171,6 @@ profiles:
       <p><a href="https://oba.eco/people/bogazici_boran/">Boran Aybak Kilic</a></p>
       <p>Fourth-year Undergraduate Student, Boğaziçi University, Turkey</p>
       <p>Email: boran.kilic[at]std.bogazici.edu.tr</p>
-
-  - align: left
-    image: sude.jpg
-    content: people/about_METU_sude.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><a href="https://oba.eco/people/METU_sude/">Sude Özcan</a></p>
-      <p>Fourth-year Undergraduate Student, Middle East Technical University, Turkey</p>
-      <p>Email: so512[at]cam.ac.uk</p>
 
 # add new member here
 ---

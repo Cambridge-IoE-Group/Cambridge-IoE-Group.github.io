@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hongbin Ni
-description: Third-year PhD Student, University of Cambridge, UK
+description: Fourth-year PhD Student, University of Cambridge, UK
 permalink: /people/hongbin/
 nav: false
 ---

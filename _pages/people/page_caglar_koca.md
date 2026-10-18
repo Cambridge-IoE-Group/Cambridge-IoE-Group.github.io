@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caglar Koca
-description: PhD Student, University of Cambridge, UK
+description: PhD, University of Cambridge, UK
 permalink: /people/caglar/
 nav: false
 ---

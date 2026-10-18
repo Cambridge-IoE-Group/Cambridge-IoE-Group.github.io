@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fatih Efe Bilgen
-description: PhD Student, University of Cambridge, UK
+description: Second-year PhD Student, University of Cambridge, UK
 permalink: /people/fatih/
 nav: false
 ---

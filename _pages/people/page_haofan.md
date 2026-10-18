@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Haofan Dong
-description: Third-year PhD Student, University of Cambridge, UK
+description: Fourth-year PhD Student, University of Cambridge, UK
 permalink: /people/haofan/
 nav: false
 ---

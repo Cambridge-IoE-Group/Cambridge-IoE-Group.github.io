@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sude Özcan
-description: Fourth-year Undergraduate Student, Middle East Technical University, Turkey
+description: First-year PhD Student, University of Cambridge, UK
 permalink: /people/METU_sude/
 nav: false
 ---
@@ -24,7 +24,7 @@ nav: false
 </div>
 
 
-Sude Özcan completed her high school education in İstanbul Capa Science High School and she is a fourth-year student pursuing a B.Sc. degree in Electrical and Electronics Engineering at Middle East Technical University (METU), Ankara, Turkey. She is currently an undergraduate researcher in the Centre for neXt Communications (CXC) under the supervision of Prof. Dr.  Ozgur Baris Akan. Her research focuses on molecular and wireless communication systems, with a particular interest in modeling neurological diseases as end-to-end communication channels. She works on stochastic modeling, diffusion-based molecular communication channels, and synaptic-scale accumulation models that can enable early detection and intervention. 
+Sude Özcan completed her high school education in Istanbul Capa Science High School and received her B.Sc. degree in Electrical and Electronics Engineering from Middle East Technical University (METU), Ankara, Turkey. She is currently a Ph.D. student in the Department of Engineering at the University of Cambridge, under the supervision of Prof. Ozgur Baris Akan. Her research focuses on molecular and wireless communication systems, with a particular interest in modeling neurological diseases as end-to-end communication channels. She works on stochastic modeling, diffusion-based molecular communication channels, and synaptic-scale accumulation models that can enable early detection and intervention.
 
 
 <br>
@@ -35,10 +35,11 @@ Sude Özcan completed her high school education in İstanbul Capa Science High S
 - Wireless Communication
 - Stochastic Modeling of Neural Systems
 - Internet of Everything (IoE)
+- Bioelectronics
 
 <br>
 
-<h3>Publications</h3>
+<h3>Conference Papers</h3>
 
 1. M. Metin, S. Özcan, A. B. Yıldırım, S. Baghaee, E. Uysal, and A. H. E. Osunluk, “Duty Cycle Compatible Fresh Data Tranmission with LoRa,” in 33rd IEEE Conference on Signal Processing and Communications Applications (SIU 2025), İstanbul, Türkiye, 2025, doi: 10.1109/SIU66497.2025.11112205.
 
@@ -48,6 +49,6 @@ Sude Özcan completed her high school education in İstanbul Capa Science High S
 
 <h3>Submitted Papers</h3>
 
-1. S. Özcan and O. B. Akan, “Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics,” submitted to IEEE Transactions on NanoBioscience, 2026.
+1. S. Özcan and O. B. Akan, “A Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics,” submitted to IEEE Transactions on NanoBioscience, May 2026.
 
 <br>

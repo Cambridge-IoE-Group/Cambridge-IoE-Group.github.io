@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Houtianfu Wang
-description: Second-year PhD Student, University of Cambridge, UK
+description: Third-year PhD Student, University of Cambridge, UK
 permalink: /people/houtianfu/
 nav: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Melih Sahin
-description: First-year PhD Student, University of Cambridge, UK
+description: Second-year PhD Student, University of Cambridge, UK
 permalink: /people/melih/
 nav: false
 ---

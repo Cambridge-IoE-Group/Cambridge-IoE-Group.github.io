@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ayse Sila Okcu
-description: Second-year PhD Student, University of Cambridge, UK
+description: Third-year PhD Student, University of Cambridge, UK
 permalink: /people/sila/
 nav: false
 ---

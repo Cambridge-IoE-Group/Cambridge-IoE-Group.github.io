@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shaojie Zhang
-description: Second-year PhD Student, University of Cambridge, UK
+description: Third-year PhD Student, University of Cambridge, UK
 permalink: /people/shaojie/
 nav: false
 ---
