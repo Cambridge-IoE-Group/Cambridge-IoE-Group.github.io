@@ -39,16 +39,16 @@ Sude Özcan completed her high school education in Istanbul Capa Science High Sc
 
 <br>
 
+<h3>Journal Papers</h3>
+
+1. S. Özcan and O. B. Akan, “A Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics,” IEEE Transactions on NanoBioscience (Early Access), doi: 10.1109/TNB.2026.3746027, 2026.
+
+<br>
+
 <h3>Conference Papers</h3>
 
 1. M. Metin, S. Özcan, A. B. Yıldırım, S. Baghaee, E. Uysal, and A. H. E. Osunluk, “Duty Cycle Compatible Fresh Data Tranmission with LoRa,” in 33rd IEEE Conference on Signal Processing and Communications Applications (SIU 2025), İstanbul, Türkiye, 2025, doi: 10.1109/SIU66497.2025.11112205.
 
 2. M. Metin, S. Özcan, A. B. Yıldırım, S. Baghaee, & E. Uysal, “LoRaFRESH: AoI Optimization in Duty Cycle-Constrained LoRa-Based IoT Networks,” in 2025 12th Advanced Satellite Multimedia Systems Conference and the 18th Signal Processing for Space Communications Workshop (ASMS SPSC), 2025. (conference presentation)
-
-<br>
-
-<h3>Submitted Papers</h3>
-
-1. S. Özcan and O. B. Akan, “A Molecular Communication Channel Model for Early Epileptic Seizure Detection via Synaptic Glutamate Dynamics,” submitted to IEEE Transactions on NanoBioscience, May 2026.
 
 <br>

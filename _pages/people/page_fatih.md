@@ -37,7 +37,7 @@ Fatih Efe Bilgen is a Ph.D. candidate in Engineering at the University of Cambri
 
 <h3>Journal Papers</h3>
 
-1. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” to appear in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026.
+1. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 1125–1129, Sep. 2026.
 2. F. E. Bilgen and O. B. Akan, “Continuous Blood Monitoring with Particle-based Integrated Sensing and Communication (ISAC),” IEEE Nanotechnology Magazine (Early Access), 2026. doi: 10.1109/MNANO.2026.3706272.
 3. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, vol. 27, no. 4, pp. 2658–2692, Aug. 2025. doi: 10.1109/COMST.2024.3487472.
 4. F. E. Bilgen, A. B. Kilic, and O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-Based Molecular Communication,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 11, no. 1, pp. 1–12, Mar. 2025. doi: 10.1109/TMBMC.2024.3460708.

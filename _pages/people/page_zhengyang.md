@@ -38,8 +38,9 @@ Mr. Zhengyang Zhang joined the Centre for neXt Communications (CXC) as a PhD stu
 
 <h3>Publications</h3>
 
-1. Z. Zhang, O. B. Akan, “Analysis of Terahertz Communication Under Dust Storm Conditions on Mars,” IEEE Communications Letters, vol. 29, no. 2, pp. 388–392, February 2025.
-2. Z. Zhang, S. Liu, S. M. Goetz, and O. B. Akan, “Novel Improvement of Least Mean Square Adaptive Algorithm for Non-monotonic Systems,” Optics Express, 2024.
+1. Z. Zhang and O. B. Akan, “Performance of Channel Codes for Terahertz Wireless Communications in the Internet of Space,” Physical Communication, vol. 79, pp. 103302, October 2026.
+2. Z. Zhang, O. B. Akan, “Analysis of Terahertz Communication Under Dust Storm Conditions on Mars,” IEEE Communications Letters, vol. 29, no. 2, pp. 388–392, February 2025.
+3. Z. Zhang, S. Liu, S. M. Goetz, and O. B. Akan, “Novel Improvement of Least Mean Square Adaptive Algorithm for Non-monotonic Systems,” Optics Express, 2024.
 
 <br>
 

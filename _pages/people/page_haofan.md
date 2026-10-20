@@ -38,11 +38,14 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 <h3>Publications</h3>
 
-1. H. Wang, H. Dong, H. Cai and O. B. Akan, “Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances,” to appear in IEEE Transactions on Aerospace and Electronic Systems, 2026.
-2. O. T. Baydas, H. Dong, and O. B. Akan, “Symmetry Enforced Phase State Communication in Chiral Magnonics,” to appear in IEEE Communications Letters, 2026.
-3. H. Dong and O. B. Akan, “Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC,” IEEE Wireless Communications Letters (Early Access), May 2026, doi: 10.1109/LWC.2026.3697114, 2026.
-4. H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” IEEE Internet of Things Journal (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.
-5. H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” to appear in IEEE Transactions on Wireless Communications (Early Access), doi: 10.1109/TWC.2025.3572276, 2025.
+1. H. Dong and O. B. Akan, “Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication,” to appear in IEEE Transactions on Information Forensics and Security, 2026.
+2. H. Dong, H. Wang, H. Cai, and O. B. Akan, “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2,” Publications of the Astronomical Society of Australia (PASA), vol. 43, pp. e111, September 2026.
+3. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.
+4. H. Wang, H. Dong, H. Cai and O. B. Akan, “Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances,” to appear in IEEE Transactions on Aerospace and Electronic Systems, 2026.
+5. O. T. Baydas, H. Dong, and O. B. Akan, “Symmetry Enforced Phase State Communication in Chiral Magnonics,” to appear in IEEE Communications Letters, 2026.
+6. H. Dong and O. B. Akan, “Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC,” IEEE Wireless Communications Letters (Early Access), May 2026, doi: 10.1109/LWC.2026.3697114, 2026.
+7. H. Dong and O. B. Akan, “Martian Dust Storm Detection with THz Opportunistic Integrated Sensing and Communication in the Internet of Space (IoS),” IEEE Internet of Things Journal (Early Access), doi: 10.1109/JIOT.2025.3624590, 2025.
+8. H. Dong and O. B. Akan, “DebriSense: THz-based Integrated Sensing and Communications (ISAC) for Debris Detection and Classification in the Internet of Space (IoS),” to appear in IEEE Transactions on Wireless Communications (Early Access), doi: 10.1109/TWC.2025.3572276, 2025.
 
 <br>
 
@@ -56,14 +59,13 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 <h3>Submitted Papers</h3>
 
-1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2,” submitted to Publications of the Astronomical Society of Australia (PASA), Manuscript ID: PAS-2026-0104, 2026.
-2. H. Dong and O. B. Akan, “MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments,” submitted to IEEE Communications Magazine, 2026.
-3. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Network Science and Engineering, 2026.
-4. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
-5. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
-6. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
-7. H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to IEEE Journal on Selected Areas in Communications, Manuscript ID: JSAC-00796-2025, 2025.
-8. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
+1. H. Dong and O. B. Akan, “MI-ISAC: Magneto-Inductive Integrated Sensing and Communication in the Reactive Near-Field for RF-Denied Environments,” submitted to IEEE Communications Magazine, 2026.
+2. H. Cai, K. Li, H. Wang, H. Dong, Y. Li, F. Dressler, and O. B. Akan, “Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs,” submitted to IEEE Transactions on Network Science and Engineering, 2026.
+3. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels,” submitted to IEEE Transactions on Wireless Communications, 2025.
+4. H. Cai, H. Dong, O. B. Akan, et al., “Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,” submitted to the IEEE International Conference on Communications (ICC) 2026, 2025.
+5. H. Dong and O. B. Akan, “Fundamental Limits of THz Inter-Satellite ISAC Under Hardware Impairments,” submitted to IEEE Transactions on Wireless Communications, 2025.
+6. H. Dong and O. B. Akan, “MASC: Integrated Sensing and Communications for the Martian Internet of Space,” submitted to IEEE Journal on Selected Areas in Communications, Manuscript ID: JSAC-00796-2025, 2025.
+7. H. Cai, H. Wang, H. Dong, O. B. Akan, “Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision,” 2025.
 
 
 <br>
