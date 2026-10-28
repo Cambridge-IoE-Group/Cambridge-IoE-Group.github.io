@@ -37,4 +37,7 @@ Fatih Merdan completed his high school education at Kırıkkale Science High Sch
 
 <h3>Publications</h3>
 
+1. F. Merdan and O. B. Akan, “Airborne Particle Communication Through Time-varying Diffusion-Advection Channels,” to appear in IEEE Transactions on Communications, 2026.
+2. F. Merdan and O. B. Akan, “An Acoustic Communication Model in Plants,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (Early Access), doi: 10.1109/TMBMC.2026.3717168, 2026.
+
 <br>
