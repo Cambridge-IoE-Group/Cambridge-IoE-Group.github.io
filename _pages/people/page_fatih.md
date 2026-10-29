@@ -59,7 +59,7 @@ Fatih Efe Bilgen is a Ph.D. candidate in Engineering at the University of Cambri
 
 <h3>Book Chapters</h3>
 
-1. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Precision Farming with the Internet of Everything,” to appear in Precision Technologies for Digital Agriculture: IoT, Big Data, Crop Modeling, and AI for Agricultural Excellence, Edited by Shushil Kumar Himanshu, Hemendra Kumar, Santosh S. Palmate, 2026.
+1. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Precision farming with the Internet of Everything,” in Precision Technologies for Digital Agriculture: Harnessing IoT, Big Data, Crop Modeling, and AI for Agricultural Production, Edited by S. K. Himanshu, H. Kumar, and P. K. Gupta, Academic Press, 2027.
 
 <br>
 

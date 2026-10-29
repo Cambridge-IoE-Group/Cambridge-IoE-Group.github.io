@@ -253,6 +253,7 @@ nav_order: 2
 ## <span class="section-title" id="book-chapters">Book Chapters</span>
 
 <ol class="pubs" reversed>
+  <li>A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Precision farming with the Internet of Everything,” in <strong>Precision Technologies for Digital Agriculture: Harnessing IoT, Big Data, Crop Modeling, and AI for Agricultural Production</strong>, Edited by S. K. Himanshu, H. Kumar, and P. K. Gupta, Academic Press, 2027.</li>
   <li>M. Civas, T. Yilmaz, O. B. Akan, “Terahertz Band Intersatellite Communication Links,” in <strong>Next Generation Wireless Terahertz Communication Networks</strong>, Edited by S. Ghafoor, M. H. Rehmani, A. Davy, CRC Press, 2021.</li>
   <li>T. Khan, M. Civas, O. Cetinkaya, N. A. Abbasi, O. B. Akan, “Nanosensor Networks for Smart Health Care,” in <strong>Nanosensors for Smart Cities</strong>, Edited by B. Han, V. Tomer, T. Nguyen, A. Farmani, P. K. Singh, Elsevier, 2019.</li>
   <li>T. Yilmaz, N. A. Abbasi, and O. B. Akan, “Millimeter-Wave 5G-Enabled Internet of Things,” in <strong>5G-Enabled Internet of Things</strong>, Edited by Y. Wu, H. Huang, C.-X. Wang, Y. Pan, CRC Press, 2019.</li>
