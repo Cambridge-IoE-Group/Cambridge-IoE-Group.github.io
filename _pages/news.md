@@ -69,6 +69,22 @@ nav_order: 6
         <div class="news-item">
             <div class="news-text">
                 <p>
+                    <strong>Haofan</strong> was awarded 
+                    <strong>Second Prize</strong> at the 
+                    <strong>Global PhD Student Forum at Shanghai Jiao Tong University</strong> 
+                    for his presentation “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2” in the Intelligent Computing and Empowerment Parallel Forum, 
+                    <em>October 2026</em>.
+                </p>
+            </div>
+            <div class="thumb">
+                <img src="/assets/img/news/haofan_sjtu_award.webp">
+            </div>
+        </div>
+
+
+        <div class="news-item">
+            <div class="news-text">
+                <p>
                     <strong>Haofan</strong> received the 
                     <strong>Young Engineer Prize</strong> at the 
                     <strong>European Microwave Conference (EuMC 2026)</strong>, European Microwave Week, London, UK, 
