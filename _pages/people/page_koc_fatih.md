@@ -35,9 +35,23 @@ Fatih Merdan completed his high school education at Kırıkkale Science High Sch
 
 <br>
 
-<h3>Publications</h3>
+<h3>Journal Papers</h3>
 
 1. F. Merdan and O. B. Akan, “Airborne Particle Communication Through Time-varying Diffusion-Advection Channels,” to appear in IEEE Transactions on Communications, 2026.
-2. F. Merdan and O. B. Akan, “An Acoustic Communication Model in Plants,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (Early Access), doi: 10.1109/TMBMC.2026.3717168, 2026.
+2. F. Merdan and O. B. Akan, “An Acoustic Communication Model in Plants,” in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 777-788, 2026, doi: 10.1109/TMBMC.2026.3717168.
+
+<br>
+
+<h3>Workshops / Poster Presentations</h3>
+
+1. F. Merdan and O. B. Akan, “Intrinsic MIMO Particle Communication Channel with Random Advection,” in 10th International Workshop on Molecular Communications, Istanbul, Türkiye, Apr. 2026.
+
+<br>
+
+<h3>Submitted Papers</h3>
+
+1. F. Merdan and O. B. Akan, “Digital Particle Communication under Flow: Frequency Analysis and Pulse Design,” submitted to IEEE Transactions on Communications, October 2026.
+2. A. B. Kilic, F. Merdan, and O. B. Akan, “Information and Communication Theoretical Foundations of Plant Communication: Mechanisms, Models, and Empirical Approaches,” submitted to IEEE Communications Surveys and Tutorials, June 2026.
+3. F. Merdan and O. B. Akan, “Odor Communication with Green Leaf Volatiles for Stress Signalling in the Internet of Plants,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, February 2026.
 
 <br>
