@@ -412,6 +412,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>Z. Zhang and O. B. Akan, "Dual-Functional FMCW Waveform and Hybrid Beam Design for Terahertz Space Debris Sensing and Inter-Satellite Communications," submitted to <strong>IEEE Transactions on Communications</strong>, November 2026.</li>
   <li>S. Zhang and O. B. Akan, "A Particle-Based Multiuser Communication with a Budget Limit," submitted to <strong>IEEE Transactions on Communications</strong>, November 2026.</li>
   <li>A. S. Basol, A. S. Okcu, and O. B. Akan, "Neural-Inspired Receptor for ISI Mitigation in Diffusion Based Molecular Communication," submitted to <strong>IEEE Transactions on NanoBioscience</strong>, October 2026.</li>
   <li>L. Liu, A. S. Okcu, and O. B. Akan, "Time-Resolved Full-Spectrum Decoding for Quasi-BIC Metasurface Biosensing," submitted to <strong>IEEE Sensors Journal</strong>, October 2026.</li>
