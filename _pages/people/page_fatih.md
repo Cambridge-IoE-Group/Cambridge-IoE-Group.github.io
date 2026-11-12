@@ -46,7 +46,7 @@ Fatih Efe Bilgen is a Ph.D. candidate in Engineering at the University of Cambri
 
 <h3>Conference Papers</h3>
 
-1. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflecting Surfaces (IoIRS),” to appear in Proc. IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), Singapore, Sep. 2026.
+1. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflecting Surfaces (IoIRS),” in Proc. IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), Singapore, Sep. 2026.
 2. F. E. Bilgen and O. B. Akan, “Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants,” in Proc. ACM NanoCom 2024, Milan, Italy, Oct. 2024. doi: 10.1145/3686015.3689365.
 
 <br>
@@ -65,7 +65,7 @@ Fatih Efe Bilgen is a Ph.D. candidate in Engineering at the University of Cambri
 
 <h3>Submitted Papers</h3>
 
-1. A. B. Kilic, F. E. Bilgen, A. Z. Babar, and O. B. Akan, “Sustainable and Precision Agriculture with the Internet of Everything (IoE),” submitted to Computers and Electronics in Agriculture, July 2026.
+1. F. E. Bilgen and O. B. Akan, “EPR Count for Runtime Prediction in Distributed Quantum Computing,” submitted to International Conference on Quantum Communications, Networking, and Computing (QCNC), September 2026.
 
 <br>
 

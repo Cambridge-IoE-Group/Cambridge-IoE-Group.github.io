@@ -37,7 +37,10 @@ Melih Sahin is a Ph.D. student in Engineering at the University of Cambridge. He
 
 <h3>Publications</h3>
 
-1. M. Sahin, B. E. Ortlek, O. B. Akan, “Molecular Arithmetic Coding (MoAC) and Optimized Molecular Prefix Coding (MoPC) for Diffusion-Based Molecular Communication,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 66–77, March 2025.
+1. M. Sahin and O. B. Akan, “Masked Neural Detection for Run-Length-Limited Channel Coding in Molecular Communication,” to appear in IEEE Communications Letters, 2026.
+2. M. Sahin and O. B. Akan, “Run-Length-Limited ISI-Mitigation (RLIM) Coding for Molecular Communication,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 376-387, 2026.
+3. E. Haciyanli, A. S. Okcu, M. Sahin, and O. B. Akan, “Influence of History in Federated Unlearning,” in NeurIPS InfPriv Workshop: Beyond Private Training: The New Landscape of AI Privacy, 2026.
+4. M. Sahin, B. E. Ortlek, O. B. Akan, “Molecular Arithmetic Coding (MoAC) and Optimized Molecular Prefix Coding (MoPC) for Diffusion-Based Molecular Communication,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 66–77, March 2025.
 
 <br>
 

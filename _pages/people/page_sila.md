@@ -39,22 +39,27 @@ Ayse Sila Okcu received her B.Sc. degree in Electrical and Electronics Engineeri
 
 <h3>Publications</h3>
 
-1. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
+1. A. S. Okcu, M. E. Bas, and O. B. Akan, “Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (Early Access), doi: 10.1109/TMBMC.2026.3719283, 2026.
+2. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
 
 <br>
 
 <h3>Conference Papers</h3>
 
-1. A. S. Okcu, O. T. Baydas, and O. B. Akan, “Certified Characterization of Privacy, Participation, and Convergence in Over-the-Air Federated Learning,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
-2. O. T. Baydas, A. S. Okcu, and O. B. Akan, “Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
-3. A. S. Okcu and O. B. Akan, “PLOS-RS: Probabilistic Localization of Odor Sources via Random Search,” in Proc. IEEE INFOCOM 2026, Tokyo, Japan, May 2026.
-4. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflective Surfaces (IoIRS),” in Proc. IEEE PIMRC, Singapore, September 2026.
-5. A. S. Okcu, M. E. B., and O. B. Akan, “Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles,” in Proc. 10th International Workshop on Molecular Communications, Istanbul, Turkey, April 2026.
+1. A. S. Okcu and O. B. Akan, “Budgeted Temporal Context Selection for Time Series Forecasting,” in NeurIPS TS-LIMITS Workshop: Generalization for Time Series in Tight Settings: Latency, Inference, Memory, prIvacy and susTainability, 2026.
+2. E. Haciyanli, A. S. Okcu, M. Sahin, and O. B. Akan, “Influence of History in Federated Unlearning,” in NeurIPS InfPriv Workshop: Beyond Private Training: The New Landscape of AI Privacy, 2026.
+3. A. S. Okcu, O. T. Baydas, and O. B. Akan, “Certified Characterization of Privacy, Participation, and Convergence in Over-the-Air Federated Learning,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
+4. O. T. Baydas, A. S. Okcu, and O. B. Akan, “Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
+5. A. S. Okcu and O. B. Akan, “PLOS-RS: Probabilistic Localization of Odor Sources via Random Search,” in Proc. IEEE INFOCOM 2026, Tokyo, Japan, May 2026.
+6. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflective Surfaces (IoIRS),” in Proc. IEEE PIMRC, Singapore, September 2026.
+7. A. S. Okcu, M. E. B., and O. B. Akan, “Physical Limits of Proximal Tumor Detection via MAGE-A Extracellular Vesicles,” in Proc. 10th International Workshop on Molecular Communications, Istanbul, Turkey, April 2026.
 
 <br>
 
 <h3>Submitted Papers</h3>
 
-1. A. S. Okcu, O. B. Akan, “Smell of Source: Learning-Based Odor Source Localization with Molecular Communication,” 2025.
+1. A. S. Basol, A. S. Okcu, and O. B. Akan, “Neural-Inspired Receptor for ISI Mitigation in Diffusion Based Molecular Communication,” submitted to IEEE Transactions on NanoBioscience, October 2026.
+2. L. Liu, A. S. Okcu, and O. B. Akan, “Time-Resolved Full-Spectrum Decoding for Quasi-BIC Metasurface Biosensing,” submitted to IEEE Sensors Journal, October 2026.
+3. A. S. Okcu, O. B. Akan, “Smell of Source: Learning-Based Odor Source Localization with Molecular Communication,” 2025.
 
 <br>

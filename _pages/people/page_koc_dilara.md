@@ -37,8 +37,10 @@ Dilara Aktas received her BS degree in Electronics and Communication Engineering
 
 <h3>Publications</h3>
 
-1. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
-2. D. Aktas, O. B. Akan, “Weight Shift Keying (WSK) with Practical Mechanical Receivers for Molecular Communications in Internet of Everything,” IEEE Journal on Selected Areas in Communications, vol. 40, no. 11, pp. 3285–3294, October 2022.
-3. D. Aktas, O. B. Akan, “A Mechanical Transduction-Based Molecular Communication Receiver for Internet of Nano Things (IoNT),” in Proc. ACM NanoCom 2021, Virtual Conference, September 2021.
+1. D. Aktas and O. B. Akan, “Flexure-FET-Based Receiver with Competitive Binding for Interference Mitigation in Molecular Communication,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 542-551, 2026, doi: 10.1109/TMBMC.2026.3690065.
+2. D. Aktas and O. B. Akan, “A Cylindrical Nanowire Array-Based Flexure-FET Receiver for Molecular Communication,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 412-421, 2026, doi: 10.1109/TMBMC.2026.3671270.
+3. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
+4. D. Aktas, O. B. Akan, “Weight Shift Keying (WSK) with Practical Mechanical Receivers for Molecular Communications in Internet of Everything,” IEEE Journal on Selected Areas in Communications, vol. 40, no. 11, pp. 3285–3294, October 2022.
+5. D. Aktas, O. B. Akan, “A Mechanical Transduction-Based Molecular Communication Receiver for Internet of Nano Things (IoNT),” in Proc. ACM NanoCom 2021, Virtual Conference, September 2021.
 
 <br>

@@ -41,8 +41,8 @@ Dr. Beyza Ezgi Örtlek completed her high school education at Ankara Fen Lisesi 
 
 <h3>Publications</h3>
 
-1. B. E. Ortlek and O. B. Akan, "Gut-Brain Axis as a Closed-Loop Molecular Communication Network," to appear in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2025.
-2. B. E. Ortlek and O. B. Akan, "Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication," in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, doi: 10.1109/TMBMC.2025.3585798.
+1. B. E. Ortlek and O. B. Akan, "Gut-Brain Axis as a Closed-Loop Molecular Communication Network," in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 422-433, 2026, doi: 10.1109/TMBMC.2026.3673609.
+2. B. E. Ortlek and O. B. Akan, "Modeling and Analysis of SCFA-Driven Vagus Nerve Signaling in the Gut-Brain Axis via Molecular Communication," in IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 11, no. 4, pp. 588-599, July 2025, doi: 10.1109/TMBMC.2025.3585798.
 3. M. Sahin, B. E. Ortlek and O. B. Akan, "Molecular Arithmetic Coding (MoAC) and Optimized Molecular Prefix Coding (MoPC) for Diffusion-Based Molecular Communication," in IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 66-77, March 2025, doi: 10.1109/TMBMC.2024.3476197.
 4. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. S. Okcu, M. Whitfield, O. Cetinkaya, O. B. Akan, "Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions," in IEEE Communications Surveys and Tutorials, vol. 27, no. 4, pp. 2658-2692, Aug. 2025, doi: 10.1109/COMST.2024.3487472.
 5. M. Civas, M. Kuscu, O. Cetinkaya, B. E. Ortlek, O. B. Akan, "Graphene and Related Materials for the Internet of Bio-Nano Things," APL Materials, vol. 11, no. 8, pp. 080901, August 2023, https://doi.org/10.1063/5.0153423.

@@ -40,12 +40,12 @@ Ahmet Burak Kılıç received his B.Sc. degree in Electrical and Electronics Eng
 
 1. A. B. Kilic and O. B. Akan, "Acoustic, VOC, and Multimodal Stress Source Localization in the Internet of Plants," submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, 2026.
 2. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, vol. 12, pp. 1125–1129, September 2026.
-2. A. B. Kilic and O. B. Akan, “Physics-Informed Multi-Modal Localization of Stressed Plants in the Internet of Plants,” under revision; submitted to IEEE SECON 2026.
-3. A. B. Kilic and O. B. Akan, "Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,", arXiv, 2025.
-4. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Precision farming with the Internet of Everything,” in Precision Technologies for Digital Agriculture: Harnessing IoT, Big Data, Crop Modeling, and AI for Agricultural Production, Edited by S. K. Himanshu, H. Kumar, and P. K. Gupta, Academic Press, 2027.
-5. A. B. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.
-6. F. E. Bilgen, A. B. Kilic, O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-based Molecular Communication,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 1–12, March 2025.
-7. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
+3. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Channel Modeling and Experimental Validation of Odor-Based Molecular Communication Systems,” in 10th International Workshop on Molecular Communications, Istanbul, Türkiye, Apr. 2026.
+4. A. B. Kilic and O. B. Akan, "Information and Communication Theoretical Foundations of the Internet of Plants, Principles, Challenges, and Future Directions,", arXiv, 2025.
+5. A. B. Kilic, F. E. Bilgen, and O. B. Akan, “Precision farming with the Internet of Everything,” in Precision Technologies for Digital Agriculture: Harnessing IoT, Big Data, Crop Modeling, and AI for Agricultural Production, Edited by S. K. Himanshu, H. Kumar, and P. K. Gupta, Academic Press, 2027.
+6. A. B. Kilic, and O. B. Akan, “End-to-End Mathematical Modeling of Stress Communication Between Plants,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (Early Access), doi: 10.1109/TMBMC.2025.3626218, 2025.
+7. F. E. Bilgen, A. B. Kilic, O. B. Akan, “Odor Perceptual Shift Keying (OPSK) for Odor-based Molecular Communication,” IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 11, no. 1, pp. 1–12, March 2025.
+8. D. Aktas, B. E. Ortlek, M. Civas, E. Baradari, A. B. Kilic, F. E. Bilgen, A. S. Okcu, M. Whitfield, O. Cetinkaya, and O. B. Akan, “Odor-Based Molecular Communications: State-of-the-Art, Vision, Challenges, and Frontier Directions,” IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2024.3487472, 2024.
 
 
 <br>

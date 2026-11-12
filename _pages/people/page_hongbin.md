@@ -46,4 +46,9 @@ Hongbin Ni received his BEng degree in Mechatronic Engineering from the Universi
 
 <h3>Submitted Papers</h3>
 
+1. H. Ni and O. B. Akan, “Reading While Writing: Baseline Information Requirements for Molecular Neural Interfaces,” submitted to IEEE International Conference on Communications (ICC), September 2026.
+2. H. Ni, H. Dong, and O. B. Akan, “Reliability Limits and Decoding for Partial Nanopore Protein Rereads With Persistent State,” submitted to IEEE Transactions on Communications, August 2026.
+3. H. Ni and O. B. Akan, “MC-BRIDGE: A Modular Receiver-Chain Simulation Framework for OECT-Based Molecular Communication,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, July 2026.
+4. H. Ni and O. B. Akan, “A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces,” submitted to IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, April 2026.
+
 <br>
