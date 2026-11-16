@@ -412,6 +412,7 @@ nav_order: 2
 
 <!-- Ordering: reverse-chronological by submission date (newest submissions at the top), mirroring the CXC publications page. -->
 <ol class="pubs" reversed>
+  <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Adaptive Latency-Power Prioritization with RIS-Aided Multi-Hop Multi-Path Sidelink in 6G V2X," submitted to <strong>IEEE Transactions on Green Communications and Networking</strong>, November 2026.</li>
   <li>Z. Zhang and O. B. Akan, "Dual-Functional FMCW Waveform and Hybrid Beam Design for Terahertz Space Debris Sensing and Inter-Satellite Communications," submitted to <strong>IEEE Transactions on Communications</strong>, November 2026.</li>
   <li>S. Zhang and O. B. Akan, "A Particle-Based Multiuser Communication with a Budget Limit," submitted to <strong>IEEE Transactions on Communications</strong>, November 2026.</li>
   <li>A. S. Basol, A. S. Okcu, and O. B. Akan, "Neural-Inspired Receptor for ISI Mitigation in Diffusion Based Molecular Communication," submitted to <strong>IEEE Transactions on NanoBioscience</strong>, October 2026.</li>
@@ -430,7 +431,6 @@ nav_order: 2
   <li>Z. Zhang and O. B. Akan, "A Robust THz Interface Docking Framework Based on Near-Field ISAC Sensing and Robotic Control," submitted to <strong>IEEE Transactions on Mobile Computing</strong>, September 2026.</li>
   <li>S. Zhang and O. B. Akan, "Inter-Organ Molecular Communication: A Survey of Message Identification and Task-Oriented Signal Reproduction," submitted to <strong>IEEE Communications Surveys and Tutorials</strong>, September 2026.</li>
   <li>K. Li, Z. Zhang, A. Pourkabirian, W. Ni, F. Dressler, and O. B. Akan, "Towards Resilient Federated Learning in CyberEdge Networks: Recent Advances and Future Trends," submitted to <strong>Artificial Intelligence Review</strong>, September 2026.</li>
-  <li>L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, "Controllable Latency-Power Trade-offs in 6G Low-Altitude V2X: Adaptive Multi-Hop Multi-Path Sidelink Scheduling," submitted to <strong>IEEE Transactions on Cognitive Communications and Networking</strong>, August 2026.</li>
   <li>H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, "Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
   <li>H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, "Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links," submitted to <strong>IEEE Transactions on Wireless Communications</strong>, August 2026.</li>
   <li>H. Ni, H. Dong, and O. B. Akan, "Reliability Limits and Decoding for Partial Nanopore Protein Rereads With Persistent State," submitted to <strong>IEEE Transactions on Communications</strong>, August 2026.</li>

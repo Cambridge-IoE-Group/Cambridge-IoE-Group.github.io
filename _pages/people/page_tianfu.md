@@ -52,10 +52,10 @@ Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024.
 
 <h3>Submitted Papers</h3>
 
-1. Z. Gong, Z. Liu, H. Wang, O. T. Baydas, L. Cao, X. Xu, and O. B. Akan, “StarMind: Challenges and Opportunities in Orbital Computing,” submitted to IEEE Communications Magazine, October 2026.
-2. O. T. Baydas, H. Wang, H. Dong, and O. B. Akan, “Scintillation Channel Neural Operator for Ionospheric Disturbances on Space-Earth Communication Links,” submitted to IEEE Transactions on Communications, October 2026.
-3. H. Wang, L. Cao, and O. B. Akan, “QoS-Aware Beamformer Selection for LEO Satellite Rainbow Uplinks,” submitted to IEEE Transactions on Communications, October 2026.
-4. L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, “Controllable Latency-Power Trade-offs in 6G Low-Altitude V2X: Adaptive Multi-Hop Multi-Path Sidelink Scheduling,” submitted to IEEE Transactions on Cognitive Communications and Networking, August 2026.
+1. L. Cao, Y. Yang, Z. Gong, H. Wang, L. Zhang, and O. B. Akan, “Adaptive Latency-Power Prioritization with RIS-Aided Multi-Hop Multi-Path Sidelink in 6G V2X,” submitted to IEEE Transactions on Green Communications and Networking, November 2026.
+2. Z. Gong, Z. Liu, H. Wang, O. T. Baydas, L. Cao, X. Xu, and O. B. Akan, “StarMind: Challenges and Opportunities in Orbital Computing,” submitted to IEEE Communications Magazine, October 2026.
+3. O. T. Baydas, H. Wang, H. Dong, and O. B. Akan, “Scintillation Channel Neural Operator for Ionospheric Disturbances on Space-Earth Communication Links,” submitted to IEEE Transactions on Communications, October 2026.
+4. H. Wang, L. Cao, and O. B. Akan, “QoS-Aware Beamformer Selection for LEO Satellite Rainbow Uplinks,” submitted to IEEE Transactions on Communications, October 2026.
 5. H. Dong, H. Wang, H. Cai, O. T. Baydas, and O. B. Akan, “Active–Passive Spectrum Coexistence via Power Textures for Astronomical-Signal Identifiability,” submitted to IEEE Transactions on Wireless Communications, August 2026.
 6. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Fence-and-Flash: Sequential ISAC for Probabilistic LEO Debris Characterization over Inter-Satellite Links,” submitted to IEEE Transactions on Wireless Communications, August 2026.
 7. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Deadline-Bound Finite-Object Delivery over Intermittent LEO Satellite Contact Plans under Residual-Service Accounting,” submitted to IEEE Transactions on Mobile Computing, June 2026.
