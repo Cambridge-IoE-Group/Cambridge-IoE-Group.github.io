@@ -69,6 +69,22 @@ nav_order: 6
         <div class="news-item">
             <div class="news-text">
                 <p>
+                    <strong>Haofan, Houtianfu, Hanlin, and Tansel</strong> received an 
+                    <strong>Honorary Mention Award</strong> in the 
+                    <strong>2026 IEEE ComSoc Student Competition</strong> 
+                    for their project “RainLink: Satellite Links as Flood-Warning Sensors”, 
+                    <em>November 2026</em>.
+                </p>
+            </div>
+            <div class="thumb">
+                <img src="/assets/img/news/ieee_comsoc_logo.png">
+            </div>
+        </div>
+
+
+        <div class="news-item">
+            <div class="news-text">
+                <p>
                     <strong>Haofan</strong> was awarded 
                     <strong>Second Prize</strong> at the 
                     <strong>Global PhD Student Forum at Shanghai Jiao Tong University</strong> 
