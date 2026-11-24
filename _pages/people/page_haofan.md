@@ -38,9 +38,9 @@ Haofan Dong joined the Centre for neXt Communications (CXC) at the University of
 
 <h3>Publications</h3>
 
-1. H. Dong and O. B. Akan, “Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication,” to appear in IEEE Transactions on Information Forensics and Security, 2026.
+1. H. Dong and O. B. Akan, “Fisher Information Limits of Satellite RF Fingerprint Identifiability for Authentication,” IEEE Transactions on Information Forensics and Security, vol. 21, pp. 9710-9722, November 2026.
 2. H. Dong, H. Wang, H. Cai, and O. B. Akan, “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2,” Publications of the Astronomical Society of Australia (PASA), vol. 43, pp. e111, September 2026.
-3. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.
+3. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 17856-17870, September 2026, doi: 10.1109/TAES.2026.3729948.
 4. H. Wang, H. Dong, H. Cai and O. B. Akan, “Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances,” IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 13348-13360, 2026.
 5. O. T. Baydas, H. Dong, and O. B. Akan, “Symmetry Enforced Phase State Communication in Chiral Magnonics,” IEEE Communications Letters (Early Access), doi: 10.1109/LCOMM.2026.3709218, 2026.
 6. H. Dong and O. B. Akan, “Distortion Is Not Noise: On the Limits of the Kappa Model for Monostatic ISAC,” IEEE Wireless Communications Letters, vol. 15, pp. 3284-3288, 2026, doi: 10.1109/LWC.2026.3697114.

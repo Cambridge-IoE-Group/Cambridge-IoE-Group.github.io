@@ -41,7 +41,7 @@ Houtianfu Wang (Tiff) joined University of Cambridge as a Ph.D. student in 2024.
 <h3>Publications</h3>
 
 1. H. Dong, H. Wang, H. Cai, and O. B. Akan, “A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2,” Publications of the Astronomical Society of Australia (PASA), vol. 43, pp. e111, September 2026.
-2. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.
+2. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 17856-17870, September 2026, doi: 10.1109/TAES.2026.3729948.
 3. H. Wang, H. Dong, H. Cai and O. B. Akan, “Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances,” IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 13348-13360, 2026.
 4. H. Dong, H. Wang, H. Cai, and O. B. Akan, “Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling,” in Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC), Athens, Greece, September 2026.
 5. H. Cai, H. Dong, H. Wang, K. Li, S. Zou, and O. B. Akan, “Graph Representation-Based Model Poisoning on the Heterogeneous Internet of Agents,” in Proc. 22nd IEEE International Wireless Communications & Mobile Computing Conference (IWCMC), Shanghai, China, June 2026.

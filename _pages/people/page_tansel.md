@@ -39,7 +39,7 @@ O. Tansel Baydas joined Cambridge as a Ph.D. student in 2024. He received his B.
 
 <h3>Publications</h3>
 
-1. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems (Early Access), doi: 10.1109/TAES.2026.3729948, 2026.
+1. H. Wang, O. T. Baydas, H. Cai, H. Dong, and O. B. Akan, “Payload Deadline Proxy Characterization for Isolated Transfers over LEO RF and Optical Access Links,” IEEE Transactions on Aerospace and Electronic Systems, vol. 62, pp. 17856-17870, September 2026, doi: 10.1109/TAES.2026.3729948.
 2. O. T. Baydas, H. Dong, and O. B. Akan, “Symmetry Enforced Phase State Communication in Chiral Magnonics,” IEEE Communications Letters (Early Access), doi: 10.1109/LCOMM.2026.3709218, 2026.
 3. F. E. Bilgen, A. S. Okcu, O. T. Baydas, and O. B. Akan, “Internet of Intelligent Reflective Surfaces (IoIRS),” in Proc. IEEE PIMRC, Singapore, September 2026.
 4. O. T. Baydas, A. S. Okcu, and O. B. Akan, “Graph-Localized Offline Federated Multi-Agent Reinforcement Learning for Wireless Networks,” in ICML AI4NextG Workshop: AI and ML for Next-Generation Wireless Communications and Networking, Seoul, South Korea, July 2026.
