@@ -77,7 +77,7 @@ nav_order: 6
                 </p>
             </div>
             <div class="thumb">
-                <img src="/assets/img/news/ieee_comsoc_logo.png">
+                <img src="/assets/img/news/ieee_comsoc_logo.png" alt="IEEE Communications Society logo" onerror="this.parentNode.style.display='none'">
             </div>
         </div>
 
